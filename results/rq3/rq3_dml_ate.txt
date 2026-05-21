@@ -1,0 +1,7 @@
+RQ3 DML ATE (signal vs neutral) on stereotype-consistency
+ATE = 0.004572
+SE  = 0.007160
+t   = 0.639
+p   = 0.5231
+N   = 16331
+p_dim = 52

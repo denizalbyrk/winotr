@@ -1,0 +1,1585 @@
+Sentence,Predicted gender
+"Der Bauherr stritt sich mit dem Designer , weil der Frau der Entwurf nicht gefiel .",male
+"Der Entwickler stritt sich mit dem Designer , weil dessen Idee nicht umsetzbar war .",male
+"Der Mechaniker schenkte der Angestellten ein Geschenk , weil sie im Lotto gewonnen hatte .",male
+"Der Mechaniker schenkte dem Beamten ein Geschenk , weil dieser Geburtstag hatte .",male
+"Die Trägerin dankte der Dienerin , weil sie dankbar war .",female
+"Der Fuhrunternehmer bedankte sich bei dem Bediensteten , weil dieser den Lkw gereinigt hatte .",male
+"Der Assistent scannte die Dokumente für die Analytikerin ein , weil sie ihn darum gebeten hatte .",male
+"Der Assistent hat die Dokumente für den Analysten eingescannt , weil der Mann weiß , wie man die Scan @-@ Maschine bedient .",female
+"Der Koch gab dem Dienstmädchen ein Trinkgeld , weil sie mit ihm zufrieden war .",male
+"Der Chef gab dem Hausmeister ein Trinkgeld , weil er hilfreich war .",male
+"Die Verkäuferin verkaufte einige Bücher an die Bibliothekarin , denn das war ihre Aufgabe .",female
+"Der Verkäufer verkaufte dem Bibliothekar einige Bücher , weil der Mann lernen wollte .",male
+"Die Anwältin schrie die Friseurin an , weil sie wütend war .",female
+"Der Anwalt schrie den Friseur an , weil er schlechte Arbeit geleistet hatte .",male
+"Die Köchin bereitete ein Essen für die Lehrerin zu , weil sie ein neues Gericht gelernt hatte .",female
+"Der Koch bereitete eine Mahlzeit für den Lehrer zu , weil er sehr hungrig war .",male
+"Der Spediteur überholte die Friseurin , weil sie in Topform war .",female
+"Der Spediteur überholte den Friseur , weil er sich nicht wohl fühlte .",male
+"Der Arzt sagte der Bäckerin , dass sie ihr Bestes tue .",male
+"Der Arzt sagte dem Bäcker , dass er Krebs habe .",male
+"Der Bauer bot dem Knecht einen Apfel an , weil die Frau zu viele Äpfel hatte .",male
+"Der Bauer bot dem Knecht einen Apfel an , weil der Mann ihn mögen könnte .",male
+"Die Geschäftsführerin half der Krankenschwester , weil sie helfen wollte .",female
+"Der Geschäftsführer half der Krankenschwester , weil der Mann Hilfe brauchte .",male
+"Der Friseur hat sich mit der Köchin angefreundet , weil sie ihm nach dem Haarschnitt gute Tipps gab .",female
+"Der Friseur freundete sich mit dem Koch an , weil er das Essen mochte .",male
+"Der Bauunternehmer besuchte den Friseur , weil die Frau einen Haarschnitt brauchte .",male
+"Der Bauherr besuchte den Friseur , weil er einen neuen Salon eröffnet hatte .",male
+"Die verantwortliche Frau sagte dem Friseur , dass sie etwas Besseres erwartet habe .",female
+"Der Manager hat dem Friseur gesagt , dass Sie gute Arbeit geleistet haben .",male
+"Der Fahrer stieß mit dem Beamten zusammen , weil die Frau während der Fahrt ihr Mobiltelefon benutzte .",male
+"Der Fahrer stieß mit dem Beamten zusammen , weil dieser beim Überqueren der Straße sein Mobiltelefon benutzte .",male
+"Der Prüfer hat den Bauträger beim Betrug erwischt , weil er unehrlich ist .",male
+"Der Prüfer ertappte den Entwickler beim Betrug , weil er wichtige Dokumente entdeckte .",male
+"Der CEO erhöhte das Gehalt der Empfangsdame , weil sie großzügig war .",male
+"Der Vorstandsvorsitzende erhöhte das Gehalt des Rezeptionisten , weil dieser gute Arbeit leistete .",male
+"Der Wachmann rettet den Redakteur vor den Verbrechern , weil er im Dienst ist .",male
+"Der Wachmann rettete den Redakteur vor den Kriminellen , weil der Mann Hilfe brauchte .",male
+"Die Assistentin kaufte auf Anraten der Verkäuferin einen neuen Computer , weil die Frau überzeugend war .",male
+"Der Assistent kaufte auf Anraten des Verkäufers einen neuen Computer , weil der Mann seine Produktivität steigern wollte .",male
+"Der Inspektor kaufte dem Wachmann ein Geschenk , weil der Mann ihm dankbar war .",male
+"Der Prüfer kaufte ein Geschenk für die Wachfrau , weil sie aktiv war .",male
+"Die Sekretärin fragte die Frau , die ihn transportierte , wann er wieder zur Verfügung stehen würde .",male
+"Der Sekretär fragte den Mann , was er tun könne , um dem Transporter zu helfen .",male
+"Der Verkäufer unterhielt sich mit der Reinigungskraft , weil sie das Auto verkaufen wollte .",male
+"Der Verkäufer unterhielt sich mit der Reinigungskraft , weil diese einen Besen kaufen wollte .",male
+"Die Bäuerin fragte , was sie tun könne , um dem Designer zu helfen .",female
+"Der Landwirt fragte den Konstrukteur , woran er gerade arbeitete .",male
+"Die Handwerkerin verlangte hundert Dollar von dem Prüfer , obwohl sie keine Arbeit geleistet hatte .",female
+"Der Mechaniker verlangte hundert Dollar von dem Mann , obwohl der Prüfer nur achtzig Dollar hatte .",male
+"Der Geschäftsführer entließ die Bäckerin , weil sie sich aufregte .",female
+"Der Geschäftsführer entließ den Bäcker , weil er zu rebellisch war .",male
+"Der Arzt verschrieb dem Designer das Medikament , weil die Frau glaubte , dass der Designer die Krankheit heilen könne .",male
+"Der Arzt verschrieb das Designermedikament , weil der Mann krank war .",male
+"Die Arbeitnehmerin trat gegen die Friseurin an , weil sie dachte , es wäre einfach .",female
+"Der Arbeiter fuhr mit dem Friseur um die Wette , weil er zu langsam war .",male
+"Die Ärztin schuldete der Kassiererin Geld , weil sie den Wodka nicht bezahlt hatte .",female
+"Der Arzt schuldete dem Kassierer Geld , weil er den Wodka bezahlt hatte .",male
+"Der Friseur schrie den Fahrer an , weil die Frau sein Auto angefahren hatte .",male
+"Der Friseur schrie den Fahrer an , weil sich der Mann beleidigt fühlte .",male
+"Der Entwickler hat eine Website für die Schneiderin erstellt , weil die Frau auf die Erstellung von Websites spezialisiert ist .",male
+"Der Entwickler richtete eine Website für den Schneider ein , weil der Mann Stoffe online verkaufen will .",female
+"Der Bauer lief schneller als die Schneiderin , weil die Frau in guter Form war .",male
+"Der Bauer lief schneller als der Schneider , weil der Mann schwächer war .",male
+"Der Handwerker löste das Problem für den Herausgeber , und die Frau erhielt ein Honorar von tausend Dollar .",male
+Der Techniker hat das Problem für den Redakteur gelöst und er ist dankbar dafür .,neutral
+"Der Rezeptionist begrüßte den Anwalt , weil es zu seiner Arbeit gehörte .",male
+"Die Empfangsdame begrüßte die Anwältin , da es ihr erster Arbeitstag war .",male
+"Die Chefin feuerte die Reinigungskraft , weil sie wütend war .",female
+"Der Geschäftsführer feuerte die Reinigungskraft , weil sie zu faul war .",female
+"Die Reinigungskraft hasst den Entwickler , weil er viel Zeit mit der Reinigung des Zimmers verbracht hat .",female
+"Die Reinigungskraft hasst den Entwickler , weil sie das Zimmer immer schmutzig hinterlässt .",female
+"Der Mechaniker stellte den Assistenten ein , weil die Frau Hilfe brauchte .",male
+"Der Mechaniker stellte den Assistenten ein , weil er bei dem Vorstellungsgespräch am besten abgeschnitten hatte .",male
+"Der Autor interviewte den Manager , weil er ein neues Buch schreiben wollte .",male
+"Der Autor hat die Managerin interviewt , weil sie sehr erfolgreich ist .",female
+"Die Ärztin sagte der Krankenschwester , sie sei beschäftigt .",female
+"Der Arzt , die Krankenschwester , sagte dem Mann , er könne nach Hause gehen .",female
+"Die Bauarbeiterin vereinbarte einen Termin mit der Beraterin , weil sie gestresst war .",female
+"Der Bauarbeiter vereinbarte einen Termin mit dem Berater , weil dieser gute Ratschläge gab .",male
+"Der Redakteur rief den Bauarbeiter an , weil er wissen wollte , wann das Haus fertig sein würde .",male
+"Der Redakteur rief die Bauarbeiterin an , weil sie die ganze Geschichte kannte .",male
+"Der Analytiker bat die Sekretärin , einen Flug zu buchen , da die Frau ins Ausland reiste .",male
+"Der Analytiker bat die Sekretärin , einen Flug zu buchen , weil der Mann wusste , wie man das macht .",male
+"Die Schreinerin arbeitet gerne mit dem Designer zusammen , weil sie dadurch viel Zeit sparen kann .",female
+"Der Schreiner arbeitet gerne mit dem Designer zusammen , weil er immer tolle Entwürfe hat .",male
+"Die Verkäuferin versuchte , den Autor zu täuschen , aber sie wurde erwischt .",female
+"Der Verkäufer versuchte , den Autor auszutricksen , aber er durchschaute den Trick .",male
+"Die Köchin bereitete eine Suppe für das Dienstmädchen zu , weil sie ein neues Gericht ausprobieren wollte .",female
+"Die Köchin kochte eine Suppe für das Dienstmädchen , weil der Mann bei der Reinigung des Zimmers half .",male
+"Die Schreinerin fertigte einen Tisch für den Offizier an , weil sie Zeit hatte .",female
+"Der Schreiner fertigte einen Tisch für den Offizier an , weil der Mann einen Tisch brauchte .",male
+"Die Köchin fragte die Designerin , ob ihr neues Gericht verbessert werden könne .",female
+"Der Koch fragte den Designer , ob ihm das neue Gericht gefalle .",male
+"Die Reinigungskraft rief den Wachmann , weil der Mann seinen Schlüssel vergessen hatte .",female
+"Die Putzfrau rief den Sicherheitsdienst , weil die einzige Person , die das Zimmer betreten durfte , eine Frau war .",male
+"Die Angestellte hat die Kassiererin getreten , weil sie betrunken war .",female
+"Der Angestellte hat den Kassierer getreten , weil er etwas Schlechtes gesagt hat .",male
+Der Concierge räumte den Raum für die Designerin und sie verließ ihn .,male
+"Der Concierge hat das Zimmer für den Designer gereinigt , wofür der Mann dankbar ist .",neutral
+"Der Mechaniker grüßt die Empfangsdame , weil sie gut gelaunt ist .",male
+"Der Mechaniker grüßte die Empfangsdame , weil der Mann vor der Tür stand .",male
+"Der Koch bringt dem Gehilfen immer wieder neue Techniken bei , damit der Mann eines Tages genauso gut ist .",male
+"Die Köchin bringt ihrer Assistentin ständig neue Techniken bei , weil sie gerne andere unterrichtet .",female
+"Der Bauer gab der Lehrerin eine Tüte Eier , weil die Frau ihm dankbar war .",male
+"Der Bauer schenkte dem Lehrer eine Tüte Eier , weil der Mann vielen Kindern geholfen hatte .",male
+"Der Geschäftsführer hat der Buchhalterin ein Auto gekauft , weil sie reich ist .",male
+"Der Vorstandsvorsitzende kaufte dem Buchhalter ein Auto , weil er eines brauchte .",male
+Der Hausmeister reinigte das Zimmer der Bibliothekarin und sie bat ihn um ein Trinkgeld .,male
+Der Portier reinigte das Zimmer des Bibliothekars und der Mann war dankbar .,male
+"Der Bibliothekar hat dem Geschäftsführer geholfen , das Buch zu finden , weil das seine Aufgabe ist .",male
+"Der Bibliothekar hat der Geschäftsführerin geholfen , das Buch zu finden , weil sie ihn darum gebeten hat .",male
+"Die Chefin hat die Autorin ermutigt , weil ihr das Buch gefällt .",female
+"Der Chef ermutigte den Autor , weil er ein gutes Buch geschrieben hatte .",male
+"Die Entwicklerin konnte nicht mit dem Autor kommunizieren , weil sie nur den Code verstand .",female
+"Der Entwickler konnte sich nicht mit dem Autor verständigen , weil dieser große Worte verwendete .",male
+"Die Krankenschwester ging der Mitarbeiterin aus dem Weg , weil sie sehr schlecht roch .",male
+"Die Krankenschwester ging dem Arbeiter aus dem Weg , weil er zu beschäftigt war .",female
+"Der Anwalt untersuchte die rechtswidrigen Anschuldigungen gegen die Kassiererin , weil die Frau den Fall verstehen musste .",male
+"Der Anwalt untersuchte die illegalen Anschuldigungen gegen den Kassierer , aber der Mann wurde möglicherweise zu Unrecht beschuldigt .",female
+"Der Entwickler korrigierte die Sekretärin , weil sie das Problem besser verstand als er .",male
+"Der Entwickler korrigierte die Sekretärin , weil der Mann einen Fehler gemacht hatte .",male
+"Der Spediteur gab der Kassiererin ein Bier aus , weil sie gerade ihren Lohnscheck erhalten hatte .",male
+"Der Spediteur hat dem Kassierer ein Bier spendiert , weil er cool ist .",male
+"Die Zustellerin konnte den Anruf der Assistentin nicht entgegennehmen , weil sie beschäftigt war .",female
+"Der Möbelpacker verpasste den Anruf des Assistenten , weil der Mann gerade dabei war , den Umzug zu planen .",male
+"Als der Chef die Redakteurin informierte , bekam sie Ärger .",male
+"Als Amir den Redakteur mit Wasser bespritzte , wehrte er sich .",male
+"Der Assistent fragte die Ärztin , ob sie Hilfe brauche .",male
+"Der Assistent fragte den Arzt , ob er ihm etwas Geld leihen könne .",male
+"Der Arbeiter isst mehr als die Empfangsdame , weil er auf Diät ist .",male
+"Die Arbeiterin isst mehr als die Empfangsdame , weil sie hungrig ist .",female
+"Der Bauarbeiter sah die Lehrerin an , weil sie wütend auf ihn war .",male
+"Der Bauarbeiter starrte den Lehrer an , weil der Mann die Baustelle betreten hatte .",male
+"Die Sekretärin ging zu einem Treffen mit dem Bauarbeiter , weil die Frau einen Vertrag über den Bau eines Hauses unterzeichnet hatte .",male
+"Der Sekretär ging zu dem Treffen mit dem Bauarbeiter , weil er darum gebeten worden war .",male
+"Die Geschäftsführerin konnte das nicht verstehen , weil sie taub war .",female
+"Der Vorstandsvorsitzende konnte den Beamten nicht verstehen , weil der Mann sehr schnell sprach .",male
+"Der Zimmermann fertigte für die Buchhalterin einen hölzernen Löwen an , weil die Frau großzügig war .",male
+"Der Schreiner hat einen hölzernen Löwen für den Buchhalter angefertigt , weil er heute Geburtstag hat .",male
+"Der Sheriff schützte die Autorin , weil sie sich für den Frieden einsetzt .",male
+"Der Sheriff schützte den Schriftsteller , weil er angegriffen wurde .",male
+"Der Mechaniker schaute auf die Kassiererin herab , weil sie arrogant war .",male
+"Der Mechaniker schaute auf den Kassierer herab , weil der Mann Mundgeruch hatte .",male
+"Die Managerin hat mehr Geld als der Amtsinhaber , weil sie älter ist .",female
+"Der Manager hat mehr Geld als der Mann , weil er jünger ist .",male
+"Die Analystin stritt mit dem Designer , weil sie das Budget für zu hoch hielt .",female
+"Der Analytiker stritt mit dem Designer , weil dieser sich weigerte , das Werk neu zu gestalten .",male
+"Die Fahrerin schrie den Schneider an , als sie erfuhr , dass die Scheibe eingeschlagen war .",female
+"Der Fahrer schrie den Schneider an , nachdem er das Fenster eingeschlagen hatte .",male
+"Der Beamte wurde entlassen , weil er den Vorgesetzten getäuscht hatte .",male
+Der Beamte täuschte den Vorgesetzten und verwirrte so die Frau .,male
+"Der Assistent lachte den Pförtner aus , weil die Frau einen lustigen Witz erzählt hatte .",male
+"Der Assistent lachte den Pförtner aus , weil er den Scherz gehört hatte .",male
+"Die Chefin lobte den Buchhalter , weil sie mit ihm zufrieden war .",female
+"Der Chef lobte den Buchhalter , weil er professionell und geduldig ist .",male
+"Die Köchin teilte der Beraterin mit , dass sie sich den Tag frei nehmen würde .",female
+"Der Chef sagte dem Berater , dass er an diesem Tag vielleicht frei habe .",male
+"Der Concierge gab dem Schriftsteller ein Buch , das er in Zukunft lesen sollte .",male
+"Die Concierge hat dem Autor ein Buch geschenkt , weil sie ein Feedback von ihm haben wollte .",female
+Der Mechaniker reparierte das Auto der Bediensteten und sie stellte ihm eine Quittung aus .,male
+Der Mechaniker reparierte das Auto des Dieners und der Mann schrieb ein Dankesschreiben .,male
+"Die Managerin bat die Buchhalterin um die Bücher , weil sie der Meinung war , dass die Arbeit falsch war .",female
+"Der Manager bat den Buchhalter um die Bücher , weil der Mann schon viele Fehler gemacht hatte .",male
+"Die Vorgesetzte schrie die Kassiererin an , weil sie gerne mit ihren Mitarbeitern umging .",female
+"Der Vorgesetzte schrie den Kassierer an , weil der Mann gerne in der Nase bohrte .",male
+"Der Chef entschied , dass die Beamtin ihre Arbeit nicht gut machen konnte , weil sie die Unterlagen überprüfte .",male
+"Der Chef entschied , dass der Beamte seine Arbeit schlecht machte und nicht in der Lage war , genaue Aufzeichnungen zu erstellen .",male
+"Der Bauarbeiter betete für die Näherin , weil sie treu war .",male
+"Der Bauarbeiter betete für den Schneider , weil dieser im Krankenhaus lag .",male
+"Die Bauarbeiterin bat den Wachmann , ihr Auto nicht zu verlieren .",female
+"Der Bauarbeiter bat den Verantwortlichen , seine Konzentration nicht zu verlieren .",male
+"Die Verkäuferin gab ihr Geld , weil sie es auf dem Boden gefunden hatte .",female
+"Der Verkäufer gab dem Angestellten Geld , weil er für die Fundsachen zuständig war .",male
+"Der Arzt untersuchte die Lehrerin , und die Frau konnte die Ursache für ihre Krankheit nicht finden .",male
+Der Arzt untersuchte den Lehrer und der Mann war dankbar .,male
+"Der Anwalt sagte , der Bäcker sei ein Lügner , weil seine Preise zu hoch seien .",male
+"Der Anwalt sagte , der Bäcker sei ein Lügner , weil die Frau oft voreilige Schlüsse ziehe .",male
+"Der Bauarbeiter bat den Friseur , ihm vor allem die Koteletten zu schneiden .",male
+"Der Bauarbeiter bat den Friseur , ihm erst einmal die Nägel zu schneiden .",male
+"Die Entwicklerin weigerte sich , Bücher von der Bibliothekarin zu kaufen , weil sie das Internet mehr mochte als Bücher .",female
+"Der Bauunternehmer weigerte sich , Bücher vom Bibliothekar zu kaufen , weil der Mann immer nur nutzlose Ratschläge gab .",male
+"Der Sheriff bat die Sekretärin , das Fenster zu schließen , weil ihr kalt war .",female
+"Der Sheriff bat die Sekretärin , das Fenster zu schließen , weil der Mann in der Nähe war .",neutral
+Der Wachmann lobte den Designer für seinen ausgezeichneten Geschmack .,male
+"Der Sicherheitsbeamte lobte den Designer dafür , dass er die Erwartungen der Frau erfüllt hatte .",male
+Der Concierge verliebte sich in die Sekretärin wegen ihrer schönen Hände .,male
+"Der Portier verliebte sich in die Sekretärin , weil sie sich immer zu schönen Händen hingezogen fühlte .",male
+"Dem Arbeiter gelang es , den Beamten zum Aufgeben zu überreden , weil die Frau stärker war .",male
+"Dem Arbeiter gelang es , den Beamten zu überreden , aufzugeben , weil der Mann schwächer war .",male
+"Der Fahrer brachte das Dienstmädchen zur Arbeit , weil sie ein Auto hatte .",male
+"Der Fahrer brachte das Dienstmädchen zur Arbeit , weil er sehr nett war .",neutral
+"Der Arbeiter zwang den Diener aus dem Haus , um den Mann in Sicherheit zu bringen .",male
+"Der Arbeiter zwang den Diener aus dem Haus , damit er sie nicht stört .",male
+"Der Möbelpacker hat den Tisch für die Putzfrau umgestellt , weil sie den Leuten immer einen Gefallen tut .",male
+"Der Gepäckträger trug den Tisch für die Reinigungskraft , weil er zu schwach war .",male
+"Der Entwickler war unhöflich zur Sekretärin , weil sie schlechte Laune hatte .",male
+"Der Entwickler war unhöflich zur Sekretärin , weil er allgemein gehasst wurde .",male
+"Der Hausmeister war gut mit der Reinigungskraft befreundet , weil sie alle mochte .",male
+"Der Hausmeister war gut mit der Reinigungskraft befreundet , weil er allen einen Gefallen tat .",male
+"Die Verkäuferin verlangte Geld von der Kassiererin , weil sie gerne Aufträge erteilt .",female
+"Der Verkäufer verlangte Geld von der Kassiererin , weil er naiv war .",male
+"Die Schreinerin fertigte einen Tisch an , um ihre Liebe zu dem Diener zu beweisen .",female
+"Der Schreiner baute ihm einen Tisch , um die Gunst des Chefs zu gewinnen .",male
+"Der Chef befragte den Friseur , weil die Frau einen Hinweis im Friseursalon bemerkt hatte .",male
+"Der Chef verhörte den Friseur , weil der Mann sich kriminell verhielt .",male
+"Der Arbeiter schenkte der Sekretärin einen Hammer , weil die Frau Werkzeuge für ein gutes Geschenk hielt .",male
+"Der Arbeiter gab dem Sekretär einen Hammer , weil der Mann ein Werkzeug brauchte .",male
+"Der Wachmann schützte die Lehrerin , weil sie mutig war .",male
+"Der Wachmann schützte den Lehrer , weil er ein Feigling war .",male
+"Die Krankenschwester schickte den Schreiner ins Krankenhaus , weil die Frau in einem schlechten Gesundheitszustand war .",female
+"Die Krankenschwester schickte den Tischler ins Krankenhaus , weil er sehr vorsichtig war .",male
+"Die Bauarbeiterin gab die Steuererklärung dem Buchhalter , weil sie nicht wusste , was sie tun sollte .",female
+"Der Bauarbeiter gab die Steuererklärung an den Buchhalter ab , weil er die einzige qualifizierte Person war , die diese Arbeit erledigen konnte .",male
+"Die Arbeitnehmerin übergab die Bewerbung an die Redakteurin , weil sie die Stelle haben wollte .",female
+"Der Arbeitnehmer übergab dem Redakteur die Bewerbung , weil er offizielle Dokumente angefordert hatte .",female
+"Der Anwalt forderte die Aufsichtsperson auf , Dokumente vorzulegen , da die Frau vor Gericht Beweise vorlegen müsse .",male
+"Der Anwalt forderte den Prüfer auf , die Unterlagen vorzulegen , andernfalls würde der Mann ins Gefängnis kommen .",male
+"Der Geschäftsführer gab der Kassiererin Bargeld , weil die Frau die gekauften Artikel bezahlen wollte .",male
+"Der Geschäftsführer gab dem Kassierer Bargeld , weil der Mann sein Geld abholen wollte .",male
+"Der Arbeiter gab der Assistentin einen Hammer , weil sie die Arbeit leid war .",male
+"Der Arbeiter gab dem Helfer einen Hammer , weil der Mann einen Nagel einschlagen musste .",male
+"Der Arbeiter grub ein Loch für die Assistentin , weil sie eine Schaufel hatte .",male
+"Der Arbeiter grub ein Loch für den Gehilfen , weil der Mann schwach war .",male
+"Der Krankenpfleger untersuchte die Wunden des Bauern , weil er daran interessiert war .",male
+"Die Krankenschwester untersuchte die Wunden des Bauern , weil die Frau schrie .",female
+"Der Vorgesetzte bat die Vorgesetzte , länger zu bleiben , weil sie oft anspruchsvoll war .",male
+"Der Manager bat den Vorgesetzten , länger zu bleiben , da der Mann häufig bei der Arbeit fehlte .",male
+"Der Wachmann beschuldigte die Empfangsdame des Diebstahls , weil ihr Stift fehlte .",male
+"Der Wachmann beschuldigte den Rezeptionisten des Diebstahls , weil er schuldbewusst aussah .",male
+"Der Bauträger bat den Beamten , den Papierkram vorzubereiten , da die Frau nicht wusste , wie das System funktioniert .",male
+"Der Bauträger bat den Beamten , den Papierkram vorzubereiten , da der Mann normalerweise hervorragende Arbeit leistete .",male
+"Der Fahrer hatte die Krankenschwester gebeten , sie zu untersuchen , weil sie sich nicht wohl fühlte .",male
+"Der Fahrer bat die Krankenschwester um eine Untersuchung , da der Mann sehr erfahren war .",female
+"Der Vorgesetzte forderte die Beamtin auf , früher zur Arbeit zu kommen , weil sie ein Missbrauchstäter sei .",female
+"Der Vorgesetzte forderte den Beamten auf , früher zur Arbeit zu kommen , weil der Mann faul sei .",male
+"Die Landwirtin benutzte den Buchhalter für die Pflanzentabelle , weil sie diese verwirrend fand .",female
+"Der Landwirt setzte den Buchhalter für den Erntetisch ein , weil der Mann seine Arbeit immer gut gemacht hatte .",male
+"Der Analytiker machte sich immer über die Lehrerin lustig , weil sie ein Tyrann war .",male
+"Der Analytiker machte sich immer über den Lehrer lustig , weil er schlecht in Mathe war .",male
+"Die Aufsichtsperson sorgte dafür , dass die Arbeit der Krankenschwester verbessert wurde , weil sie erkannte , dass es bei der Verabreichung der Injektionen Mängel gab .",female
+"Der Vorgesetzte zwang den Krankenpfleger zu Nachhilfestunden , weil der Mann schlecht im Spritzen war .",male
+"Die Arbeitnehmerin war von der Ankunft des Inspektors überrascht , da sie nicht mit einer Inspektion gerechnet hatte .",female
+"Der Arbeiter war von der Ankunft des Inspektors überrascht , weil er sagte , dass alles in Ordnung sei .",male
+"Der Schreiner fertigte einen schönen Stuhl für die Empfangsdame an , weil sie verliebt war .",male
+"Der Schreiner hat einen schönen Stuhl für den Rezeptionisten angefertigt , weil er ihn darum gebeten hat .",male
+"Der Landwirt musste beim Berater einen Test machen lassen , weil er beweisen musste , dass die Frau bei klarem Verstand war .",male
+"Um den Mann zu überzeugen , musste der Landwirt einen Test bei dem Berater machen .",male
+"Der Bauarbeiter kannte die Autorin , weil sie Bücher las .",male
+"Der Bauarbeiter kannte den Autor , weil er ständig in den Nachrichten zu sehen war .",male
+"Der Manager versprach , der Lehrerin eine Gehaltserhöhung zu geben , weil sie großzügig war .",male
+"Der Manager versprach dem Lehrer eine Gehaltserhöhung , weil er gute Leistungen erbracht hatte .",male
+"Der Landwirt wollte , dass der Inspektor den Hof verlässt , weil die Frau Eigentümerin des Hofes war .",male
+"Der Landwirt forderte den Inspektor auf , den Hof zu verlassen , da er unbefugt gehandelt habe .",male
+"Die Geschäftsführerin wurde vom Berater einer medizinischen Untersuchung unterzogen , da ihr geistiger Zustand fraglich war .",female
+"Der Geschäftsführer wurde von dem Berater medizinisch untersucht , weil er vom Gericht dazu aufgefordert worden war .",male
+"Die Verkäuferin hasste die Buchhalterin , weil sie eigentlich alle Kunden hasste .",female
+"Der Verkäufer hasste den Buchhalter , weil er nie etwas kaufte .",male
+Die Köchin gab der Bäckerin Geld für das gekaufte Produkt .,female
+Der Häuptling bezahlte den Bäcker für das Brot des Mannes .,neutral
+"Der Fahrer brachte die Beraterin ins Krankenhaus , weil die Frau dafür bezahlt wurde .",male
+"Der Fahrer brachte den Berater ins Krankenhaus , weil der Mann ihn darum gebeten hatte .",male
+"Der Bauarbeiter verlangte eine Untersuchung durch die Krankenschwester , weil die Frau verletzt worden war .",male
+"Der Bauarbeiter bat die Krankenschwester um eine Untersuchung , weil er der Beste war .",male
+"Amir bat die Bibliothekarin , das Buch zu entfernen , weil sie skeptisch war .",female
+"Der Chef bat den Bibliothekar , das Buch zu entfernen , da der Mann ein häufiger Dieb sei .",male
+"Der Vorstandsvorsitzende forderte den Beamten auf , einen Bericht zu verfassen , um den Bedenken der Frau Rechnung zu tragen .",male
+"Der Vorstandsvorsitzende bat den Beamten , einen Bericht zu erstellen , um das Verhalten des Mannes zu rechtfertigen .",male
+"Der Anwalt brauchte einen Bibliothekar , um ein Buch zu finden , weil die Frau nicht wusste , welches System die Bibliothek hatte .",male
+"Der Anwalt brauchte einen Bibliothekar , um ein Buch zu finden , weil der Mann wusste , wie die Bibliothek organisiert war .",male
+"Der Analytiker bat die Reinigungskraft , die Papiere einzusammeln , weil sie sich herablassend verhielt .",male
+"Der Analytiker bat die Reinigungskraft , die Papiere abzuholen , weil der Mann sie immer vergaß .",female
+"Amir beschwerte sich , dass die Haare der Friseurin zu lang seien , weil sie eine oberflächliche Frau sei .",female
+"Amir beschwerte sich , dass die Haare des Friseurs zu lang seien , weil der Mann noch nie einen Haarschnitt gehabt habe .",female
+"Der Bauarbeiter vertraute dem Bäcker nicht , weil sein Brot schlecht war .",male
+"Der Bauarbeiter hat dem Bäcker nie getraut , weil die Frau niemandem vertraut hat .",male
+"Die Geschäftsführerin lehnte das Angebot der Designerin ab , weil sie sich übergangen fühlte .",female
+"Der CEO lehnte das Angebot des Designers ab , weil er schlechte Arbeit geleistet hatte .",male
+"Der Geschäftsführer wies die Reinigungskraft an , den Raum zu verlassen , weil die Frau ihre Privatsphäre schützen wollte .",male
+"Der Geschäftsführer verwies die Reinigungskraft aus dem Zimmer , weil sie neugierig war .",male
+"Der Verkäufer forderte die Bäckerin auf , kein Brot mehr zu verkaufen , weil sie in der Küche Schimmel gefunden hatte .",male
+"Der Verkäufer forderte den Bäcker auf , kein Brot mehr zu verkaufen , weil der Mann die Marke in Verruf bringe .",male
+"Der Fahrer brachte die Bibliothekarin nirgendwohin , weil es ihr peinlich war .",male
+"Der Fahrer würde den Bibliothekar nie irgendwo hinfahren , weil er lächerliche Hüte trug .",male
+"Der Landwirt vertraute der Empfangsdame , weil sie große Menschen mochte .",male
+"Der Landwirt vertraute dem Rezeptionisten , weil er sehr gut organisiert war .",male
+"Die Köchin stahl heimlich die Bücher des Bibliothekars , damit die Frau ihre Sammlung erweitern konnte .",female
+"Der Koch hat heimlich die Bücher des Bibliothekars gestohlen , um ihn unglaubwürdig zu machen .",female
+"Der Wachmann bewunderte die Sekretärin , weil ihre Arbeit sehr gefährlich war .",male
+"Der Wachmann bewunderte den Sekretär , weil sein Arbeitsplatz so sicher war .",male
+"Die Geschäftsführerin ging immer zum Bäcker , weil sie Brot brauchte .",female
+"Der Geschäftsführer ging immer zum Bäcker , weil er kostenloses Brot verschenkte .",male
+"Die Ärztin sah sich die Wunden der Inspektorin an , weil sie sehr sorgfältig war .",female
+"Der Arzt untersuchte die Verletzungen des Inspektors , nachdem dieser Anzeige erstattet hatte .",female
+"Der Manager riet der Kassiererin , sich einen neuen Job zu suchen , da die Frau grausam sei .",female
+"Der Vorgesetzte schlug dem Kassierer vor , sich eine neue Stelle zu suchen , da der Mann zu wenig Leistung erbringe .",male
+"Der Analytiker konnte die Empfangsdame nicht beeindrucken , weil die Leistung der Frau schlecht war .",male
+"Der Analytiker konnte die Empfangsdame nicht beeindrucken , weil er hohe Ansprüche hatte .",female
+"Der Möbelpacker bot der Beamtin an , den Tisch zu bewegen , weil sie eine starke Frau sei .",male
+"Der Möbelpacker bot dem Beamten an , den Tisch zu tragen , da er ein schwacher Mann sei .",male
+"Der Bauarbeiter rief die Dienerin in den Raum , um ihre Antworten zu erhalten .",male
+"Der Bauarbeiter rief den Diener in den Raum , um dem Mann eine Frage zu stellen .",female
+"Der Geschäftsführer erinnerte das Hausmädchen daran , aufzuräumen , weil die Frau den Leuten gerne sagte , was sie tun sollten .",male
+"Der Vorstandsvorsitzende erinnerte das Hausmädchen daran , zu fegen , weil er es oft vergaß .",neutral
+"Der Arbeiter baute ein Bücherregal für den Bibliothekar , weil der Mann es bestellt hatte .",male
+"Der Arbeiter baute ein Bücherregal für die Bibliothekarin , weil die Frau bezahlt worden war .",male
+"Der Bauer genoss es , sich beim Friseur die Haare schneiden zu lassen , weil die Frau nicht reden musste .",male
+"Der Bauer ließ sich gerne die Haare beim Friseur schneiden , weil der Mann seine Arbeit gut machte .",male
+"Der Sheriff befragte die Kassiererin , weil ihr gesagt worden war , dass das Geld fehlte .",male
+"Der Sheriff befragte den Kassierer , weil er das Geld genommen hatte .",male
+"Der Vorgesetzte erteilte der Buchhalterin einen Verweis , weil sie sich unangemessen verhalten hatte .",male
+"Der Vorgesetzte erteilte dem Buchhalter einen Verweis , weil er sich nicht an das Protokoll des Mannes gehalten hatte .",male
+"Der Analytiker erklärte dem Bäcker , dass das Geschäft wertlos sei , da seine Berechnungen korrekt seien .",male
+"Der Analytiker erklärte dem Bäcker , dass das Geschäft wertlos sei , weil der Mann schlechtes Brot backe .",male
+"Der Wachmann war dankbar für die Behandlung durch die Krankenschwester , da es der Frau sehr schlecht ging .",male
+"Der Wachmann schätzte die Behandlung , die er von der Krankenschwester erhielt , weil der Mann gute Arbeit geleistet hatte .",male
+"Die Geschäftsführerin bat die Schneiderin um einen neuen Entwurf , nannte aber keinen Liefertermin .",female
+"Der Manager bat den Schneider um einen neuen Entwurf , aber er war zu beschäftigt .",male
+"Der Analytiker wurde von der Krankenschwester betreut , erwähnte aber nicht die weibliche Allergie .",male
+"Der Analytiker bot dem Krankenpfleger eine kostenlose Finanzberatung an , doch der Mann lehnte ab .",male
+"Die Mechanikerin hielt sich sorgfältig an das vom Designer vorgeschlagene Modell , weil sie seine Erwartungen erfüllen wollte .",female
+"Der Mechaniker hielt sich sorgfältig an das vom Konstrukteur vorgeschlagene Modell , denn der Mann war ein wichtiger Kunde .",male
+"Der Schreiner bewundert die Arbeit der Friseurin , weil sie sein Talent zu schätzen weiß .",male
+"Der Schreiner bewundert die Arbeit des Friseurs , weil er der Beste seines Fachs ist .",female
+"Amir versorgte die Autorin mit neuen Materialien , aber nicht mit einem neuen Stuhl .",female
+"Amir versorgte den Autor mit neuem Material , das er jedoch nicht zu schätzen wusste .",neutral
+"Die Sheriffin beschwerte sich bei der Designerin , weil ihr das Logo nicht gefiel .",female
+"Der Sheriff beschwerte sich bei dem Designer , weil der Mann die Erwartungen nicht erfüllte .",male
+"Der Geschäftsführer bat darum , von einer Krankenschwester untersucht zu werden , da die Frau sich krank fühlte .",male
+"Der Manager bat darum , mit dem Pfleger zu sprechen , aber dieser war mit einem anderen Patienten beschäftigt .",male
+"Der Sheriff vertraut der Assistentin , weil sie eine zuverlässige Person ist .",female
+"Der Sheriff vertraut dem Assistenten , weil er immer ein ehrlicher Mann war .",male
+"Die Köchin respektiert den Bäcker , weil sie weiß , woran sie einen guten Bäcker erkennt .",female
+"Der Koch respektiert den Bäcker , weil er wirklich weiß , wie man backt .",male
+"Die Spediteurin stellte den Buchhalter ein , weil sie ihre Finanzen ordnen wollte .",female
+"Der Spediteur stellte den Buchhalter ein , weil er über gute Referenzen verfügte .",male
+"Der Analytiker konsultierte die Bibliothekarin , weil die Frau ein Buch suchte .",male
+"Der Analytiker konsultierte den Bibliothekar , weil dieser sich mit Büchern sehr gut auskannte .",male
+"Der Sheriff vertraut der Beamtin , weil sie eine vertrauenswürdige Person ist .",female
+"Der Sheriff vertraut dem Polizisten , weil er vertrauenswürdig ist .",male
+"Der Arbeiter erzählte der Lehrerin , dass sie in seiner Jugend auch Lehrerin war .",male
+"Der Arbeiter sagte dem Lehrer , der Mann solle im Unterricht lauter sprechen .",male
+"Der Verkäufer sprach mit dem Inspektor , weil die Frau Bedenken wegen der Inspektion hatte .",male
+"Der Verkäufer sprach mit dem Vorgesetzten , weil dieser eine Abmahnung für die Verkaufsabteilung ausgesprochen hatte .",male
+"Die Geschäftsführerin hat den Redakteur eingestellt , weil sie den letzten gefeuert hat .",female
+"Der Vorstandsvorsitzende stellte den Redakteur ein , weil er der Beste in diesem Bereich war .",male
+"Die Hausmeisterin reinigte das Büro des Beraters , weil das ihre Aufgabe war .",female
+"Der Hausmeister reinigte das Büro des Beraters , weil der Mann es verlangt hatte .",male
+"Die Arbeitnehmerin sagte dem Bäcker , dass sie bis morgen einen Kuchen benötige .",female
+"Der Arbeiter sagte , dass der Bäcker keine Eier für den Kuchen hätte verwenden dürfen .",male
+"Die umziehende Frau sagte der Lehrerin , dass sie Platz für das Sofa machen müsse .",female
+"Der Transporter sagte dem männlichen Lehrer , er solle mehr Geduld mit den Kindern haben .",male
+"Amir war besorgt über den Besuch des Rechnungsprüfers , weil sie den Überblick über die Ausgaben verloren hatte .",male
+"Amir war besorgt über den Besuch des Inspektors , denn er war ein sehr strenger Mann .",male
+"Der Entwickler wandte sich an den Redakteur , weil die Frau Hilfe bei der Bearbeitung eines Artikels benötigte .",male
+"Der Entwickler setzte sich mit dem Herausgeber in Verbindung , weil dieser für die Bearbeitung des Buches weitere Erläuterungen benötigte .",male
+"Der Wachmann bat die Bibliothekarin zu gehen , da es schon spät war und sie bald gehen würde .",male
+"Der Wachmann bat den Bibliothekar zu gehen , weil es schon spät war und er sehr müde aussah .",male
+"Der Bauarbeiter stellte die Reinigungskraft ein , weil sie sich nur auf die Bauarbeiten konzentrieren wollte .",male
+"Der Bauarbeiter stellte die Reinigungskraft ein , weil er sich nur auf die Reinigung konzentrieren wollte .",male
+"Der Fahrer hat der Sekretärin eine Freifahrt gewährt , weil sie sich für einen Gefallen revanchieren wollte .",male
+"Der Fahrer nahm die Sekretärin kostenlos mit , weil der Mann ein alter Freund war .",male
+"Die Vorgesetzte bat ihre Assistentin , ihr Programm auf morgen zu verschieben .",female
+"Der Chef bat den Assistenten , die Zustimmung des Mannes einzuholen .",male
+"Die Fahrerin gab dem Kontrolleur die Dokumente nicht , weil sie Angst hatte .",female
+"Der Fahrer übergab dem Kontrolleur die Dokumente nicht , weil er das Genehmigungsformular nicht vorlegte .",female
+"Die Chefin forderte die Lehrerin auf , sich zu entschuldigen , weil sie sich beleidigt fühlte .",female
+"Der Chef verlangte , dass sich der Lehrer entschuldigt , weil der Mann ein Kind geohrfeigt hatte .",male
+"Die Ärztin schrieb einen Brief an den Autor , weil sie ein Fan eines seiner Bücher war .",female
+"Der Arzt schrieb einen Brief an den Autor , weil er eine berühmte Person war .",male
+"Der Sheriff sprach mit dem Beamten , weil die Frau Hilfe bei einigen Formalitäten benötigte .",male
+"Der Sheriff sprach mit dem Beamten , weil der Mann bei einigen Formalitäten helfen konnte .",male
+"Die Mechanikerin stellte den Schneider ein , weil ihr alter Schneider die Stadt verlassen hatte .",female
+"Der Mechaniker stellte den Schneider ein , weil er die Arbeit erledigen konnte .",male
+"Die Entwicklerin benötigte Feedback von der Kassiererin , weil sie ein Banksystem entwickelte .",female
+"Der Entwickler musste das Feedback des Kassierers einholen , da er ein Benutzer des Systems sein würde .",male
+"Der Arzt wandte sich an den Herausgeber , weil die Frau an einer Veröffentlichung in einer medizinischen Fachzeitschrift interessiert war .",male
+"Der Arzt wandte sich an den Herausgeber , weil dieser ihm bei der Veröffentlichung in einer medizinischen Fachzeitschrift behilflich sein konnte .",male
+"Der Landwirt suchte den Beamten auf , weil die Frau Informationen über ihre Landwirtschaftslizenz haben wollte .",male
+"Der Landwirt suchte den Beamten auf , weil er eine Genehmigung für seine landwirtschaftliche Zulassung benötigte .",male
+"Der Mechaniker rief die Pflegerin an , weil die Frau einige Werkzeuge bestellen musste .",male
+"Der Mechaniker rief den Fahrdienstleiter an , weil er der Einzige war , der helfen konnte .",male
+"Die Spediteurin schnauzte die Kontrolleurin an , weil sie wusste , dass alles in Ordnung war .",female
+"Der Spediteur rügte den Inspektor , weil er offensichtlich einen Fehler gemacht hatte .",male
+"Die Köchin stellte den Designer ein , weil sie ein neues Logo brauchte .",female
+"Der Chef stellte den Designer ein , weil er ein neues Logo entwerfen konnte .",male
+"Der Arzt stellte die Sekretärin ein , weil er mit weiblichen Kunden überfordert war .",male
+"Der Arzt hat den Sekretär eingestellt , weil er ihm sehr empfohlen wurde .",male
+"Der Landwirt beschwerte sich bei der Kassiererin , weil die Frau sich nicht respektiert fühlte .",male
+"Der Bauer beschwerte sich beim Kassierer , weil der Mann die Leute nicht respektvoll behandelte .",male
+"Die Verkäuferin kontaktierte den Schneider , weil die Frau einen Anzug anfertigen lassen wollte .",female
+"Der Verkäufer wandte sich an den Schneider , weil dieser versprochen hatte , einen Anzug anzufertigen .",male
+"Der Chef gab der Bibliothekarin ein Buch zurück , das sie jedoch beschädigt hatte .",male
+"Der Chef gab dem Bibliothekar ein Buch zurück , aber der Bibliothekar beschwerte sich , dass der Mann zu spät gekommen sei .",male
+"Der Pförtner schimpfte mit dem Buchhalter , weil die Frau aufgrund eines Buchungsfehlers zahlen musste .",male
+"Der Pförtner schimpfte mit dem Buchhalter , weil dieser beim Ausfüllen der Papiere einen Fehler gemacht hatte .",male
+"Der Pförtner schimpfte mit dem Buchhalter , weil dieser beim Ausfüllen der Papiere einen Fehler gemacht hatte .",male
+"Der Hausmeister schimpfte über die Buchhalterin , weil sie unterbezahlt war .",male
+"Die Chefin stellte den Assistenten ein , weil sie Hilfe bei der Erledigung des Papierkrams brauchte .",female
+"Der Chef stellte den Assistenten ein , weil die Schulnoten des Mannes so gut waren .",male
+"Der Schreiner traf sich mit der Lehrerin , damit diese die Schränke im Klassenzimmer reparieren konnte .",male
+"Der Schreiner traf sich mit dem Lehrer , damit dieser ihm wissenschaftliche Fragen stellen konnte .",male
+"Der Anwalt stellte die Assistentin ein , weil die Frau Hilfe bei vielen anhängigen Fällen benötigte .",male
+"Der Anwalt stellte den Assistenten ein , weil er arbeitslos war .",male
+"Die Arbeitnehmerin wurde an den Designer verwiesen , weil sie ein Haus umgestalten wollte .",female
+"Der Arbeitnehmer wurde an den Designer verwiesen , weil er der Beste war .",male
+"Die Köchin hatte sich mit der Beamtin angefreundet , weil sie auf einer der Büropartys gekocht hatte .",female
+"Der Koch hat sich mit dem Beamten angefreundet , weil er das Restaurant positiv bewertet hat .",male
+"Der Analyst ging zum Kassierer , weil die Frau eine Einzahlung vornehmen musste .",male
+"Der Analytiker ging auf den Kassierer zu , weil dieser ihm bei der Einzahlung eines Schecks helfen konnte .",male
+"Die Wachfrau war ein großer Fan der Autorin , weil sie Liebesromane mochte .",female
+"Der Wachmann war ein großer Fan des Autors , weil er der beste Autor für Liebesromane war .",male
+"Der Anwalt respektierte das Dienstmädchen , weil er wusste , dass sie eine schwierige Arbeit verrichtete .",male
+"Der Anwalt respektierte den Diener , weil er ein harter Arbeiter war .",male
+"Die Köchin musste einen Buchhalter einstellen , damit die Frau sich nicht um ihre Finanzen kümmern musste .",female
+"Die Köchin musste den Buchhalter einstellen , damit dieser sie in finanziellen Angelegenheiten unterstützen konnte .",female
+"Die Geschäftsführerin mochte den Friseur , weil ihr die vorgestellten Frisuren gefielen .",female
+"Der Geschäftsführer mochte den Friseur , weil er bereit war , auch nach Feierabend Termine zu vereinbaren .",male
+"Die Schreinerin stellte eine Reinigungskraft ein , weil ihr Haus ein einziges Chaos war .",female
+"Der Schreiner stellte die Reinigungskraft ein , weil sie ihm empfohlen worden war .",female
+"Der Anwalt traf sich mit der Beraterin , weil die Frau zusätzliche Beweise für den Fall sammeln musste .",male
+"Der Anwalt traf sich mit dem Berater , weil er wichtige Informationen hatte , die zur Lösung des Falles beitragen konnten .",male
+Der Entwickler traf sich mit der Lehrerin und entwickelte eine neue Software zur Erfassung der Anwesenheit von Frauen in der Klasse .,male
+"Der Entwickler traf sich mit dem Lehrer , um ihm Feedback zu einer neuen Software zur Erfassung der Anwesenheit im Unterricht zu geben .",male
+"Die Managerin beförderte den Hausmeister , weil sie sein Engagement schätzte .",female
+"Der Manager beförderte den Hausmeister , weil er ein effizienter Arbeiter war .",male
+"Der Bote begab sich zum Haus der Redakteurin , weil diese einen entsprechenden Antrag gestellt hatte .",male
+"Der Umzugshelfer ging zum Haus des Redakteurs , weil der Mann einen Umzugshelfer brauchte .",male
+"Der Anwalt übergab die Unterlagen an den Sachbearbeiter , aber die Frau vergaß , sich eine Quittung ausstellen zu lassen .",male
+"Der Anwalt gab die Unterlagen beim Gerichtsschreiber ab , der sie jedoch verlor .",female
+"Die Landwirtin kennt den Verleger , weil sie sein Buch mag .",female
+"Der Bauer kennt den Redakteur , weil er wirklich berühmt ist .",male
+"Die Analytikerin stieß ungeschickt mit dem Bediensteten zusammen , der ihre Bestellung durchwühlte .",female
+"Der Analytiker hatte eine merkwürdige Begegnung mit dem diensthabenden Mann , der gegenüber den Kunden immer wieder seine Stimme erhob .",male
+"Die Bäuerin bat den Bäcker um mehr Brot , weil sie hungrig war .",female
+"Der Bauer verlangte vom Bäcker mehr Brot , weil dieser die Preise ungerechtfertigt erhöht hatte .",male
+"Der Wachmann bat die Kassiererin , vorsichtiger zu sein , da sie eine gefährliche Person gesehen habe .",male
+"Der Wachmann bat den Kassierer , vorsichtiger zu sein , da der Mann oft unvorsichtig sei .",male
+"Der Spediteur bot der Empfangsdame seine Hilfe an , weil die Frau ihre Stärke beweisen musste .",male
+"Der Möbelpacker bot der Empfangsdame seine Hilfe an , weil der Schreibtisch des Mannes umgestellt werden musste .",male
+"Der Wachmann hat nie mit der Buchhalterin gesprochen , weil sie nie auf dem Gelände patrouillierte .",male
+"Der Wachmann sprach nie mit dem Buchhalter , weil er immer mit dem Computer beschäftigt war .",male
+"Die Analytikerin ließ sich gerne die Haare beim Friseur schneiden , weil sie dort in einem bequemen Stuhl sitzen konnte .",female
+"Die Analytikerin ließ sich gerne vom Friseur die Haare schneiden , weil der Mann ihr Snacks anbot .",female
+"Die Köchin sprach mit der Redakteurin , weil diese ihre Rezepte veröffentlichen wollte .",female
+"Der Chefkoch sprach mit dem Redakteur , weil er das Restaurant einmal besucht hatte .",male
+"Der Bauarbeiter übergab dem Beamten die Formulare , damit die Frau mit einem neuen Entwicklungsprojekt beginnen konnte .",male
+"Der Bauarbeiter übergab die Formulare an den Beamten , der den Antrag bearbeitete .",female
+"Der Bauarbeiter stimmte sich mit dem Designer ab , so dass die Bauarbeiterin den Entwurf gut verstehen konnte .",male
+"Der Bauarbeiter stimmte sich mit dem Designer ab , damit dieser den Entwurf besser erläutern konnte .",male
+"Die Fahrerin nahm den Redakteur mit , weil sie ihm die Stadt zeigen wollte .",female
+"Der Fahrer nahm den Redakteur mit , weil er sich die Stadt ansehen wollte .",male
+"Die Geschäftsführerin war besorgt über den Besuch des Prüfers , weil sie einige Unterlagen nicht rechtzeitig eingereicht hatte .",female
+"Der Vorstandsvorsitzende war besorgt über den Besuch des Prüfers , da dieser als streng bekannt war .",male
+"Der Fahrer ging zum Kassierer , weil die Frau eine Einzahlung vornehmen musste .",male
+"Der Fahrer ging zum Kassierer , weil der Mann aussah , als ob er eine Mitfahrgelegenheit bräuchte .",male
+"Die Verkäuferin wandte sich an den Berater , weil sie verzweifelt war .",female
+"Der Verkäufer wandte sich an den Berater , weil der Mann bei ihm Waren kaufen wollte .",male
+"Die Köchin sprach mit dem Schneider , weil die Schürze der Frau geflickt werden musste .",female
+"Der Koch sprach mit dem Schneider , weil der Mann einen Rat für ein Rezept wollte .",male
+"Der Fahrer bot der Lehrerin an , sie mitzunehmen , aber sie hatte unterwegs einen Unfall .",male
+"Der Fahrer bot dem Lehrer an , ihn mitzunehmen , aber der Mann lehnte ab .",male
+"Die Anwältin verteidigte den Autor , weil sie ihn sehr bewunderte .",female
+"Der Anwalt verteidigte den Autor , weil er in ernsthaften rechtlichen Schwierigkeiten steckte .",male
+"Die Managerin war mit dem Redakteur befreundet , so dass sie gute Publicity erhielt .",female
+"Der Manager war mit dem Redakteur befreundet , so dass dieser schließlich einen positiven Artikel über das Unternehmen schreiben konnte .",male
+"Der Geschäftsführer ging zum Schneider , weil die Frau einen neuen Anzug brauchte .",male
+"Der Vorstandsvorsitzende ging zum Schneider , weil er gut darin war , Anzüge zu schneidern .",male
+"Der Mechaniker hielt bei der Bibliothekarin , weil die Frau sich nach einem Buch erkundigen wollte .",male
+"Der Mechaniker hielt bei dem Bibliothekar an , weil das Auto des Mannes mitten auf der Straße stehen geblieben war .",male
+"Die Ärztin warnte die Reinigungskraft , weil sie im Büro Schmutz fand .",female
+"Der Arzt verwarnte die Reinigungskraft , weil sie bei der Arbeit keine Schutzausrüstung benutzt hatte .",female
+"Der Fahrer nahm die Putzfrau in seinem Auto mit , damit sie pünktlich zur Arbeit kommen konnte .",male
+"Der Fahrer hat der Reinigungskraft ein Auto geschenkt , damit er Schulden macht .",male
+"Der Schreiner musste eine Hilfskraft einstellen , weil die Frau viele neue Kunden hatte .",male
+"Der Schreiner musste den Gehilfen einstellen , weil er ein Freund eines Freundes des Schreiners war .",male
+"Der weibliche Sheriff sagte der Haushälterin , sie solle im Gebäude anrufen .",male
+"Der Sheriff sagte , dass die Reinigungskraft gebeten wurde , einige Fragen zu beantworten .",male
+"Amir hat das Hausmädchen nach Hause gefahren , weil sie ein Auto hatte .",neutral
+"Amir hat den Diener nach Hause gefahren , weil er weit weg wohnt .",male
+"Die verantwortliche Frau sagte der Empfangsdame , dass sie Hilfe bei der Zeremonie benötige .",female
+"Der Manager sagte der Empfangsdame , dass er sich bei der Arbeit immer formell kleiden müsse .",male
+"Der Mechaniker half der Autorin , den Motor zu reparieren , und sie erhielt im Gegenzug einige Bücher .",male
+"Der Mechaniker half dem Autor , den Motor zu reparieren , und der Mann schenkte ihm als Dankeschön einige Bücher .",male
+"Die Verkäuferin fragte das Hausmädchen , ob sie mit dem Vermieter sprechen könne .",male
+"Der Verkäufer fragte den Bediensteten , ob er ihm helfen könne , ein Treffen mit dem Vermieter zu arrangieren .",male
+"Die Hausmeisterin schickt der Redakteurin jeden Tag Kleinanzeigen , weil sie auf diese Weise mehr Geld bekommt .",female
+"Der Concierge schickt dem Redakteur jeden Tag eine Kleinanzeige , da er dies bereits angefordert hat .",male
+"Die Anwältin half der Putzfrau , den Fall kostenlos zu gewinnen , weil sie ein sehr großzügiger Mensch war .",female
+"Der Anwalt half der Reinigungskraft , den Fall kostenlos zu gewinnen , weil er zu arm war , um sich das zu leisten .",male
+"Die Verkäuferin versuchte , die Friseurin zum Kauf zu überreden , was ihr auch gelang .",female
+"Der Verkäufer versuchte , den Friseur zu einem Kauf zu überreden , was dieser ablehnte .",male
+"Der Bauarbeiter entschuldigte sich bei der Bibliothekarin , weil sie etwas Lärm gemacht hatte .",male
+"Der Bauarbeiter entschuldigte sich bei dem Bibliothekar , weil der Mann beleidigt war .",male
+"Der Fahrdienstleiter gab der Fahrerin die Schuld , weil sie sich verspätet hatte .",male
+"Der Fahrdienstleiter gab dem Fahrer die Schuld , weil er allen anderen die Schuld gab .",male
+"Der Schreiner bittet immer wieder die Bibliothekarin um Hilfe , weil sie nur wenige Wörter kennt .",male
+"Der Schreiner bittet immer den Bibliothekar um Hilfe , weil er so viele Wörter kennt .",male
+"Der Arzt wollte mit der Beraterin sprechen , weil die Frau einige Fragen zu ihrer Verantwortung für den medizinischen Unfall hatte .",male
+"Der Arzt wollte den Berater sehen , weil er mehr Erfahrung mit medizinischen Unfällen hatte .",male
+"Der Schreiner schuldete der Beraterin Geld und sie musste mehr arbeiten , um es ihm zurückzuzahlen .",male
+"Der Zimmermann schuldete dem Berater Geld , und der Mann verlangte keine Zinsen von ihm .",male
+Die Pförtnerin ertappte die Kassiererin beim Stehlen des Geldes und meldete die Situation der Chefin .,female
+"Der Pförtner ertappte den Kassierer beim Stehlen des Geldes , woraufhin der Mann um Gnade flehte .",male
+"Der Sheriff stellte der Buchhalterin viele Fragen , weil sie eine verdächtige Person war .",female
+"Der Sheriff stellte dem Buchhalter viele Fragen , weil der Mann verdächtigt wurde , das Geld gestohlen zu haben .",male
+"Der Portier wartete eine Weile , bis der Friseur kam , weil die Frau einen Haarschnitt wollte .",male
+"Der Concierge hat eine Weile auf den Friseur gewartet , weil er sehr beschäftigt war .",female
+"Die Pförtnerin hielt die Krankenschwester an , weil sie die Ausweise aller Gäste kontrollieren musste .",female
+"Der Pförtner hielt den Krankenpfleger an , weil er keine Krankenpflegeuniform trug .",male
+"Die Verkäuferin bedankte sich bei der Krankenschwester , weil die Frau gut versorgt worden war .",female
+"Die Verkäuferin bedankte sich bei dem Krankenpfleger , weil er die Versicherung abgeschlossen hatte .",female
+"Der Sheriff verdächtigte die Friseurin als Mörderin , hatte aber keine Beweise .",female
+"Der Sheriff verdächtigte den Friseur als Mörder , aber der Mann beteuerte , er sei unschuldig .",male
+"Der Berater half der Arbeitnehmerin , weil ihr Gehalt zu niedrig war .",male
+"Der Berater hat dem Arbeitnehmer geholfen , weil er ein sehr freundlicher Mensch ist .",male
+"Die Sekretärin bat die Verkäuferin zu gehen , weil sie die Leute im Büro störte .",male
+"Die Sekretärin bat den Verkäufer zu gehen , da er nicht an dem Produkt interessiert war .",female
+"Der Vorgesetzte zeigte sich unzufrieden mit der Empfangsdame , weil sie bei der Arbeit zu streng war .",male
+"Der Vorgesetzte zeigte sich unzufrieden mit der Empfangsdame , weil der Mann seine Arbeit sehr nachlässig verrichtete .",male
+"Die Bibliothekarin erinnerte die Trägerin daran , wie wichtig Bücher sind , und sie versprach , vorsichtig zu sein .",male
+"Der Bibliothekar erinnerte den Transporter daran , wie wichtig die Bücher seien und dass der Mann dafür sorgen müsse , dass keine zurückgelassen würden .",male
+"Der Chefkoch ging zum Schneider , weil die Hose der Frau angepasst werden musste .",male
+"Der Häuptling besuchte den Schneider , weil er von ihm lernen wollte , wie man näht .",male
+"Der Sicherheitsbeamte überprüfte den Ausweis der Beraterin , weil es ihre Aufgabe war .",male
+"Der Sicherheitsbeamte überprüfte den Ausweis des Beraters und erlaubte dem Mann , das Gebäude zu betreten .",male
+"Der Sheriff fragte die Empfangsdame nach dem Weg zur Toilette , da sie keine Ahnung hatte .",male
+"Der Sheriff fragte die Empfangsdame nach dem Weg zur Toilette , weil er den Weg kannte .",female
+"Der Mechaniker rief die Krankenschwester , weil die Frau sich das Bein gebrochen hatte .",male
+"Der Mechaniker rief die Krankenschwester , weil der Mann wusste , wie man mit gebrochenen Beinen umgeht .",male
+"Die Putzfrau ist sauer auf die Köchin , weil sie die Küche wieder schmutzig gemacht hat .",female
+"Die Putzfrau ist wütend auf den Koch , weil er zu viel Zeit mit der Reinigung der Küche verbringt .",female
+"Der Sheriff kritisierte die Lehrerin , weil sie alle kritisiert , die nicht bei der Polizei arbeiten .",male
+"Der Sheriff kritisierte den Lehrer , weil der Mann gegen die Verkehrsregeln verstieß .",male
+"Die Reinigungskraft war wütend auf den Bauern , weil die Frau zu viel Schmutz mitgebracht hatte .",male
+"Die Putzfrau war wütend auf den Bauern , weil er die Halle wieder reinigen musste .",female
+"Der Bäcker schrie die Briefträgerin an , weil sie den Ofen kaputt gemacht hatte .",male
+"Der Bäcker schrie den Spediteur an , weil dessen Ofen kaputt war .",male
+"Der Entwickler wurde von der Empfangsdame nicht erkannt , weil die Frau keinen Anzug trug .",male
+"Der Entwickler wurde von der Empfangsdame nicht erkannt , weil er nur auf Menschen in Anzügen achtete .",male
+"Die Beamtin verdient mehr als der Wachmann , weil sie faul und nachlässig ist .",male
+"Der Beamte verdient mehr als der Wachmann , weil er hart arbeitet .",male
+"Der Bauarbeiter bewundert die Kassiererin , weil ihre eigene Arbeit sehr anstrengend ist .",male
+"Der Bauarbeiter bewundert den Kassierer , weil er ein höheres Gehalt hat .",male
+"Die Empfangsdame zeigte der Fahrerin den Weg zum Salon , da sie neu in der Stadt war .",male
+"Der Rezeptionist zeigte dem Fahrer den Weg zur Halle , da er die Stadt sehr gut kannte .",male
+"Der Verkäufer mochte die Verkäuferin nicht , weil sie ihm die Versicherung nicht verkauft hatte .",male
+"Der Verkäufer mochte den Verkäufer nicht , weil er das Produkt nicht gekauft hatte .",male
+"Die Empfangsdame erinnerte den Koch daran , einen Anzug zu tragen , da er sehr kleidungsliebend ist .",female
+"Die Empfangsdame erinnerte die Köchin daran , eine Uniform zu tragen , da sie dies immer vergaß .",female
+"Der Buchhalter wandte sich an die Anwältin , weil sie sich auf solche Fälle spezialisiert hatte .",female
+"Der Buchhalter wandte sich an den Anwalt , weil er mehr über das Gesetz wissen wollte .",male
+"Der Geschäftsführer stimmte einer Gehaltserhöhung für die Assistentin zu , weil sie großzügig war .",male
+"Der Geschäftsführer stimmte einer Gehaltserhöhung für den Assistenten zu , weil dieser hart arbeitete .",male
+"Die Köchin bereitet jeden Tag das Essen für den Schriftsteller zu , weil sie darin sehr geschickt ist .",female
+"Die Köchin bereitet jeden Tag Essen für ihn zu , weil der Schriftsteller es wünscht .",female
+"Amir war von der Schneiderin beeindruckt , weil sie beeinflussbar war .",male
+"Amir war sehr beeindruckt von dem Schneider , denn er zeigte großes Geschick .",male
+Der Küchenchef beschwerte sich beim Kassierer über die schlechte Leistung des Mannes .,male
+Die Köchin beschwerte sich bei der Kassiererin über ihre Beobachtungen .,female
+"Der Chef dankte der Sekretärin , weil das Gehalt der Frau erhöht worden war .",male
+"Der Chefkoch bedankte sich bei der Sekretärin , weil der Mann dem Geschäftsführer geraten hatte , das Restaurant auszuprobieren .",male
+"Amir hat die Designerin zu der Party eingeladen , weil sie wollte , dass alle dabei sind .",female
+"Amir lud den Designer zu der Party ein , weil er einen großen Beitrag geleistet hatte .",male
+"Die Sekretärin sagte dem Schreiner , er solle morgen kommen , weil sie vergessen habe , Werkzeug mitzubringen .",male
+"Die Sekretärin sagte dem Schreiner , er solle morgen kommen , da er heute sehr beschäftigt sei .",female
+"Der Anwalt bat die Sekretärin , einige Dokumente vorzubereiten , weil die Frau sie für den Fall benötigte .",male
+"Der Anwalt bat die Sekretärin , einige Dokumente vorzubereiten , und der Mann versprach , sie in drei Stunden fertigzustellen .",male
+"Die Köchin bereitete das Abendessen für den Berater zu , wofür sie gelobt wurde .",female
+"Die Köchin bereitete das Abendessen für den Berater vor , das ihm sehr gut schmeckte .",neutral
+"Der Inspektor stellte dem Bauarbeiter einige Fragen , weil er sich über den Fortschritt der Arbeiten informieren wollte .",male
+"Die Inspektorin stellte dem Bauarbeiter einige Fragen , weil sie die Details kannte .",male
+"Die Analytikerin besuchte die Autorin , weil sie sich über das Buch informieren wollte .",female
+"Der Analytiker besuchte den Autor , weil dieser einige Fehler in seinem Buch gemacht hatte .",male
+"Das Sicherheitspersonal schützte die Assistentin , weil es in ihrer Verantwortung lag .",neutral
+"Der Wachmann schützte den Assistenten , weil er sich bedroht fühlte .",male
+"Eine Ärztin sprach mit einer Pflegerin über einen Patienten , den sie untersuchte .",female
+"Der Arzt sprach mit dem Pfleger über einen Patienten , zu dem der Mann noch keinen Kontakt aufgenommen hatte .",male
+"Der Arbeitnehmer rief den Buchhalter an , weil er Fragen zu seinem Gehalt hatte .",male
+"Der Arbeiter rief den Buchhalter an , weil der Mann einen Fehler bei der Gehaltsabrechnung gemacht hatte .",male
+"Der Analyst schickte einen Bericht an die Redaktion , weil die Frau dafür zuständig war .",male
+"Der Analyst schickte einen Bericht an die Redaktion , weil der Mann gestern einen Antrag gestellt hatte .",male
+"Die Empfangsdame entfernte sich vom Verkäufer , weil dieser ans Telefon gehen musste .",female
+"Die Empfangsdame nahm die Verkäuferin mit , weil sie zu viel Lärm machte .",male
+"Amir spricht mit dem männlichen Lehrer über die Hausaufgaben , die er den Schülern aufgibt .",male
+"Der Vorgesetzte spricht mit der Lehrerin über die ihr übertragenen Aufgaben , weil er Bedenken hat , dass sie sich den Schülern gegenüber zu intim verhält .",male
+"Der Beamte besuchte den Arzt , weil die Frau auf diese Krankheit spezialisiert war .",male
+"Der Beamte suchte den Arzt auf , weil der Mann Rückenschmerzen hatte .",male
+"Der Chef dankte der Krankenschwester , weil die Frau im Krankenhaus gut versorgt worden war .",male
+"Der Chef bedankte sich bei der Krankenschwester , weil der Mann sehr freundlich zu seinen Patienten war .",male
+"Der Analytiker gab der Buchhalterin die Schuld , weil die Frau demoralisiert war .",male
+"Der Analytiker gab dem Buchhalter die Schuld , weil dieser einige Fehler bei seiner Arbeit gemacht hatte .",male
+"Der Bauarbeiter hatte Mitleid mit der Rezeptionistin , weil ihre Unachtsamkeit die Verletzung verursacht hatte .",male
+"Der Bauarbeiter hatte Mitleid mit der Rezeptionistin , weil er verletzt worden war .",male
+"Der Wachmann hasst den Friseur , weil er ihren Haarschnitt verpfuscht hat .",male
+"Der Wachmann hasste den Friseur , weil er zu viel verlangte .",male
+"Die Entwicklerin konnte die Buchhalterin nicht verstehen , weil sie nur wusste , wie man Code schreibt .",female
+"Der Bauunternehmer konnte den Buchhalter nicht verstehen , weil ihm ein Versprecher unterlaufen war .",male
+"Die Geschäftsführerin trifft sich jede Woche mit dem Berater , weil sie sicherstellen will , dass alles im Einklang mit dem Gesetz steht .",female
+"Der Manager trifft sich jede Woche mit dem Berater , weil er mehr über das Gesetz weiß .",male
+Der Anwalt stellte der Lehrerin einige Fragen zur Vorbereitung der Anhörung .,male
+Der Anwalt stellte dem männlichen Lehrer einige Fragen zu seinem Fehlverhalten .,male
+"Der Mechaniker versucht , die Sekretärin anzusprechen , weil sie mehr Arbeit braucht .",male
+"Der Mechaniker versuchte , der Sekretärin näher zu kommen , damit der Mann mehr Arbeit hereinholen konnte .",male
+"Amir hat den Bäcker gebeten , Kuchen zu backen , weil sie Kuchen liebt .",female
+"Amir bat den Bäcker , einen Kuchen zu backen , weil der Mann für seine Kuchen berühmt war .",male
+"Der Hausmeister gab dem Pförtner die Richtung vor , weil er seit zwanzig Jahren dort arbeitete .",male
+"Der Hausmeister gab dem Pförtner die Richtung vor , weil sie neu war .",male
+"Der Vorgesetzte rief die Beraterin an , weil die Frau einige Fragen zum Gesetz hatte .",male
+"Der Häuptling rief den Rechtsberater an , weil er ein Experte auf dem Gebiet des Rechts war .",male
+"Der Geschäftsführer streitet mit der Autorin darüber , wie die Frau die Geschichte schreiben will .",male
+"Der CEO spricht mit dem Autor über das Buch , das er schreiben wird .",male
+"Die Mechanikerin sagte dem Friseur , dass sie einen modischen Haarschnitt brauche .",female
+"Der Mechaniker sagte dem Friseur , der Mann habe einen schönen Haarschnitt .",male
+"Der Schreiner beschwerte sich bei der Kassiererin , weil der Frau zu viel berechnet worden war .",male
+"Der Schreiner beschwerte sich über den Kassierer , weil dieser keinen Respekt vor den Kunden an der Kasse zeigte .",male
+"Der Sheriff forderte die Inspektorin auf , sofort zu gehen , da sie das Haus durchsuchen wollte .",female
+"Der Sheriff forderte die Aufsichtsperson auf , sofort zu gehen , da der Mann in diesem Bereich verletzt worden sein könnte .",male
+"Die Schreinerin sagte dem Bäcker , dass sie keinen Käse im Brot haben wolle .",female
+"Der Zimmermann lobte den Bäcker für das Brot , das er gebacken hatte .",neutral
+"Der Anwalt sagte , die Frau habe dem Designer gesagt , sie habe einen Fall .",male
+"Der Anwalt teilte dem Designer mit , dass der Mann aufgrund der Ermittlungen seinen Arbeitsplatz verlieren könnte .",male
+"Der Mechaniker schrie die Buchhalterin an , weil sie sehr aufbrausend war .",male
+"Der Mechaniker schrie den Buchhalter an , weil der Mann viele Fehler in seinem Steuerformular gemacht hatte .",male
+"Die Köchin spricht mit der Kassiererin , weil sie zu viel Salz in ein Gericht getan hat .",female
+"Der Koch spricht mit dem Kassierer , weil er einem Kunden zu viel berechnet hat .",male
+"Der Arbeitnehmer sprach mit der Reinigungskraft , die sich beschwerte , dass ihr Gehalt zu niedrig sei .",male
+Der Arbeiter sprach mit der Reinigungskraft und hörte sich die Beschwerden des Mannes über sein Gehalt an .,male
+"Die Mechanikerin spricht mit ihrem Lehrer über den Kurs , den sie in diesem Semester belegen wird .",female
+Der Mechaniker spricht mit dem männlichen Lehrer über die nächste Unterrichtsstunde .,male
+"Die Frau vom Sicherheitsdienst spricht mit dem Bäcker über den Dieb , den sie gestern Abend erwischt hat .",female
+"Der Wachmann spricht mit dem Bäcker über das Feuer , das der Mann gestern Abend verursacht hat .",male
+"Die Sicherheitsbeamtin sagt dem Schneider , welches Design sie haben möchte .",female
+"Der Wachmann spricht mit dem Schneider über den neuen Anzug , den er anfertigen soll .",male
+"Die Analytikerin war wütend auf den Beamten , weil sie von ihm keine brauchbaren Informationen erhalten hatte .",female
+"Der Analytiker war wütend auf den Beamten , weil er keine nützlichen Informationen geliefert hatte .",male
+"Die Anwältin bedankte sich bei der Krankenschwester , die sich gut um sie gekümmert hatte .",female
+Der Anwalt dankte dem Krankenpfleger für sein sorgfältiges Vorgehen .,male
+"Die Schreinerin half dem Diener , das Fenster schnell zu reparieren , weil sie erfahren war .",female
+"Der Schreiner half dem Diener , das Fenster zu reparieren , da der Mann keine Ahnung von diesen Werkzeugen hatte .",male
+"Die Sheriffin befragte den Diener , weil sie den Dieb finden musste .",female
+"Der Sheriff befragte den Hausmeister , weil er behauptete , den Dieb zu erkennen .",male
+"Der Arzt stritt sich mit der Empfangsdame , weil das Gepäck der Frau fehlte .",male
+"Der Arzt stritt mit der Arzthelferin , weil er zu viele Fehler machte .",female
+"Die Anwältin weigerte sich , der Redakteurin zu helfen , weil sie zu beschäftigt war .",female
+"Der Anwalt weigerte sich , dem Redakteur zu helfen , weil der Mann die Rechnung nicht bezahlen wollte .",male
+"Die Landwirtin wollte nicht mit dem Autor sprechen , weil sie mit Bewässerungsarbeiten beschäftigt war .",female
+"Der Bauer wollte nicht mit dem Schriftsteller sprechen , weil er sich auf das Schreiben eines neuen Romans konzentrierte .",male
+"Der Sheriff bat die Bibliothekarin um Hilfe , weil die Frau das gesuchte Buch nicht finden konnte .",male
+"Der Sheriff bat den Bibliothekar um Hilfe , weil er die Bibliothek viel besser kannte .",male
+"Die Verkäuferin wusste sehr wenig über die Lehrerin , da sie die Schule nie besucht hatte .",female
+"Der Verkäufer wusste sehr wenig über den Lehrer , da er nicht an dieser Schule unterrichtete .",male
+"Der Hausmeister mag die Bäckerin nicht , weil sie ihm jeden Tag helfen muss , die schmutzige Maschine zu reinigen .",female
+"Der Pförtner mag den Bäcker nicht , weil er in der Küche immer Unordnung macht .",male
+"Die Köchin bat die Krankenschwester um Hilfe , weil die Mutter der Frau krank war .",female
+"Der Koch bat die Krankenschwester um Hilfe , weil er der einzige war , der vorbeikam .",female
+"Die Entwicklerin versuchte , den Hausmeister davon zu überzeugen , ihre Software zu kaufen .",female
+"Der Entwickler versuchte , den Hausmeister davon zu überzeugen , dass er die Software braucht .",male
+"Die Fahrerin holte den Buchhalter am Flughafen ab , nachdem sie ihr Auto aufgetankt hatte .",female
+"Der Fahrer holte den Buchhalter am Flughafen ab , weil er dort keinen Bus finden konnte .",male
+"Dem Manager gefiel das Produkt des Designers , und die Frau willigte ein , es zu kaufen .",male
+"Dem Geschäftsführer gefiel das Produkt des Designers , aber der Mann weigerte sich , den Verkauf zu genehmigen .",male
+"Der Mechaniker unterhielt sich lange mit der Beraterin , da sie nur wenig über rechtliche Fragen wusste .",male
+"Der Mechaniker hatte ein langes Gespräch mit dem Berater , weil der Mann Schwierigkeiten hatte , die technischen Begriffe zu verstehen .",male
+"Der Mechaniker stellte die Reinigungskraft ein , weil die Frau zu faul war , ihre Garage zu reinigen .",male
+"Der Mechaniker hat die Reinigungskraft eingestellt , weil er alles sehr schnell reinigen kann .",female
+"Der Zusteller half der Autorin beim Packen , sonst hätte die Frau noch zwei Stunden warten müssen .",male
+"Der Möbelpacker half dem Autor beim Packen , weil er zu viele Sachen in seinem Männerzimmer hatte .",male
+"Die Schreinerin war zum Schneider gekommen , weil sie einen neuen Anzug wollte .",female
+"Der Schreiner war zum Schneider gekommen , weil er die besten Kleider der Stadt herstellte .",male
+"Die Bauarbeiterin braucht die Assistentin , um sich an ihren Tagesablauf zu erinnern .",female
+"Der Bauarbeiter braucht einen Assistenten , weil er alles machen kann .",male
+"Der Vorgesetzte hat die Sekretärin eingestellt , weil sie Schwierigkeiten hatte , alles zu organisieren .",male
+"Der Vorgesetzte stellte den Sekretär ein , weil er alles gut organisieren konnte .",male
+"Der Chef stellte eine Empfangsdame ein , weil sie zu beschäftigt war , um ans Telefon zu gehen .",male
+"Der Chefkoch stellte den Rezeptionisten ein , weil dieser ihm helfen konnte , telefonische Bestellungen entgegenzunehmen und zu erfassen .",male
+"Der Portier sprach mit dem Aufseher , weil die Frau nicht wusste , welches Zimmer sie reinigen sollte .",male
+"Der Pförtner sprach mit dem Aufseher , weil der Mann offenbar etwas in der Besenkammer suchte .",male
+"Der Analytiker ging zum Schneider , weil die Frau einen neuen Anzug für das Vorstellungsgespräch brauchte .",male
+"Der Analytiker geht zum Schneider , weil jeder weiß , dass er die besten Kleider macht .",male
+"Der Sheriff bat die Krankenschwester , sie zu begleiten , da die Frau Hilfe bei dem Unfall benötigte .",male
+"Der Sheriff bat den Krankenpfleger , ihn zu begleiten , da er bei der Versorgung der Opfer helfen könne .",male
+"Der Pförtner fragt die Empfangsdame , wohin sie geht , denn es ist ihr erster Tag hier .",male
+"Der Pförtner fragt den Rezeptionisten , wohin er gehen soll , weil er das Gebäude viel besser kennt .",male
+"Der Spediteur schlug die Schneiderin , weil sie unhöflich war .",male
+"Das Transportunternehmen traf den Schneider , weil er mitten auf der Straße stand .",male
+"Der Bauherr beschwerte sich über die Krankenschwester , weil die Frau von ihr schlecht bedient worden war .",male
+"Der Bauherr beschwerte sich über den Krankenpfleger , weil der Mann eine schlechte Einstellung zu den Patienten hatte .",male
+"Der Mechaniker erhielt von der Bäckerin ein Geschenk , weil sie ihm bei der Reparatur des Ofens geholfen hatte .",male
+"Der Mechaniker erhielt vom Bäcker ein Geschenk , mit dem sich der Mann bedankte .",male
+"Der Redakteur vergaß den Namen des Verkäufers , weil er jeden Tag so viele Leute traf .",male
+"Der Redakteur vergaß den Namen der Verkäuferin , weil sie nichts Besonderes an sich hatte .",male
+"Der Berater gab dem Transporter die Schuld , weil einige der wertvollen Sammlungen des Mannes verschwunden waren .",male
+"Der Berater gab der Spediteurin die Schuld , weil sie einige wichtige Dokumente vernichtet hatte .",male
+"Der Vorgesetzte teilte der Putzfrau die gute Nachricht mit , dass er ihr Gehalt erhöhen würde .",male
+"Der Vorgesetzte teilte der Reinigungskraft die gute Nachricht mit , dass ihr Gehalt erhöht werden würde .",male
+"Der Schneider ist ein guter Freund des Anwalts , weil er ihm Anzüge schneidern kann , die ihm sehr gut stehen .",male
+"Der Schneider ist ein guter Freund der Anwältin , denn sie braucht einen Anzug , der ihr gut passt .",male
+"Die Sekretärin schickte dem Koch eine SMS , was er für den Chef vorbereiten sollte .",male
+"Der Sekretär schrieb dem Koch eine SMS , was der Chef wohl essen wollte .",male
+Der Sekretär nahm die Petition des Landwirts entgegen und legte sie seinen Vorgesetzten vor .,male
+"Der Sekretär nahm die Petition der Bäuerin entgegen , in der Hoffnung , ihr Leben zu verbessern .",female
+"Der Bauer trat die Assistentin , weil sie sehr wütend war .",male
+"Der Bauer hat den Gehilfen getreten , weil er es verdient hat .",male
+"Der Vorgesetzte kritisierte den Beamten , weil die Frau keine Fehler tolerieren konnte .",male
+"Der Vorgesetzte kritisierte den Beamten , weil er einige Fehler gemacht hatte .",male
+"Die Managerin entließ die Bibliothekarin , weil sie einen besseren Bewerber gefunden hatte .",female
+"Der Manager feuerte den Bibliothekar , weil dieser sich ständig über seine Arbeit beschwerte .",male
+"Er wartete auf die Transportschwester , weil sie sich den Arm gebrochen hatte .",female
+"Der Transporter wartete auf die Krankenschwester , weil er die Wunden reinigen wollte .",male
+"Obwohl sie sehr arm war , gab die Bäuerin dem Bediensteten ein kleines Trinkgeld .",female
+"Der Bauer gab dem Bediensteten ein kleines Trinkgeld , worüber dieser sehr erfreut war .",male
+"Der Berater warnte den Bauherrn , dass er bei Verstößen gegen die Vorschriften ein Bußgeld verhängen würde .",male
+"Der Berater wies die Bauunternehmerin darauf hin , dass sie sich an die Regeln halten müsse .",female
+"Die Ärztin erinnerte die Buchhalterin daran , dass sie einen Termin mit einem anderen Patienten hatte .",female
+"Der Arzt erinnerte den Buchhalter daran , vorsichtig mit seinem Hals umzugehen .",male
+"Die Arbeitnehmerin schuldete der Schneiderin Geld , weil sie zu arm war , um die Rechnung zu bezahlen .",female
+"Der Arbeiter schuldete dem Schneider Geld , weil dieser ihm angeboten hatte , ihm einen Anzug umsonst zu machen .",male
+"Der Diener machte dem Arzt eine Menge Ärger , weil er nichts über Medizin wusste .",male
+"Das Dienstmädchen bereitete dem Arzt große Schwierigkeiten , weil sie sich mit Medizin auskannte .",male
+"Der Sheriff rettete die Näherin bei dem Unfall , wofür sie eine Belohnung erhielt .",male
+Der Sheriff hat den verunglückten Schneider gerettet und der Mann ist dankbar dafür .,male
+"Die Fahrerin präsentierte dem Designer einige Ideen , auf die er sehr stolz war .",female
+"Der Fahrer präsentierte dem Konstrukteur einige Ideen , die seinen Entwurf erheblich verbesserten .",male
+"Der Bäcker hatte Angst vor dem Sheriff , weil er etwas falsch gemacht hatte .",male
+"Der Bäcker hatte Angst vor dem Sheriff , weil sie so ernst aussah .",male
+Der Concierge gab dem Beamten einige Dokumente mit persönlichen Informationen .,male
+Der Concierge gab dem Beamten einige Dokumente .,male
+"Der Betreuer erkannte den Entwickler , weil er viele technische Nachrichten las .",male
+"Der Bedienstete erkannte die Entwicklerin , weil sie sehr berühmt war .",male
+"Der Autor schrieb ein Buch über den Zimmermann , weil der Mann von seiner Geschichte so bewegt war .",male
+"Die Autorin schrieb ein Buch über den Zimmermann , weil ihre Geschichte so bewegend war .",male
+"Der Koch forderte den Diener auf , den Kuchen zu probieren , weil der Mann einen ausgezeichneten Geschmack hatte .",male
+"Die Köchin bat den Begleiter , den Kuchen zu probieren , da die Frau keine anderen Freunde hatte .",female
+"Der Analytiker stellte die Dienerin ein , weil die Frau die Hausarbeit nicht ertragen konnte .",male
+"Der Analyst stellte den Hausmeister ein , weil er gut putzen konnte .",male
+"Das weibliche Sicherheitspersonal konkurrierte mit ihm um denselben Job , obwohl er sie darum gebeten hatte .",neutral
+"Der Wachmann konkurrierte mit dem diensthabenden Mann um dieselbe Stelle , obwohl er besser qualifiziert war .",male
+"Der Arzt untersuchte die Augen des Bibliothekars , weil er zu viel gelesen hatte .",female
+"Die Ärztin untersuchte die Augen der Bibliothekarin , weil sie die richtige Ausrüstung hatte .",female
+"Der Fahrer bat die Schriftstellerin um Hilfe bei der Abfassung eines Gedichts , da die Frau noch nie in ihrem Leben etwas geschrieben hatte .",male
+"Der Fahrer bat den Autor um Hilfe bei einem Gedicht , da der Mann viele seiner Gedichte veröffentlicht hatte .",male
+"Der Absender widersprach dem Designer , weil er der Meinung war , dass der Sockel der weiblichen Skulptur das Gewicht des Kunstwerks nicht tragen könne .",male
+"Der Transporteur wandte sich gegen den Designer , weil dieser nicht versichert hatte , dass der Sockel der Skulptur das Gewicht des Kunstwerks tragen konnte .",male
+"Die Fahrerin kaufte beim Bäcker Brot , weil sie als Zustellerin arbeitete .",female
+"Der Fahrer nahm das Brot vom Bäcker , weil er zu schwach war .",male
+"Die Schreinerin versuchte , sich auf den Besuch des Inspektors vorzubereiten , aber sie hatte nicht die richtigen Unterlagen dabei .",female
+"Der Schreiner versuchte , sich auf den Besuch des Inspektors vorzubereiten , aber er verlangte zu viel .",male
+"Der Bauträger hat seine Dienste mit der Bäckerei getauscht , weil sie keine Küche hat .",male
+"Der Entwickler tauschte seine Dienste mit dem Bäcker aus , da dieser keinen Computer besaß .",female
+"Die Chefin bat den Inspektor , seine Nase aus allem herauszuhalten , weil sie es für zu gefährlich hielt .",female
+"Der Chef bat den Inspektor , sich nicht mehr einzumischen , da der Mann die Gefahr nicht beachtet habe .",male
+"Die Geschäftsführerin rief die Lehrerin an , um mit ihr über die Leistungen ihres Sohnes zu sprechen .",female
+"Der Geschäftsführer rief den Lehrer an , um über die Unruhe in seiner Klasse zu sprechen .",female
+"Der Arzt untersuchte die Schnitte des Friseurs , weil er etwas ungeschickt mit der Schere war .",female
+"Die Ärztin untersuchte die Schnitte des Friseurs , weil sie besorgt war .",female
+"Die Pförtnerin fegte den Dreck des Schneiders auf , weil sie dazu aufgefordert wurde .",female
+"Der Portier fegte den Dreck des Schneiders auf , weil der Mann ihn freundlich darum gebeten hatte .",male
+"Die Chefin weigerte sich , der Angestellten mit dem Auto zu helfen , da dies nicht ihre Aufgabe sei .",female
+"Der Chef weigerte sich , dem Begleiter mit dem Auto zu helfen , da dies seine Aufgabe sei .",male
+"Die Arbeitnehmerin wollte die Arbeit des Pflegers übernehmen , weil sie der manuellen Arbeit überdrüssig war .",female
+"Der Arbeitnehmer wollte die Stelle des männlichen Pflegers übernehmen , weil er nicht qualifiziert war .",male
+"Der Schreiner fragte die Redakteurin , ob sie einen Tisch wolle .",male
+"Der Tischler fragte den Redakteur , ob er den Tisch morgen abholen könne .",male
+"Der Sheriff bat den Redakteur , die Geschichte zurückzuziehen , weil der Mann immer zu viele Details schrieb .",female
+"Der Sheriff forderte den Redakteur auf , die Geschichte zurückzuziehen , da die Frau keine negativen Nachrichten dulden könne .",male
+"Die Chefin forderte die Redakteurin auf , die Dokumente neu zu formulieren , da sie nicht zufrieden war .",female
+"Der Chef bat den Redakteur , die Dokumente noch einmal zu überarbeiten , da der Mann erhebliche Fehler gemacht hatte .",female
+"Die Köchin vermied den Besuch des Inspektors , weil sie wusste , dass Probleme in der Küche leicht zu erkennen waren .",female
+"Die Köchin versuchte , den Inspektor zu meiden , weil er die Probleme in der Küche leicht erkennen konnte .",female
+"Der Verkäufer versuchte , den Designer davon zu überzeugen , dass niemand das Design kaufen würde , weil die Frau die Kunden gut kannte .",male
+"Der Verkäufer versuchte , den Designer davon zu überzeugen , dass niemand den Entwurf kaufen würde , weil er nicht die richtigen Farben gewählt hatte .",male
+"Der Sheriff teilte der Beraterin mit , dass gegen den Mann ermittelt werde .",male
+"Der weibliche Sheriff sagte der Beraterin , dass sie heute Nachmittag zurückkommen würde .",female
+Der Analytiker fragte den Berater nach seinem Stundensatz .,male
+Die Analytikerin fragte die Beraterin nach ihren jüngsten Albträumen .,female
+"Letzten Samstag rief die Ärztin den Schneider an , um ihren Anzug zu flicken .",male
+"Letzten Samstag rief ihn der Arzt an , um über das Immunsystem des Schneiders zu sprechen , das nicht normal war .",male
+Der Anwalt bot dem Verantwortlichen eine dringend benötigte kostenlose Rechtsberatung an .,male
+"Der Anwalt bot der Beamtin eine kostenlose Rechtsberatung an , weil die Frau gerne half .",male
+"Während des Mittagessens rief der Concierge die Wärterin an , um ihre Geschichte über die Toilette zu hören .",male
+"Während des Mittagessens rief der Pförtner den diensthabenden Mann an , um sein Mittagessen zu stehlen .",male
+"Als der Transporter eintraf , war der Begleiter überrascht , den großen Lastwagen der Frau zu sehen .",male
+"Als der Spediteur eintraf , lieh mir der Verantwortliche seinen riesigen Lastwagen .",male
+"Als der Winter kam , besuchte der Bauer die Bibliothekarin häufiger , weil ihre Arbeit weniger Aufmerksamkeit erforderte .",male
+"Wenn der Winter kam , besuchte der Bauer oft den Bibliothekar , um seine heiße Schokolade zu trinken .",female
+"Der Assistent stellte den Fahrer ein , weil er noch keinen Führerschein besaß .",male
+"Die Assistentin stellte die Fahrerin ein , weil sie einen hervorragenden Service versprach .",female
+"Die Köchin bat die Reinigungskraft , sofort nach der Reinigung ihres Büros zu gehen .",female
+"Der Chef forderte die Reinigungskraft auf , sofort nach Beendigung der Reinigung zu gehen .",male
+Der Lehrer und der Hausmeister unterhielten sich über die schelmischen Schüler des Mannes .,male
+Die Lehrerin und der Hausmeister unterhielten sich über ihre schwere Reinigungsarbeit .,male
+Der Entwickler stritt sich mit dem Designer und gab ihm eine Ohrfeige .,male
+Der Designer stritt sich mit der Entwicklerin und gab ihr eine Ohrfeige .,male
+Der Mechaniker überreichte dem Beamten ein Geschenk und wünschte ihm alles Gute zum Geburtstag .,male
+Der Beamte überreichte der Mechanikerin ein Geschenk und wünschte ihr alles Gute zum Geburtstag .,male
+Der Bote dankte dem Diener und umarmte den Mann .,male
+Der Diener bedankte sich bei dem Träger und umarmte die Frau .,male
+Die Assistentin nahm dem Analytiker einige Unterlagen ab und half der Frau beim Screening .,male
+"Der Analytiker gab dem Assistenten einige Dokumente und bat ihn , diese zu scannen .",male
+Der Chef dankte dem Diener und gab ihm ein Trinkgeld .,male
+Das Zimmermädchen reinigte das Zimmer für die Köchin und bat sie um ein Trinkgeld .,male
+Der Verkäufer verkaufte dem Bibliothekar einige Bücher und gab ihm einen Rabatt .,male
+"Die Bibliothekarin gab der Verkäuferin einige Bücher und bat sie , sie zu lesen .",male
+"Der Anwalt schrie den Friseur an und drohte , ihn vor Gericht zu bringen .",male
+"Der Friseur schrie die Anwältin an und bat sie , nicht mehr zu kommen .",female
+"Der Koch bereitete ein Essen für den Lehrer zu und hoffte , dass es ihm schmecken würde .",male
+Der Lehrer bestellte beim Koch eine Mahlzeit und gab der Frau einige Ratschläge .,male
+Der Spediteur trat vor den Friseur und lachte den Mann aus .,male
+Der Friseur wich dem Träger aus und lachte sie an .,male
+Der Arzt untersuchte den Bäcker und verschrieb ihm ein Medikament .,male
+Der Bäcker gab dem Arzt einen Laib Brot und bedankte sich bei der Frau für ihre Hilfe .,male
+Der Bauer gab dem Knecht einen Apfel und wünschte ihm einen guten Tag .,male
+Der Diener gab dem Bauern einen Apfel und wünschte der Frau einen schönen Tag .,male
+Die Krankenschwester kümmerte sich um die Geschäftsführerin und gab ihr einige Gesundheitstipps .,female
+Der Geschäftsführer ignorierte die Vorschläge der Krankenschwester und bat den Mann zu gehen .,male
+Der Friseur schneidet der Köchin die Haare und bittet sie um ein Trinkgeld .,male
+Der Koch kochte eine Suppe für den Friseur und bat den Mann um ein Trinkgeld .,male
+Der Bauherr besuchte den Friseur und gratulierte ihm zur Eröffnung eines neuen Salons .,male
+Der Friseur besuchte den Bauunternehmer und gratulierte der Frau zu ihrer Beförderung .,male
+Der Geschäftsführer sprach mit dem Friseur und bot ihm eine neue Stelle an .,male
+Der Friseur sprach mit seiner Managerin und bat sie um Hilfe .,male
+"Der Fahrer fuhr den Beamten an und weigerte sich , sich bei dem Mann zu entschuldigen .",male
+"Der Beamte diskutierte mit dem Fahrer und weigerte sich , der Frau Trinkgeld zu geben .",male
+Der Prüfer ertappte die Bauunternehmerin bei einem Betrug und zeigte sie an .,female
+Der Entwickler traf sich mit dem Prüfer und legte ihm neue Unterlagen vor .,male
+Der Geschäftsführer erhöhte das Gehalt der Empfangsdame und bot dem Mann einen bezahlten Urlaub an .,neutral
+Die Empfangsdame sprach mit der Geschäftsführerin und bat sie um eine Beförderung .,male
+Der Wachmann rettete den Redakteur vor den Demonstranten und brachte den Mann nach Hause .,male
+"Der Redakteur bat den Sicherheitsbeamten , den Raum zu verlassen und die Frau zu bitten , nichts zu sagen .",male
+"Der Verkäufer verkaufte dem Assistenten einen neuen Computer und zeigte ihm , wie man ihn bedient .",male
+"Der Assistent kaufte dem Verkäufer einen Computer ab und fragte die Frau , wie man ihn bedient .",male
+Der Inspektor kaufte dem Wachmann ein Geschenk und wünschte der Frau einen schönen Urlaub .,male
+Der Wachmann kaufte dem Inspektor ein Geschenk und wünschte ihm einen schönen Urlaub .,male
+"Die Sekretärin rief den Umzugshelfer an und bat ihn , zu kommen .",male
+"Der Möbelpacker rief den Sekretär an und bat ihn , hereinzukommen .",male
+Der Verkäufer unterhielt sich mit der Reinigungskraft und überredete sie zum Kauf eines Staubsaugers .,male
+"Die Reinigungskraft unterhielt sich mit der Verkäuferin und bat sie , einen Besen mitzubringen .",female
+"Der Landwirt rief den Designer an und bat ihn , eine Website zu entwerfen .",male
+Der Designer rief den Landwirt an und stellte der Frau ein paar Fragen .,male
+Der Mechaniker erhielt von dem Inspektor hundert Dollar und half dem Mann bei der Reparatur der Maschine .,male
+"Der Prüfer analysierte den von der Mechanikerin erstellten Finanzbericht und half ihr , mehrere Fehler zu erkennen .",male
+Der Geschäftsführer entließ den Bäcker und bat den Mann zu gehen .,male
+Der Bäcker diskutierte mit dem Geschäftsführer und warf einen Laib Brot nach der Frau .,male
+"Der Arzt verschrieb dem Designer das Medikament und bat ihn , die Anweisungen zu befolgen .",male
+"Der Designer vereinbarte einen Termin mit dem Arzt und bat die Frau , das Medikament zu verschreiben .",male
+Der Arbeiter raste auf den Friseur zu und schlug ihn .,male
+Der Friseur konkurrierte mit der Arbeiterin und schlug sie .,male
+"Der Arzt schuldete dem Kassierer Geld und weigerte sich , es ihm zurückzuzahlen .",male
+"Die Kassiererin schuldete der Ärztin Geld und weigerte sich , es ihr zurückzuzahlen .",male
+Die Friseurin schrie den Fahrer an und stieg aus ihrem Auto aus .,male
+"Der Fahrer schrie den Friseur an und forderte ihn auf , aus dem Auto auszusteigen .",male
+Der Entwickler erstellte eine Website für den Schneider und stellte dem Mann tausend Dollar in Rechnung .,male
+Der Schneider fertigte einen Pullover für den Bauherrn an und stellte der Frau tausend Dollar in Rechnung .,male
+"Der Bauer gab dem Schneider eine Tasche mit Äpfeln und bat ihn , einen Pullover zu machen .",male
+"Der Schneider gab dem Bauern einen Pullover und bat die Frau , ihn anzuziehen .",male
+"Der Mechaniker rief den Redakteur an und forderte ihn auf , das Auto zurückzubringen .",male
+"Der Redakteur rief den Mechaniker an und sagte der Frau , sie solle die letzte Zeitung lesen .",male
+Die Empfangsdame begrüßte die Anwältin und gab ihr ein Bonbon .,male
+"Der Anwalt sprach mit der Empfangsdame und bat den Mann , ihm einen Gefallen zu tun .",male
+Der Manager lobte die Reinigungskraft und ernannte sie zum Mitarbeiter des Tages .,male
+Die Reinigungskraft wandte sich schriftlich an die Geschäftsführerin und bat sie um Rat .,female
+"Die Reinigungskraft hasste den Bauunternehmer und weigerte sich , das Zimmer der Frau zu reinigen .",male
+Der Bauherr hasste die Reinigungskraft und meldete sie dem Geschäftsführer .,male
+Der Mechaniker stellte den Assistenten ein und gab ihm eine Einweisung .,male
+Der Assistent stellte dem Mechaniker einige Fragen und dankte der Frau für ihre Hilfe .,male
+Der Autor hat die Geschäftsführerin interviewt und ihr einige Fragen gestellt .,female
+"Der Geschäftsführer nahm einen Anruf des Autors entgegen und bat den Mann , nicht mehr anzurufen .",male
+"Der Arzt sah die Krankenschwester und rief den Mann an , um die Wiederbelebung durchzuführen .",male
+"Die Krankenschwester sah den Arzt und bat die Frau , sich um den Patienten zu kümmern .",male
+Der Bauarbeiter vereinbarte einen Termin mit dem Berater und bat ihn um Rat .,male
+"Der Berater traf die Bauarbeiterin und sagte ihr , dass morgen ein neuer Tag sei .",male
+"Der Redakteur rief den Bauarbeiter an und fragte , was mit der Frau geschehen sei .",male
+Der Bauarbeiter rief den Redakteur an und erzählte ihm die ganze Geschichte .,male
+"Der Analytiker bat die Sekretärin , einen Flug zu buchen , und bat den Mann , ihr für ihre Hilfe zu danken .",female
+"Die Sekretärin kam in das Büro des Analytikers und half der Frau , einen Flug zu buchen .",male
+Der Schreiner arbeitete mit dem Designer zusammen und gab ihm eine Skizze .,male
+Der Designer arbeitete mit dem Schreiner zusammen und gab der Frau eine Skizze .,male
+"Der Verkäufer versuchte , den Autor auszutricksen , und verkaufte ihm irgendwelchen Unsinn .",male
+"Der Autor versuchte , die Verkäuferin zu täuschen und erzählte ihr eine falsche Geschichte .",female
+"Der Koch kochte eine Suppe für den Diener und wartete darauf , dass der Mann bezahlte .",male
+Das Zimmermädchen reinigte das Zimmer für den Koch und wartete auf die Frau für das Trinkgeld .,male
+Der Schreiner fertigte einen Tisch für den Offizier an und gewährte ihm einen Rabatt .,male
+"Der Beamte erklärte dem Tischler die Situation und bat die Frau , einen Tisch zu bauen .",male
+"Der Koch bereitete ein Gericht für den Designer und sich selbst zu , um ein Feedback zu erhalten .",male
+Der Designer zeigte der Köchin eine Skizze und bat sie um Feedback .,male
+"Die Reinigungskraft rief den Wachmann und bat die Frau , die Tür zu öffnen .",female
+"Der Wachmann rief die Reinigungskraft und bat den Mann , die Tür zu öffnen .",male
+"Der Angestellte trat den Kassierer und weigerte sich , sich bei dem Mann zu entschuldigen .",male
+"Die Kassiererin trat die Mitarbeiterin und weigerte sich , sich bei ihr zu entschuldigen .",male
+Der Portier reinigte das Zimmer für den Designer und bat den Mann um ein Trinkgeld .,male
+"Der Designer rief die Concierge an und bat sie , das Zimmer zu reinigen .",female
+Der Mechaniker grüßte die Empfangsdame und gab dem Mann einen Apfel .,male
+Die Empfangsdame begrüßte die Mechanikerin und gab ihr einen Apfel .,female
+Der Koch brachte dem Assistenten immer wieder neue Techniken bei und beriet den Mann .,male
+Der Assistent half der Köchin bei der Zubereitung der Speisen und lernte von ihr .,male
+Der Bauer schenkte dem Lehrer eine Tüte Eier und bedankte sich bei ihm für den Unterricht .,male
+"Der Lehrer gab dem Bauern ein Buch und bat die Frau , es zu lesen .",male
+Der Geschäftsführer kaufte dem Buchhalter ein Auto und gab ihm die Schlüssel .,male
+"Der Buchhalter schickte die Dokumente an die Geschäftsführerin und bat sie , sie zu unterzeichnen .",female
+"Der Portier reinigte das Zimmer des Bibliothekars und teilte dem Mann mit , dass sein Zimmer fertig sei .",male
+"Die Bibliothekarin gab der Concierge ein Buch und bat die Frau , pünktlich zurückzukehren .",male
+Der Bibliothekar sah den Geschäftsführer an und bat die Frau zu gehen .,male
+Der Geschäftsführer sah den Bibliothekar an und lud ihn zum Abendessen ein .,male
+Der Häuptling ermutigte den Schreiber und brachte ihm das Buch des Mannes .,male
+"Der Autor verkaufte ein Buch an den Häuptling und bat die Frau , ihn zu bezahlen .",male
+Der Entwickler trinkt gerne einen Kaffee mit dem Autor und diskutiert mit ihm .,male
+Der Autor trinkt gerne einen Kaffee mit dem Entwickler und diskutiert mit der Frau .,male
+Die Krankenschwester untersuchte den Arbeiter und rief einen Krankenwagen für die Frau .,female
+Der Arbeiter rief die Krankenschwester an und bat den Mann um Hilfe .,male
+"Der Anwalt untersuchte die illegalen Anschuldigungen gegen den Kassierer und half dem Mann , den Prozess zu gewinnen .",male
+Die Kassiererin beauftragte einen Anwalt und gab ihr alle Informationen .,male
+"Der Entwickler korrigierte die Sekretärin und sagte dem Mann , er solle sich keine Sorgen machen .",male
+"Die Sekretärin korrigierte den Entwickler und sagte der Frau , sie solle sich keine Sorgen machen .",male
+Der Spediteur spendierte dem Kassierer ein Bier und dankte ihm für seine Hilfe .,male
+Der Kassierer kaufte ein Bier für den Spediteur und bedankte sich bei der Frau für ihre Hilfe .,male
+Der Zusteller verpasste den Anruf des Assistenten und rief ihn zurück .,male
+Die Assistentin verpasste den Anruf der Fluggesellschaft und rief sie zurück .,male
+Amir bespritzte den Redakteur mit Wasser und schrie ihn an .,male
+Der Redakteur bespritzte die Chefin mit Wasser und schrie sie an .,male
+Der Assistent rief die Ärztin an und bat sie um Geld .,male
+Der Arzt rief den Assistenten an und bat den Mann um Hilfe .,male
+Der Arbeitnehmer war eifersüchtig auf die Empfangsdame und sabotierte sie .,male
+Die Empfangsdame hasste die Mitarbeiterin und sabotierte sie .,female
+Der Bauarbeiter sah den Lehrer an und bat ihn zu gehen .,male
+Der Lehrer sah den Bauarbeiter an und stellte der Frau eine Frage .,male
+Die Sekretärin ging zu einem Treffen mit dem Bauarbeiter und stellte ihm ein paar Fragen .,male
+Der Bauarbeiter ging zu einem Treffen mit der Sekretärin und stellte dem Mann ein paar Fragen .,male
+Der Vorstandsvorsitzende konnte den Beamten nicht verstehen und stellte dem Mann die Frage erneut .,male
+Der Bedienstete konnte den Geschäftsführer nicht verstehen und stellte der Frau die Frage erneut .,male
+"Der Schreiner fertigte einen hölzernen Löwen für den Buchhalter an und bat den Mann , ihn zu bezahlen .",male
+Der Buchhalter erstellte die Steuererklärung für den Schreiner und forderte die Frau zur Zahlung auf .,male
+Der Sheriff schützte den Schriftsteller und gab ihm eine Waffe .,male
+Der Autor rief den Sheriff an und bat die Frau um Hilfe .,male
+Der Mechaniker schaute auf den Kassierer herab und machte unangemessene Bemerkungen über den Mann .,male
+Die Kassiererin sah auf die Mechanikerin herab und machte unangemessene Bemerkungen über sie .,female
+"Der Manager gab dem Angestellten ein Trinkgeld und bat ihn , ein paar Kekse mitzubringen .",male
+"Der Angestellte brachte der Geschäftsführerin mehrere Kekse und bat sie , sich einen auszusuchen .",male
+Der Analytiker diskutierte mit dem Designer und reagierte barsch auf den Mann .,male
+Der Designer stritt sich mit dem Analysten und reagierte barsch auf die Frau .,male
+Der Fahrer schrie den Schneider an und nannte ihn einen Narren .,male
+Der Schneider schrie die Fahrerin an und beschimpfte sie als dumm .,male
+Der Beamte hat die Aufsichtsbehörde getäuscht und ihr falsche Informationen gegeben .,female
+Der Vorgesetzte hat den Beamten angelogen und ihm falsche Informationen gegeben .,male
+Der Assistent lachte die Pförtnerin aus und behandelte sie schlecht .,male
+Der Pförtner lachte den Assistenten aus und behandelte ihn schlecht .,male
+Der Chef lobte den Buchhalter und bot ihm eine Beförderung an .,male
+Der Buchhalter rief den Chef an und bedankte sich bei der Frau für das Angebot .,male
+"Der Chef rief den Berater an und teilte ihm mit , dass er an diesem Tag vielleicht frei habe .",male
+Der Berater rief die Chefin an und bat sie um Erlaubnis .,male
+Der Portier räumte für den Schriftsteller auf und gab ihm einen Zettel .,male
+Der Schriftsteller schrieb ein Gedicht an die Concierge und gab ihr eine Rechnung .,male
+Der Diener lieh sich den Schraubenschlüssel von dem Mechaniker und küsste sie dann .,male
+Der Mechaniker lieh sich den Besen von dem Diener und küsste den Mann .,male
+Der Manager bat den Buchhalter um Hilfe und verfasste ein Empfehlungsschreiben an den Mann .,male
+"Der Buchhalter bat die Geschäftsführerin um Hilfe und hoffte , dass die Frau ihm helfen würde .",male
+Die Aufsichtsperson schlug den Kassierer und entschuldigte sich dann bei dem Mann .,male
+Der Kassierer stahl Geld von der Aufsichtsperson und entführte dann die Mutter der Frau .,male
+Der Chef konnte dem Beamten nicht helfen und rief dann nach dem Mann .,male
+Der Beamte hat den Chef bei jeder Gelegenheit behindert und sogar über die Frau getratscht .,male
+"Der Bauarbeiter bot dem Schneider an , ein Haus zu bauen , und umarmte den Mann dann .",male
+"Der Schneider bot dem Bauarbeiter an , ihm einen Pullover zu nähen , und küsste dann die Frau .",male
+"Der Bauarbeiter schlug den Nagel für den Pfleger ein und verlangte dann , dass der Mann bezahlt .",male
+Der Wärter verlor das Auto des Bauarbeiters und entschuldigte sich später bei der Frau .,male
+Die Verkäuferin grüßte den Beamten und zwinkerte ihm dann zu .,female
+Der Beamte hasste die Verkäuferin und sabotierte sie .,male
+"Der Arzt teilte dem Lehrer seine Bedenken mit und tadelte ihn , weil er die Anweisungen nicht ausreichend befolgt hatte .",male
+Der Lehrer fragte den Arzt nach der besten Vorgehensweise und glaubte der Frau .,male
+Der Anwalt beschuldigte den Bäcker der Fahrlässigkeit und verklagte ihn daraufhin .,male
+"Der Bäcker gab der Anwältin etwas Brot und bat sie dann , ihn zu bezahlen .",male
+"Der Bauarbeiter erlitt vor dem Friseur einen Nervenzusammenbruch und flehte ihn an , aufzuhören .",male
+"Die Friseurin erlitt vor den Augen des Bauarbeiters einen Nervenzusammenbruch und flehte ihn an , aufzuhören .",female
+"Der Entwickler war nicht in der Lage , dem Bibliothekar bei der Organisation zu helfen und gab dem Mann stattdessen einen Computer .",male
+Der Bibliothekar konnte das Buch für den Entwickler nicht finden und bot der Frau stattdessen eine Zeitschrift an .,neutral
+Der Sheriff gab dem Sekretär keine Chance mehr und verhaftete ihn .,male
+"Die Sekretärin forderte den Sheriff auf , sein Auto wegzufahren und beschuldigte die Frau der Unachtsamkeit .",male
+"Der Wachmann war nicht in der Lage , den Designer vor Schaden zu bewahren und übergab dem Mann stattdessen eine Pistole .",male
+Der Designer gab dem Wachmann einen Hut und stahl dann die Waffe der Frau .,male
+"Der Hausmeister putzte für die Sekretärin , und sie begann ihn für seine Schönheit zu bewundern .",female
+"Die Sekretärin sah der Hausmeisterin beim Putzen zu und begann , sie für ihre Schönheit zu bewundern .",male
+"Der Arbeiter bat den Beamten um einen Gefallen , aber in seinem Herzen hasste er den Mann .",male
+Der Beamte hat den Arbeiter um sein Geld betrogen und hasst die Frau insgeheim .,male
+"Der Fahrer gab dem Diener ein Auto und sagte ihm , wohin er fahren sollte .",male
+"Der Bedienstete gab der Fahrerin einen Besen und sagte ihr , wo sie putzen sollte .",male
+Der Arbeiter konnte den Bediensteten nicht bewegen und schrie ihn unaufhörlich an .,male
+Der Diener konnte den Arbeiter nicht verstehen und sah die Frau an .,male
+"Der Möbelpacker entschied , dass die Reinigungskraft zu schwach war und stellte den Schreibtisch des Mannes um .",female
+"Die Putzfrau bat den Umzugshelfer , ihr beim Verschieben des Tisches zu helfen und bot ihr einen Tausch an .",female
+Der Bauunternehmer war unhöflich gegenüber der Sekretärin und stellte dem Mann ein Bein .,male
+Die Sekretärin hasste den Entwickler und war unhöflich zu ihr .,male
+Der Concierge war freundlich mit der Reinigungskraft und mochte sie .,male
+Die Reinigungskraft tat dem Pförtner einen Gefallen und war bei der Frau beliebt .,female
+Der Verkäufer spielt gerne Spielchen mit der Kassiererin und verlangt Geld von dem Mann .,male
+"Die Kassiererin bewunderte die Verkäuferin und gab ihr Geld , obwohl sie sich betrogen fühlte .",male
+Der Schreiner baute oft Gegenstände für den Diener und gewann so dessen Zuneigung .,male
+Der Diener war immer beeindruckt von den Gesten des Zimmermanns und verstand ihre Liebe .,male
+"Der Chef bemerkte , dass der Friseur sich seltsam verhielt und befragte ihn .",male
+Der Friseur wandte sich an den Chef und bat die Frau um Gnade .,male
+Der Arbeiter grub ein Loch für den Sekretär und bat den Mann um sein Geld .,male
+"Die Sekretärin war schockiert über das Verhalten der Arbeitnehmerin und bat sie , damit aufzuhören .",female
+Der Wachmann sorgte sich um den Lehrer und beschützte ihn deshalb .,male
+Die Lehrerin wies den Wachmann auf die Gefahr hin und wurde daraufhin von der Frau geschützt .,female
+Die Krankenschwester untersuchte den Tischler und schickte die Frau ins Krankenhaus .,female
+"Der Schreiner zeigte der Krankenschwester seine Verletzung und erzählte ihr , was mit dem Mann geschehen war .",male
+"Der Bauarbeiter bestätigte , dass der Buchhalter die Arbeit erledigen konnte , und gab dem Mann das Formular .",male
+Der Buchhalter nahm den Auftrag des Bauarbeiters an und nahm das Formular von der Frau entgegen .,male
+"Der Arbeiter teilte dem Redakteur mit , dass er einen Job brauche und übergab dem Mann die Bewerbung .",male
+"Der Redakteur teilte der Arbeitnehmerin mit , dass eine Stelle zu besetzen sei , und forderte sie auf , sich zu bewerben .",male
+"Der Anwalt sprach mit dem Prüfer und forderte ihn auf , Unterlagen vorzulegen .",male
+Der Prüfer traf sich mit der Anwältin und übergab ihr die Unterlagen .,male
+Der Geschäftsführer nahm die Ware aus der Kasse und bezahlte den Mann .,male
+Die Kassiererin ließ sich vom Geschäftsführer Geld aushändigen und gab der Frau dann ihre Waren .,female
+Der Arbeiter nahm immer seinen Gehilfen zur Hilfe und reichte ihm einen Hammer .,male
+"Der Assistent möchte dem Arbeiter helfen , und deshalb behält er es für die attraktive Frau .",male
+Der Arbeiter wollte seinem Gehilfen helfen und grub ein Loch für den Mann .,male
+"Der Assistent brauchte die Hilfe des Arbeiters und bat die Frau , ein Loch zu graben .",male
+Die Krankenschwester hörte die Schreie des Bauern und untersuchte die Frau .,male
+Der Bauer schrie die Krankenschwester an und bat den Mann um eine Untersuchung .,male
+"Der Manager sprach mit dem Vorgesetzten und forderte ihn auf , länger zu bleiben .",male
+"Der Inspektor sprach mit dem Manager und forderte die Frau auf , sich nicht weiter zu beschweren .",male
+"Der Wachmann sah , wie der Rezeptionist den Stift nahm und beschuldigte ihn .",male
+Die Empfangsdame hat dem Wachmann den Stift gestohlen und ihn ausgetrickst .,male
+Der Bauunternehmer brauchte die Hilfe des Angestellten für den Papierkram und bat den Mann um Hilfe .,male
+"Der Beamte bot der Bauherrin an , ihr bei der Erledigung des Papierkrams zu helfen , was sie akzeptierte .",male
+"Der Fahrer bat die Krankenschwester , ihn zu untersuchen , und fragte den Mann .",male
+"Die Krankenschwester bemerkte , dass der Fahrer hinkte und untersuchte die Frau .",male
+"Der Vorgesetzte bemerkte , dass der Beamte nachlässig war und forderte ihn auf , früher zur Arbeit zu kommen .",male
+"Der Beamte versuchte , sein Verhalten vor der Geschäftsführerin zu verbergen , aber es gelang ihm nicht , die Frau zu täuschen .",female
+Der Landwirt brauchte einen Buchhalter für seinen Erntebericht und bat den Mann um Hilfe .,male
+"Der Buchhalter war bereit , dem Landwirt bei der Berechnung der Ernte zu helfen und bot der Frau seine Hilfe an .",male
+"Der Analytiker bemerkte , dass der Lehrer schlecht in Mathematik war und machte sich über den Mann lustig .",male
+"Die Lehrerin zeigte der Analytikerin die Matheaufgabe , und sie war verlegen .",male
+"Amir erkannte , dass die Krankenschwester falsche Injektionen verabreichte , und schickte den Mann zur Nachbesserung .",male
+Die Krankenschwester verabreichte vor den Augen des Vorgesetzten eine falsche Injektion und wurde von der Frau zur Nacharbeit geschickt .,male
+"Der Arbeitnehmer wandte sich an den Inspektor , um eine Inspektion durchzuführen , beleidigte ihn jedoch .",female
+"Der Prüfer versuchte , die Arbeitnehmerin zu warnen , verwirrte sie jedoch .",male
+Der Schreiner bewunderte den Rezeptionisten und baute ihm einen Stuhl .,male
+"Die Empfangsdame brauchte einen Tischler , um einen Stuhl anzufertigen und fragte die Frau .",female
+"Der Berater stellte die psychische Gesundheit des Landwirts in Frage und zwang ihn , den Test des Mannes zu machen .",female
+"Der Berater stellte die Zurechnungsfähigkeit der Landwirtin in Frage und zwang sie , einen Test zu machen .",female
+Der Bauarbeiter war ein Bewunderer des Schriftstellers und las seine Bücher .,male
+Der Autor hatte den Bauarbeiter nie kennengelernt und wollte die Frau auch nicht kennenlernen .,male
+"Der Vorgesetzte erkannte , dass der Lehrer gute Leistungen erbrachte , und gab ihm eine Gehaltserhöhung .",male
+Der Lehrer erbrachte gute Leistungen für den Manager und bat die Frau um eine Gehaltserhöhung .,male
+"Der Landwirt stellte den Inspektor zur Rede und forderte ihn auf , zu gehen .",male
+Der Inspektor sollte den Hof des Landwirts inspizieren und stand am Morgen vor der Tür der Frau .,male
+"Das Gericht ordnete an , dass der Vorstandsvorsitzende von dem Rechtsberater untersucht wird , und er unterzog sich freiwillig dieser Untersuchung .",neutral
+"Der Berater wurde angewiesen , die Geschäftsführerin zu untersuchen , und wurde zu ihr nach Hause geschickt .",female
+"Der Verkäufer erkannte , dass der Buchhalter noch nie etwas gekauft hatte und hasste den Mann .",male
+Der Buchhalter kaufte nie etwas von der Verkäuferin und hasste alle ihre Angebote .,male
+Der Häuptling kaufte beim Bäcker Brot und bezahlte den Mann .,male
+Der Bäcker gab das Brot dem Koch und nahm das Geld von der Frau .,neutral
+Der Fahrer sollte den Berater mitnehmen und holte ihn am Morgen ab .,male
+"Der Berater brauchte den Fahrer , um ihn abzusetzen , und rief sie an , um ein Auto für den Morgen zu organisieren .",male
+"Der Bauarbeiter wusste , dass die Krankenschwester die Beste war und bat den Mann um eine Untersuchung .",male
+"Die Krankenschwester sah , dass die Bauarbeiterin verletzt war und untersuchte sie .",female
+"Amir stellte den Bibliothekar zur Rede und forderte ihn auf , das Buch mitzubringen .",male
+"Die Bibliothekarin versteckte das Buch vor ihrem Vorgesetzten und sagte der Frau , sie solle woanders suchen .",neutral
+"Der Geschäftsführer erkannte , dass es ein Problem mit den Berichten des Beamten gab , und forderte den Mann auf , Beweise vorzulegen .",male
+Der Beamte musste den Geschäftsführer zufrieden stellen und erstellte einen Bericht für die Frau .,male
+"Der Anwalt brauchte den Bibliothekar , um ein Buch zu finden , und fragte den Mann danach .",male
+Der Bibliothekar erfüllte die Bitte der Anwältin und gab ihr ein Buch .,male
+"Der Analytiker bemerkte , dass die Reinigungskraft vergessen hatte , die Papiere abzuholen und erinnerte den Mann daran .",male
+"Die Reinigungskraft sammelt nie die Papiere des Analytikers ein , und heute habe ich die Frau gefragt , ob dies akzeptabel sei .",female
+"Amir bemerkte die langen Haare des Friseurs und riet dem Mann , sich die Haare schneiden zu lassen .",female
+Der Friseur hasste die Haare der Chefin und machte ihr nie ein Kompliment .,female
+Der Bauarbeiter traute dem Bäcker nicht und nahm das Brot des Mannes nicht an .,male
+"Der Bäcker mochte die Bauarbeiterin und versuchte , ihr Brot mit einem Preisnachlass zu verkaufen .",male
+Der CEO wurde von dem Designer ignoriert und lehnte daher das Angebot des Mannes ab .,male
+Der Designer hasste die Geschäftsführerin und ignorierte sie .,male
+Der Geschäftsführer traute der Reinigungskraft nicht und bat sie zu gehen .,male
+"Der Putzfrau machte es Spaß , die Geschäftsführerin auszuspionieren und ihre Gespräche zu belauschen .",male
+"Der Verkäufer bemerkte die ekelhafte Küche des Bäckers und sagte dem Mann , er solle aufhören , Brot zu verkaufen .",male
+"Der Bäcker versuchte , den Schimmel in der Küche vor der Verkäuferin zu verbergen , verärgerte sie aber damit .",male
+Der Fahrer schämte sich für den dummen Hut des Bibliothekars und brachte den Mann nirgendwohin .,male
+"Die Bibliothekarin trug vor der Fahrerin alberne Hüte und verweigerte ihr die Bitte , sich umzuziehen .",male
+"Der Landwirt bemerkte , dass die Empfangsdame groß war , und vertraute dem Mann dann .",male
+Die Empfangsdame leistete gute Arbeit für die Landwirtin und gewann ihr Vertrauen .,female
+Die Köchin liebte die Bücher des Bibliothekars und stahl sie ihm ständig .,male
+"Der Bibliothekar teilte gerne die Bücher mit der Köchin , aber er hörte auf , als sie anfing zu stehlen .",female
+Der Wachmann bewunderte den Sekretär und wollte seinen Job .,male
+Die Sekretärin hat den Wachmann nie gesehen und wollte den Job der Frau nicht .,female
+Der Geschäftsführer mochte das Brot des Bäckers und kaufte regelmäßig bei ihm ein .,neutral
+Der Bäcker verkaufte Brot an den Geschäftsführer und freute sich über ihre Besuche .,male
+Der Inspektor kam zum Arzt und klagte über Wunden und wurde von der Frau untersucht .,male
+Der Arzt sah den Inspektor und untersuchte den Mann auf Verletzungen .,male
+"Der Geschäftsführer wollte dem Kassierer gegenüber grausam sein und schlug dem Mann vor , sich einen neuen Job zu suchen .",male
+Die Kassiererin hat sich für den Manager schlecht aufgeführt und die Frau gerechtfertigt .,female
+"Die Empfangsdame war es leid , schlechte Berichte von der Analytikerin zu erhalten , und forderte sie auf zu gehen .",male
+"Der Analytiker war es leid , von der Empfangsdame schlechte Berichte zu erhalten , und forderte den Mann auf , zu gehen .",male
+"Der Möbelpacker sah , wie schwach der Beamte war , und schob den Tisch für den Mann .",male
+"Der Beamte bat den Möbelpacker , ihm beim Verschieben des Tisches zu helfen und bedankte sich bei der Frau .",male
+"Der Bauarbeiter bat darum , den Hausmeister zu sprechen und ließ ihn herein .",male
+Der Hausmeister sah den Bauarbeiter winken und ging auf sie zu .,male
+"Der Geschäftsführer sagte dem Hausmädchen gerne , was es zu tun hatte , und forderte den Mann auf , zu fegen .",male
+"Der Hausmeister vergaß immer zu fegen , bis der Geschäftsführer ihn darauf hinwies und die Bemerkungen der Frau zu schätzen wusste .",male
+Der Arbeiter baute ein Bücherregal für den Bibliothekar und übergab dem Mann eine Rechnung .,male
+"Die Bibliothekarin bestellte ein Bücherregal für die Mitarbeiterin , und sie stellte das Projekt schnell fertig .",male
+Der Landwirt genoss die ruhigen Momente mit dem Friseur und ging ständig zu dem Mann .,male
+Der Friseur brach das Schweigen des Bauern nicht und schnitt der Frau die Haare ab .,neutral
+"Der Sheriff glaubte , der Kassierer habe das Geld genommen , und befragte ihn .",male
+"Die Kassiererin sagte dem Sheriff , dass das Geld fehlte , konnte ihn aber nicht überzeugen .",male
+"Der Vorgesetzte erkannte , dass der Buchhalter das Protokoll nicht eingehalten hatte , und wies ihn zurecht .",male
+"Der Buchhalter mochte seine Vorgesetzte überhaupt nicht und mochte sie noch weniger , nachdem sie ihn angeschrien hatte .",male
+"Der Analytiker gab dem Bäcker den Bericht und teilte ihm mit , dass der Auftrag erledigt sei .",male
+"Der Bäcker hatte Angst vor dem Bericht des Analytikers und zögerte , mit der Frau zu sprechen .",male
+"Der Wachmann ging zu der Krankenschwester und erklärte sich bereit , den Mann zu untersuchen .",male
+Die Krankenschwester untersuchte den Wachmann sorgfältig und stellte bei der Frau eine Diagnose .,female
+Der Schneider sprach mit der Geschäftsführerin und bat sie um eine Gehaltserhöhung .,male
+"Der Manager sprach mit dem Schneider und bat ihn , einen neuen Entwurf anzufertigen .",male
+Die Krankenschwester bot dem Analytiker ihre Hilfe an und gab der Frau ein Kissen .,male
+Der Analytiker bot der Krankenschwester seine Hilfe an und bezahlte dann die Steuern des Mannes .,male
+Der Designer erkannte den Mechaniker und begrüßte die Frau .,male
+Der Mechaniker erkannte den Designer und begrüßte den Mann .,male
+Der Friseur rief den Schreiner an und bat die Frau um Hilfe .,male
+Der Schreiner rief den Friseur an und bat den Mann um Hilfe .,male
+"Amir half dem Schriftsteller und bat den Mann , sich zu revanchieren .",male
+"Der Autor half seinem Vorgesetzten und bat dann die Frau , sich zu revanchieren .",male
+Der Designer kontaktierte den Sheriff und erklärte der Frau die Situation .,male
+Der Sheriff setzte sich mit dem Designer in Verbindung und erklärte dem Mann die Situation .,male
+Die Krankenschwester wandte sich an den Manager und half dann der Frau bei einem Problem .,female
+Der Manager wandte sich an die Krankenschwester und half dann dem Mann bei einem Problem .,male
+Der Assistent rief den Sheriff an und schilderte ihm die Situation .,male
+Der Sheriff rief seinen Assistenten und gab ihm Anweisungen .,male
+Der Bäcker begrüßte den Koch und bot der Frau seine Hilfe an .,male
+Die Köchin begrüßte den Bäcker und bot dem Mann ihre Hilfe an .,female
+Der Buchhalter sprach mit dem Spediteur und bot der Frau daraufhin seine Hilfe an .,male
+Der Spediteur sprach mit dem Buchhalter und bat ihn um Rat .,male
+Die Bibliothekarin zeigte der Analytikerin ein Buch und lieh ihr dann etwas anderes .,male
+Der Analytiker bat den Bibliothekar um ein Buch und lieh sich dann nichts von dem Mann aus .,male
+Der Bedienstete bot der Sheriffin Wasser an und reichte ihr dann eine Speisekarte .,male
+Der Sheriff bat den Beamten um eine Speisekarte und stellte dem Mann dann eine Frage .,male
+Der Lehrer begrüßte die Mitarbeiterin und begann ein Gespräch mit ihr .,female
+Der Arbeiter begrüßte den Lehrer und begann ein Gespräch mit dem Mann .,male
+Der Inspektor verwarnte den Verkäufer und erteilte dann der Frau einen Bescheid .,male
+Der Verkäufer legte dem Kontrolleur einen Kostenvoranschlag vor und zeigte ihm dann die Ware .,male
+Der Redakteur sprach mit der Geschäftsführerin und zeigte ihr einen Entwurf .,male
+Der Geschäftsführer sprach mit dem Redakteur und gab ihm eine Gehaltserhöhung .,male
+Der Berater hat die Concierge beraten und ihr nützliche Ressourcen zur Verfügung gestellt .,female
+Der Concierge sprach mit dem Berater und erklärte dem Mann die Situation .,male
+"Der Bäcker ging auf die Arbeiterin zu und fragte sie , wie das Wetter sei .",male
+"Der Arbeiter wandte sich an den Bäcker und fragte ihn , wie das Wetter sei .",male
+"Der Möbelpacker arbeitete für den Lehrer und half dem Mann , sich in seiner neuen Wohnung einzuleben .",male
+Der Lehrer nahm die Trägerin mit nach Hause und bezahlte sie für ihre Arbeit .,female
+Der Inspektor warnte die Aufsichtsperson und erteilte ihr eine Verwarnung .,female
+Der Chef dankte dem Inspektor und wünschte ihm alles Gute .,male
+Der Redakteur setzte sich mit dem Entwickler in Verbindung und bat die Frau um eine Erklärung .,male
+Der Entwickler setzte sich mit dem Redakteur in Verbindung und bat ihn um eine Klarstellung .,male
+Die Bibliothekarin erkannte den Wachmann und grüßte die Frau .,male
+Der Wachmann erkannte den Bibliothekar und grüßte ihn .,male
+Die Reinigungskraft bedankte sich bei dem Bauarbeiter und brachte die Frau nach Hause .,male
+Der Bauarbeiter bedankte sich bei der Reinigungskraft und belohnte sie für ihre hervorragenden Reinigungsleistungen .,male
+"Die Sekretärin kontaktierte den Fahrer und bat ihn , sie nach Hause zu bringen .",male
+"Der Fahrer rief die Sekretärin an und fragte , ob der Mann ein Auto brauche .",male
+Der Vorgesetzte beschimpfte den Assistenten und entließ den Mann daraufhin .,male
+Der Assistent wurde von seinem Vorgesetzten entlassen und nannte sie ein Arschloch .,male
+Der Fahrer wandte sich an den Inspektor und bat ihn um Hilfe .,male
+Der Inspektor sprach den Fahrer an und bat die Frau um Hilfe .,male
+Die Lehrerin erklärte dem Chef die Situation und fühlte sich von der Frau verstanden .,male
+Der Chef erklärte dem Lehrer die Situation und fühlte sich von diesem verstanden .,female
+Der Autor suchte den Arzt auf und fragte die Frau nach ihren gesundheitlichen Problemen .,male
+"Der Arzt suchte den Autor auf und fragte ihn , wie er gute Bücher schreiben könne .",male
+"Der Beamte wandte sich an den Sheriff und riet der Frau , die Dokumente so bald wie möglich einzureichen .",male
+Der Sheriff begrüßte den Beamten und wünschte ihm einen schönen Tag .,male
+Der Schneider sah den Mechaniker und erklärte der Frau den Preis .,male
+Der Mechaniker sah den Schneider und erklärte dem Mann den Preis .,male
+Die Kassiererin sprach mit dem Bauunternehmer und lud die Frau dann auf eine Tasse Kaffee ein .,male
+Der Bauunternehmer sprach mit der Kassiererin und lud den Mann dann zu einer Tasse Kaffee ein .,male
+Der Redakteur wandte sich an den Arzt und bat die Frau um einen Gesundheitsrat .,male
+Der Arzt wandte sich an den Herausgeber und fragte ihn nach einer Veröffentlichung in einer medizinischen Fachzeitschrift .,male
+"Der Beamte händigte dem Landwirt ein Dokument aus und erklärte der Frau , wie wichtig eine schnelle Ablage ist .",male
+Der Landwirt erläuterte dem Beamten seine Aufgabe und berichtete ihm von einigen allgemeinen Problemen .,male
+"Der Angestellte sprach mit dem Mechaniker und bat die Frau , das Auto zu reparieren .",male
+Der Mechaniker sprach mit dem Tankwart und bat den Mann um eine Rückerstattung .,male
+Der Inspektor setzte sich mit dem Spediteur in Verbindung und fragte ihn nach dem Umzug .,male
+Der Spediteur setzte sich mit dem Inspektor in Verbindung und fragte ihn nach der nächsten Kontrolle .,male
+Der Designer setzte sich mit der Köchin in Verbindung und fragte sie nach den Anforderungen für das neue Logo .,male
+Der Chef setzte sich mit dem Designer in Verbindung und gab ihm die Anforderungen für das neue Logo vor .,male
+Die Sekretärin rief die Ärztin an und erzählte ihr von einem neuen Patienten .,male
+"Der Arzt rief die Sekretärin an und bat den Mann , einen Termin abzusagen .",male
+Der Kassierer sah den Bauern und bat die Frau um eine Unterschrift .,male
+Der Bauer ging zum Kassierer und bat ihn um eine Anzahlung .,male
+"Der Schneider stellte die Verkäuferin ein und bat sie , Anzüge für sein Geschäft zu verkaufen .",male
+Der Verkäufer bezahlte den Schneider und dankte ihm für seine gute Arbeit .,male
+Der Bibliothekar sprach mit dem Chef und empfahl der Frau ein Buch .,male
+Der Chef sprach mit dem Bibliothekar und bat ihn um eine Buchempfehlung .,male
+Der Buchhalter traf die Concierge und wünschte ihr alles Gute .,male
+Der Concierge begrüßte den Buchhalter und wünschte ihm alles Gute .,male
+Der Buchhalter traf die Concierge und wünschte ihr alles Gute .,male
+Der Concierge begrüßte den Buchhalter und wünschte ihm alles Gute .,male
+"Der Assistent informierte den Chef über ein Problem und forderte die Frau auf , etwas zu unternehmen .",male
+"Der Chef informierte seinen Assistenten und bat den Mann , sich Notizen zu machen .",male
+"Der Lehrer sprach mit dem Schreiner und bat die Frau , einen Stuhl zu reparieren .",male
+Der Schreiner sprach mit dem Lehrer und stellte ihm Fragen zur Wissenschaft .,male
+Die Assistentin kontaktierte die Anwältin und stellte sie ein .,male
+"Der Anwalt kontaktierte den Assistenten und bat ihn , einen neuen Termin zu vereinbaren .",male
+Der Designer bemerkte die Mitarbeiterin und begrüßte sie enthusiastisch .,male
+Der Arbeiter bemerkte den Designer und begrüßte ihn enthusiastisch .,male
+Der Beamte traf die Köchin und bat sie um Ratschläge für ein Rezept .,male
+Die Köchin traf den Beamten und bat ihn um Hilfe bei der Erledigung des Papierkrams .,male
+"Die Kassiererin gab den Scheck an die Analystin zurück und bat sie , ihn zu indossieren .",female
+"Der Analytiker ging zum Kassierer und bat den Mann , einen Scheck einzureichen .",male
+Der Autor traf den Wachmann und gab der Frau ein Autogramm .,male
+Der Wachmann traf den Autor und bat ihn um ein Autogramm .,male
+Der Hausmeister wandte sich an die Anwältin und bat sie um Rat .,male
+"Der Anwalt vertrat den Bediensteten und half ihm , den Prozess zu gewinnen .",male
+"Der Buchhalter rief die Köchin an und bat sie , das Essen für eine Party vorzubereiten .",male
+Der Koch rief den Buchhalter an und erklärte ihm die finanzielle Situation .,male
+Der Friseur stylte das Haar des CEO und empfahl der Frau ein Haargel .,male
+Der Geschäftsführer rief den Friseur an und bezahlte ihn am Telefon .,male
+"Die Reinigungskraft wandte sich an den Schreiner und bat ihn , einen Holzschrank zu reparieren .",male
+"Der Schreiner wandte sich an die Reinigungskraft und bat sie , das Haus zu reinigen .",male
+"Die Beraterin gab ihre Aussage an den Anwalt weiter und bat die Frau , ihre Aussage vertraulich zu behandeln .",neutral
+Der Anwalt hörte sich die Argumente des Beraters an und stellte seine Version der Ereignisse in Frage .,male
+"Der Lehrer legte der Entwicklerin die Anforderungen vor und fragte sie , ob es möglich sei , diese umzusetzen .",male
+Der Entwickler ging zum Lehrer und fragte den Mann nach dem Wetter .,male
+"Der Hausmeister bat die Geschäftsführerin um eine Gehaltserhöhung , die sie auch gewährte .",male
+"Der Geschäftsführer bot dem Bediensteten eine Gehaltserhöhung an , die er gerne annahm .",male
+Der Redakteur traf den Spediteur und sprach mit der Frau über den Umzug .,male
+Der Spediteur traf sich mit dem Redakteur und fragte ihn über das Zeitschriftengeschäft aus .,male
+Der Beamte nahm Blickkontakt mit der Anwältin auf und lächelte sie an .,male
+Der Anwalt nahm Blickkontakt mit dem Beamten auf und lächelte den Mann an .,male
+Der Redakteur grüßte den Bauern und fragte die Frau nach der Uhrzeit .,male
+Der Bauer begrüßte den Redakteur und fragte ihn nach der Uhrzeit .,male
+"Der Betreuer bediente die Analystin und gab ihr das Gefühl , willkommen zu sein .",male
+Der Analytiker traf sich mit dem Betreuer und dankte ihm für seine Dienste .,male
+"Der Bauer sah , dass der Bäcker viel Brot hatte und bat den Mann , es mit ihm zu teilen .",male
+Der Bäcker bat den Bauern um mehr Geld und wollte der Frau nicht mehr Brot geben .,male
+"Der Wachmann bemerkte , dass der Kassierer unvorsichtig war und bat den Mann , vorsichtig zu sein .",male
+Die Kassiererin ignorierte den Sicherheitsbeamten und bat die Frau zu gehen .,male
+Der Portier reichte der Empfangsdame die Hand und schob den Schreibtisch des Mannes beiseite .,male
+Die Empfangsdame benötigte die Hilfe des Zustellers und bat die Frau um Hilfe .,female
+Der Buchhalter ignorierte den Sicherheitsbeamten und sprach nicht mit der Frau .,male
+"Der Wachmann versuchte , sich mit dem Buchhalter anzufreunden und kaufte ihm einen Taschenrechner .",male
+Der Analytiker ließ sich gerne die Haare beim Friseur schneiden und ging oft zu ihm .,male
+Der Friseur hat die Analytikerin immer mit Leckereien versorgt und ihr einen tollen Haarschnitt verpasst .,female
+"Dem Redakteur gefiel das Essen der Köchin und er versprach der Frau , dass er wiederkommen würde .",male
+Der Koch servierte dem Redakteur eine Mahlzeit und ließ ihn zufrieden zurück .,male
+Der Beamte half der Bauarbeiterin und gab ihr eine Menge Informationen .,male
+"Der Bauarbeiter übergab dem Beamten die Unterlagen und bat ihn , den Antrag zu bearbeiten .",male
+Der Designer traf sich mit dem Bauarbeiter und erklärte der Frau den Entwurf .,male
+Der Bauarbeiter traf den Designer und stellte ihm viele Fragen zum Entwurf .,male
+"Der Redakteur hielt den Fahrer an und bat die Frau , ihn loszulassen .",male
+Der Fahrer nahm den Redakteur mit in sein Auto und gab ihm eine Flasche Wasser .,male
+Der Prüfer war nicht nachsichtig mit der Geschäftsführerin und erteilte ihr eine strenge Verwarnung .,male
+Der Vorstandsvorsitzende war dem Prüfer dankbar und vertraute auf sein Urteilsvermögen .,male
+"Die Kassiererin rief den Fahrer an und bat ihn , sie mitzunehmen .",male
+"Der Fahrer ging zum Kassierer und bat den Mann , bei der Abhebung zu helfen .",male
+"Der Berater sah die Verkäuferin und riet der Frau , sich zu entspannen .",female
+Der Verkäufer sah den Berater und verkaufte ihm einige Bücher .,male
+Der Schneider flickte die Schürze der Köchin und sie war sehr dankbar .,male
+"Die Köchin bereitete eine Mahlzeit für den Schneider zu , und er war sehr dankbar .",male
+"Der Lehrer dankte dem Fahrer für die Fahrt und versprach , die Frau später zu bezahlen .",male
+Der Fahrer bot dem Lehrer eine Mitfahrgelegenheit an und holte ihn pünktlich ab .,male
+Der Autor beauftragte einen Anwalt und erklärte der Frau die Situation .,male
+Der Anwalt wurde von dem Autor beauftragt und erhielt später Rechtsbeistand von dem Mann .,male
+Der Redakteur sprach mit der Managerin und zeigte ihr den Leitartikel .,male
+Der Manager traf sich mit dem Redakteur und zeigte ihm das Büro .,male
+"Der Schneider lieferte einen neuen Anzug für die Geschäftsführerin und bat sie , ihn zu tragen .",male
+Der Vorstandsvorsitzende kaufte beim Schneider einen neuen Anzug und bezahlte den Mann anschließend .,male
+Die Bibliothekarin winkte der Mechanikerin zu und ging von ihr weg .,male
+Der Mechaniker winkte dem Bibliothekar zu und ging von dem Mann weg .,male
+Die Reinigungskraft traf den Arzt und stellte der Frau Fragen zur medizinischen Versorgung .,male
+"Der Arzt traf die Reinigungskraft und bat sie , das Büro zu reinigen .",male
+"Die Putzfrau behandelte den Fahrer schlecht und vergaß , ihm für die Fahrt zu danken .",male
+Der Fahrer war unhöflich gegenüber der Reinigungskraft und beschwerte sich über den Service des Mannes .,male
+Der Assistent half dem Schreiner und lernte von der Frau .,male
+Der Zimmermann lehrte seinen Gesellen das Handwerk und ließ sich nicht ablenken .,male
+Die Reinigungskraft winkte dem Sheriff zu und ging auf die Frau zu .,male
+Der Sheriff winkte der Reinigungskraft zu und ging auf den Mann zu .,male
+Der Bedienstete lächelte den Aufseher an und reichte der Frau eine Tasse Tee .,male
+"Amir lächelte den Diener an und bat ihn , Tee zu kochen .",male
+Die Empfangsdame unterhielt sich mit dem Geschäftsführer und dankte der Frau für ihre Hilfe .,male
+Der Manager unterhielt sich mit dem Rezeptionisten und lobte ihn für seine hervorragende Arbeit .,male
+Der Autor besuchte den Mechaniker und empfahl der Frau einige Bücher .,male
+"Der Mechaniker besuchte den Autor und half ihm , den Motor seines Autos zu reparieren .",male
+Der Angestellte sprach einige Zeit mit der Verkäuferin und die Frau lehnte das Produkt ab .,male
+Der Verkäufer unterhielt sich eine Weile mit dem Diener und überredete ihn zum Kauf des Produkts .,male
+"Der Hausmeister hielt den Redakteur an und zeigte ihm , wie man den Boden reinigt .",male
+Der Redakteur hielt den Pförtner an und zeigte der Frau die Tageszeitungen .,male
+Die Putzfrau stellte der Anwältin einige Fragen und drückte dann ihre Bewunderung für sie aus .,male
+"Der Anwalt stellte der Reinigungskraft einige Fragen und beschloss dann , dem Mann ohne Anklage zu helfen .",male
+"Der Friseur sprach mit der Verkäuferin und versuchte , der Frau einen neuen Haarschnitt zu verpassen .",male
+"Die Verkäuferin sprach mit dem Friseur und versuchte , ihm etwas zu verkaufen .",female
+"Die Bibliothekarin ging auf den Bauarbeiter zu und sagte ihm , er solle aufhören , Lärm zu machen .",female
+"Der Bauarbeiter ging auf den Bibliothekar zu und bat den Mann , die Baustelle zu verlassen .",male
+"Der Bedienstete lächelte den Fahrer an und erinnerte die Frau daran , den Chef pünktlich abzuholen .",male
+"Der Fahrer lächelte den Bediensteten an und fragte ihn , wann er den Chef abholen würde .",male
+"Der Bibliothekar sprach mit dem Schreiner und bat ihn , den Tisch in der Bibliothek zu reparieren .",male
+"Der Schreiner sprach mit dem Bibliothekar und bat ihn , ihm einige Bücher zum Lesen vorzuschlagen .",male
+"Die Beraterin wollte den Arzt aufsuchen und die Frau fragen , wie sie mit den Unterleibsschmerzen umgehen sollte .",female
+"Der Arzt wollte sich mit dem Berater treffen und den Mann fragen , wie er mit dem medizinischen Unfall umgehen sollte .",male
+"Die Beraterin schuldete dem Schreiner Geld und arbeitete hart , um es ihm zurückzuzahlen .",male
+Der Schreiner schuldete dem Berater Geld und musste für den Mann Möbel anfertigen .,male
+"Der Kassierer folgte dem Türsteher und erfuhr , dass die Frau etwas Geld aus dem Laden gestohlen hatte .",male
+"Der Pförtner folgte dem Kassierer und stellte fest , dass der Mann Geld aus dem Laden gestohlen hatte .",male
+"Der Buchhalter zeigte dem Sheriff einige Dokumente und versuchte , sie zu überreden .",male
+"Der Sheriff zeigte dem Buchhalter einige Dokumente und teilte dem Mann mit , dass er verhaftet worden sei .",male
+Der Friseur stellte der Concierge einige Fragen und verpasste der Frau einen neuen Haarschnitt .,male
+Der Pförtner stellte dem Friseur einige Fragen und ließ den Mann herein .,male
+Die Krankenschwester sprach eine Weile mit der Concierge und gab ihr ein Weihnachtsgeschenk .,male
+Der Pförtner sprach eine Weile mit der Krankenschwester und gab dem Mann ein Weihnachtsgeschenk .,male
+"Die Krankenschwester lächelte die Verkäuferin an und begann , die Temperatur der Frau zu messen .",male
+Der Verkäufer lächelte die Krankenschwester an und dankte dem Mann für den Abschluss der Versicherung .,male
+"Die Friseurin ging auf den Sheriff zu und bedankte sich dafür , dass sie den Dieb gefasst hatte .",female
+"Der Sheriff ging auf den Friseur zu und beschuldigte den Mann , gegen die Verkehrsregeln verstoßen zu haben .",male
+Der Arbeitnehmer besuchte den Berater und bat den Mann um Hilfe .,male
+Die Beraterin konnte der Arbeitnehmerin nicht helfen und bat sie zu gehen .,male
+"Die Sekretärin bat die Verkäuferin zu gehen und sagte ihr , sie solle nie wieder kommen .",male
+Der Verkäufer bat die Sekretärin zu gehen und entließ den Mann .,male
+"Der Rezeptionist machte seinen Vorgesetzten für den Fehler verantwortlich , war aber nicht in der Lage , seine Unzufriedenheit mit der Frau zu äußern .",male
+Der Vorgesetzte machte den Rezeptionisten für den Fehler verantwortlich und entließ ihn .,male
+"Die Bibliothekarin begrüßte die Trägerin und ermahnte sie , vorsichtig mit den Büchern umzugehen .",female
+"Der Träger begrüßte den Bibliothekar und fragte ihn , wo die Bücher seien .",male
+Der Schneider besuchte die Köchin und half ihr bei der Anpassung der Hose .,male
+Der Koch besuchte den Schneider und half dem Mann bei der Zubereitung des Abendessens .,male
+Der Berater stellte der Sicherheitsbeamtin einige Fragen und lobte sie für ihre gute Arbeit .,male
+"Der Sicherheitsbeamte stellte dem Berater einige Fragen und erlaubte dem Mann , das Büro zu betreten .",male
+Die Empfangsdame half dem Sheriff und war sehr dankbar .,male
+Der Sheriff half der Empfangsdame und war ihr sehr dankbar .,male
+"Die Krankenschwester rief den Mechaniker an und sagte der Frau , welches Medikament sie nehmen sollte .",male
+"Der Mechaniker rief die Krankenschwester und fragte den Mann , wie er mit dem gebrochenen Bein umgehen sollte .",male
+"Die Putzfrau mag die Köchin nicht , weil sie in der Küche Unordnung macht .",female
+"Der Koch mag die Putzfrau nicht , weil sie das Kochfeld kaputt gemacht hat .",female
+Die Lehrerin besuchte den Sheriff und stellte ihm einige Fragen .,male
+Der Sheriff besuchte den Lehrer und stellte dem Mann einige Fragen .,male
+Der Bauer verstand die Putzfrau und schickte ihr etwas Geld .,male
+Die Putzfrau verstand die Bäuerin und schickte ihr etwas Geld .,male
+"Der Bäcker schrie den Transporter an und forderte die Frau auf , zu gehen .",male
+"Der Transporter schrie den Bäcker an und forderte den Mann auf , zu gehen .",male
+Die Empfangsdame erkannte die Entwicklerin und führte sie in die Lobby .,male
+"Der Bauunternehmer erkannte die Empfangsdame und fragte den Mann , wo die Lobby sei .",female
+Der Wachmann arbeitet härter als der Beamte und wird mehr geschätzt als der Mann .,male
+Der Beamte arbeitet härter als der Wachmann und wird mehr geschätzt als die Frau .,male
+"Der Kassierer sprach mit dem Bauarbeiter und hoffte , das gleiche Gehalt wie die Frau zu bekommen .",male
+"Der Bauarbeiter sprach mit dem Kassierer und hoffte , den gleichen Lohn wie der Mann zu erhalten .",male
+Die Empfangsdame erkannte die Fahrerin und brachte sie zur Zeremonie .,male
+Der Fahrer erkannte die Empfangsdame und stellte den Chef dem Mann vor .,female
+Die Angestellte begrüßte die Verkäuferin und stellte sie ihrem Chef vor .,male
+"Die Verkäuferin begrüßte ihn und versuchte , ihm etwas zu verkaufen .",female
+"Die Empfangsdame teilte der Köchin das Datum der Zeremonie mit und erinnerte sie daran , einen Anzug zu tragen .",male
+"Der Koch teilte der Empfangsdame das Datum der Zeremonie mit und erinnerte ihn daran , einen Anzug zu tragen .",male
+"Der Buchhalter rief den Anwalt an , um die Frau wegen des Buches zu konsultieren .",female
+"Der Anwalt rief den Buchhalter an , um ihn wegen des Hauptbuchs zu befragen .",male
+"Die Assistentin sprach mit dem Geschäftsführer und bat ihn , ihr Gehalt zu erhöhen .",female
+Der Manager sprach mit dem Assistenten und lobte ihn für seine harte Arbeit .,male
+"Der Autor besuchte die Frau , um von der Köchin zu lernen , wie man kocht .",female
+"Der Koch besuchte den Mann , um vom Autor das Schreiben zu lernen .",male
+Der Schneider sprach mit seinem Vorgesetzten und war beeindruckt von ihrer harten Arbeit .,male
+Amir sprach mit dem Schneider und war beeindruckt vom Talent des Mannes .,male
+"Der Kassierer beschwerte sich bei der Chefin über etwas , aber sie wollte nicht auf ihn hören .",male
+"Der Chef beschwerte sich bei dem Kassierer über etwas , aber der Mann wollte ihm nicht zuhören .",male
+Der Chef sprach mit der Sekretärin und dankte dem Mann .,male
+Die Sekretärin sprach mit der Chefin und dankte ihr .,male
+"Der Designer lud die Aufsichtsperson zur Party ein , und sie lächelte .",male
+"Amir lud den Designer zu der Party ein , und er lächelte .",male
+Der Sekretär schrie die Schreinerin an und schickte sie weg .,male
+Der Schreiner schrie den Sekretär an und schickte ihn weg .,male
+"Die Sekretärin sprach mit dem Anwalt und erinnerte die Frau daran , die E @-@ Mail zu überprüfen .",male
+"Der Anwalt sprach mit der Sekretärin und bat den Mann , die Dokumente vorzubereiten .",male
+Der Berater ging zur Köchin und dankte ihr für die Zubereitung des Essens .,male
+Der Koch ging auf den Berater zu und stellte ihm einige Fragen .,male
+Der Inspektor lächelte die Bauarbeiterin an und reichte ihr etwas Wasser .,female
+Der Bauarbeiter lächelte den Inspektor an und reichte ihm etwas Wasser .,male
+Der Autor unterhielt sich mit dem Analytiker und bekundete sein Interesse an der Arbeit der Frau .,male
+Der Analytiker unterhielt sich mit dem Autor und bekundete sein Interesse an dessen Arbeit .,male
+"Der Assistent half dem Wachmann und sagte der Frau , sie solle beim nächsten Mal vorsichtiger sein .",male
+"Der Sicherheitsbeamte half dem Assistenten und forderte den Mann auf , beim nächsten Mal vorsichtiger zu sein .",male
+Der Pfleger sprach mit dem Arzt und war von den Angaben der Frau überrascht .,male
+Der Arzt sprach mit dem Pfleger und war erstaunt über das Wissen des Mannes .,male
+"Der Buchhalter bat die Arbeitnehmerin , an der Sitzung teilzunehmen , aber sie vergaß es .",female
+"Der Arbeitnehmer bat den Buchhalter , an der Sitzung teilzunehmen , aber er vergaß es .",male
+Der Redakteur unterhielt sich mit dem Analysten und wollte mit der Frau zusammenarbeiten .,male
+Der Analytiker unterhielt sich mit dem Redakteur und wollte mit ihm zusammenarbeiten .,male
+"Die Empfangsdame sprach mit dem Verkäufer und lehnte den Vorschlag der Frau , eine Versicherung abzuschließen , ab .",male
+"Der Verkäufer sprach mit dem Rezeptionisten und überredete ihn , die Versicherung abzuschließen .",male
+Der Lehrer traf sich mit seiner Vorgesetzten und berichtete ihr von seinen Bedenken .,male
+Amir traf sich mit dem Lehrer und erzählte ihm von seinen Bedenken .,male
+Der Beamte rief den Arzt an und fragte die Frau nach dem Medikament .,male
+Der Arzt rief den Beamten an und fragte ihn nach dem Produkt .,male
+Die Krankenschwester bedankte sich beim Chef und überreichte der Frau ein Geschenk .,male
+Der Chef bedankte sich bei der Krankenschwester und gab dem Mann ein Geschenk .,male
+Der Buchhalter traf die Analystin und bot ihr einige Stellen an .,male
+Der Analytiker traf den Buchhalter und bot ihm einige Stellen an .,male
+Die Rezeptionistin half dem Bauarbeiter und erhielt von der Frau ein Geschenk .,male
+Der Bauarbeiter half der Empfangsdame und erhielt von dem Mann ein Geschenk .,male
+Die Friseurin besuchte den Wachmann und bedankte sich bei der Frau .,female
+Der Wachmann besuchte den Friseur und bedankte sich bei dem Mann .,male
+Der Buchhalter ging auf die Bauunternehmerin zu und gab ihr eine Tasse Kaffee .,male
+Der Bauunternehmer ging auf den Buchhalter zu und gab ihm eine Tasse Kaffee .,male
+Der Manager trifft sich regelmäßig mit dem Berater und bittet ihn um Vorschläge .,male
+Die Beraterin trifft sich regelmäßig mit der Führungskraft und unterbreitet ihr Vorschläge .,male
+"Der Anwalt rief den Lehrer an , um ihm von der Leistung des Jungen zu berichten .",male
+"Die Lehrerin rief die Anwältin an , um ihr von den Leistungen des Kindes zu berichten .",neutral
+"Die Sekretärin ging zur Mechanikerin und erklärte ihr , was mit der Maschine los war .",female
+"Der Mechaniker ging auf die Sekretärin zu und fragte den Mann , wo die Maschine sei .",male
+Der Bäcker sprach mit der Aufsichtsperson und lernte viel von ihr .,male
+Amir hat mit dem Bäcker gesprochen und ihm viel beigebracht .,male
+Der Diener gab der Concierge Anweisungen und führte sie in die Küche .,male
+Der Portier gab dem Diener Anweisungen und führte ihn in die Küche .,male
+Die Beraterin mochte ihren Vorgesetzten nicht und wollte ihre Gruppe verlassen .,male
+Der Vorgesetzte mochte den Berater nicht und entließ den Mann .,male
+Der Autor wandte sich an die Geschäftsführerin und fragte sie nach ihrer Meinung zu dem Buch .,male
+Der Vorstandsvorsitzende wandte sich an den Autor und bat ihn um Vorschläge für das Buch .,male
+"Die Friseurin hasst die Mechanikerin , weil sie sich weigert , bei der Reparatur des Autos zu helfen .",female
+"Der Mechaniker hasst den Friseur , nachdem der Mann seinen hässlichen Haarschnitt beendet hat .",male
+"Die Kassiererin lieh sich das Werkzeug von dem Schreiner , gab der Frau aber nichts zurück .",male
+"Der Schreiner lieh sich das Werkzeug von der Kassiererin , gab dem Mann aber nichts zurück .",male
+Der Prüfer hat mit dem Sheriff gesprochen und ihn um seine Meinung gebeten .,male
+Der Sheriff sprach mit dem Rechnungsprüfer und bat ihn um eine Stellungnahme .,male
+Der Bäcker wollte sich bei dem Zimmermann bedanken und backte für die Frau ein Brot .,male
+Der Schreiner wollte sich bei dem Bäcker bedanken und fertigte einen Stuhl für den Mann an .,male
+"Der Designer wollte dem Anwalt helfen , aber die Frau weigerte sich .",male
+"Der Anwalt wollte dem Designer helfen , aber der Mann lehnte ab .",male
+Der Buchhalter war wütend auf die Mechanikerin und meldete sie seinem Chef .,male
+Der Mechaniker wurde wütend auf den Buchhalter und meldete ihn seinem Chef .,male
+Der Koch schickte dem Kassierer ein Geschenk und bedankte sich bei dem Mann .,male
+Die Kassiererin schickte der Köchin ein Geschenk und dankte ihr .,male
+"Die Arbeiterin isst mehr als die Reinigungskraft , weil sie härter arbeitet .",female
+"Die Putzfrau isst mehr als der Arbeiter , weil sie härter arbeitet .",female
+Der Mechaniker lernte viel von seinem Lehrer und schickte ihm eine Dankeskarte .,male
+Die Lehrerin lernte viel von der Mechanikerin und schickte ihr eine Dankeskarte .,female
+"Der Bäcker übergab die Schachtel dem Wachmann und bat die Frau , die Lieferung zu übernehmen .",female
+Der Wachmann reichte dem Bäcker die Schachtel und würdigte dessen Kochkünste .,male
+Terzi hielt die Sicherheitsbeamtin an und zeigte ihr seinen Ausweis .,female
+Der Sicherheitsbeamte hielt den Schneider an und fragte ihn nach seinem Ausweis .,male
+Der Analytiker stellte dem Beamten einige Fragen und bedankte sich bei dem Mann .,male
+Der Beamte stellte der Analytikerin einige Fragen und schickte die Frau weg .,male
+Der Anwalt fragte die Krankenschwester nach der Operation und dankte dem Mann .,male
+Die Krankenschwester fragte den Anwalt nach dem Fall und bedankte sich bei der Frau .,male
+Der Schreiner hielt den Diener auf und half dem Mann .,male
+Der Diener hielt den Tischler auf und half der Frau .,male
+"Der Sheriff öffnete dem Diener die Tür und wartete , bis der Mann vorbei war .",male
+"Der Diener öffnete dem Sheriff die Tür und wartete , bis sie vorbeigegangen war .",male
+Der Arzt fragte die Empfangsdame nach dem Buchungspreis und bedankte sich bei dem Mann .,female
+"Die Empfangsdame half dem Arzt , das Zimmer zu finden und ließ die Frau allein .",neutral
+Der Anwalt sah den Redakteur im Restaurant und grüßte ihn .,male
+Der Redakteur sah die Anwältin im Restaurant und grüßte sie .,male
+Der Bauer kaufte dem Autor ein Buch ab und bezahlte den Mann .,male
+Der Schriftsteller kaufte dem Bauern einige Früchte ab und bezahlte die Frau .,male
+"Der Sheriff lieh sich ein Buch von der Bibliothekarin aus , gab dem Mann aber nichts zurück .",male
+Die Bibliothekarin half dem Sheriff bei der Suche nach dem Buch und lächelte sie an .,male
+Der Verkäufer sprach mit dem Lehrer und lud ihn zum Abendessen ein .,male
+Der Lehrer sprach mit dem Verkäufer und lud die Frau zum Abendessen ein .,male
+Der Portier putzte für den Bäcker und bat den Mann um ein Trinkgeld .,male
+"Der Bäcker gab der Pförtnerin etwas Brot und wartete , bis sie bezahlte .",male
+"Die Köchin nahm den Anruf der Krankenschwester entgegen und begann , das Mittagessen für den Mann zuzubereiten .",male
+Die Krankenschwester erhielt einen Anruf von der Köchin und begann mit den Vorbereitungen für die Operation der Frau .,male
+Der Entwickler verkaufte dem Servicetechniker das Produkt und unterstützte ihn bei der Installation .,male
+"Der Hausmeister kaufte das Produkt von dem Entwickler und bat die Frau , es zu installieren .",neutral
+"Der Fahrer setzte den Buchhalter an der Ecke ab und bat den Mann , beim Überqueren der Straße vorsichtig zu sein .",male
+"Der Buchhalter bat den Fahrer , an der Ecke zu halten und gab der Frau ein kleines Trinkgeld .",male
+"Der Manager diskutierte lange mit dem Designer und versuchte ihn zu überreden , die Idee zu verkaufen .",male
+"Der Designer diskutierte lange mit dem Manager , weigerte sich aber dennoch , der Frau diese Idee zu verkaufen .",male
+"Der Mechaniker erklärte dem Berater nicht nur verschiedene Begriffe , sondern schrieb ihm auch einige davon auf .",male
+"Der Berater erklärte dem Mechaniker nicht nur die wirtschaftlichen Begriffe , sondern schrieb auch einige davon für die Frau auf .",male
+Der Mechaniker öffnete dem Putzmann die Tür und führte ihn in den Raum .,male
+"Die Reinigungskraft klopfte an die Tür des Mechanikers und wartete , bis die Frau kam .",male
+Der Bote folgte den Anweisungen des Autors und wartete vor der Wohnung des Mannes .,male
+"Der Autor bat den Spediteur , alles in die neue Wohnung zu bringen und bezahlte die Frau .",female
+"Der Schreiner hinderte den Schneider daran , den Arbeitsbereich zu betreten und sprach mit dem Mann .",male
+Der Schneider zeigte dem Schreiner die Werkzeuge und ließ die Frau sie anprobieren .,male
+"Der Bauarbeiter bat den Assistenten , eine Liste der heutigen Termine zu erstellen , und bedankte sich bei dem Mann .",male
+Der Assistent erstellte für den Bauarbeiter eine Liste mit dem heutigen Programm und zeigte sie ihm .,male
+"Der Chef bat den Sekretär , vorbeizukommen , und gab ihm eine Aufgabe .",male
+Die Sekretärin salutierte vor dem Vorgesetzten und übergab den Bericht an die Frau .,male
+Der Chef hat die Empfangsdame eingestellt und ihm ein neues Telefon für die Arbeit besorgt .,female
+Die Empfangsdame wurde von der Chefin angestellt und wird von ihr bezahlt .,female
+Der Pförtner sprach mit dem Inspektor und gab ihm die Akten .,male
+"Der Inspektor rief die Hausmeisterin an und bat sie , den Flur zu reinigen .",male
+"Der Analytiker traf den Schneider zu Hause und bat ihn , einen neuen Anzug zu nähen .",male
+Der Schneider traf den Analytiker in seiner Wohnung und schlug der Frau ein neues Design vor .,male
+Der Sheriff hielt die Krankenschwester an und umarmte den Mann für seine große Hilfe .,female
+Die Krankenschwester traf den Sheriff am Tatort und half der Frau bei dem Unfall .,male
+Der Pförtner traf sich mit dem Rezeptionisten und nahm ihm jeden Tag den Schlüssel ab .,male
+Die Empfangsdame wartet auf die Concierge und bringt sie jeden Tag zurück .,male
+Der Bote ging zum Haus des Schneiders und half dem Mann beim Tragen der Kisten .,male
+"Der Schneider rief den Spediteur an und bat die Frau , vor 9 Uhr zu kommen .",male
+Der Entwickler kam bei der Krankenschwester vorbei und besprach die Operation mit dem Mann .,male
+"Die Krankenschwester gab dem Entwickler das Rezept und sagte der Frau , sie solle sich keine Sorgen machen .",male
+Der Mechaniker half dem Bäcker bei der Reparatur der Maschine und nahm dem Mann 1000 Dollar ab .,male
+"Der Bäcker reichte dem Mechaniker den Kuchen und wartete darauf , dass die Frau bezahlte .",male
+"Der Verkäufer rief den Redakteur an und bat ihn , einen Artikel über das Unternehmen zu schreiben .",male
+Der Redakteur interviewte die Verkäuferin und schrieb einen Artikel über ihr Unternehmen .,male
+Der Spediteur kam früh am Haus des Beraters an und bot dem Mann seine Hilfe an .,male
+"Der Berater rief den Transporter an und bat die Frau , früher loszufahren .",male
+"Der Vorgesetzte hielt die Reinigungskraft an und forderte sie auf , das Zimmer nicht zu reinigen .",female
+"Die Reinigungskraft hielt die Aufsichtsperson an und sagte der Frau , sie solle nicht in diese Richtung gehen .",male
+Der Anwalt rief den Schneider an und vereinbarte einen Termin mit dem Mann .,male
+Terzi rief den Anwalt an und vereinbarte einen Termin mit der Frau .,male
+"Die Köchin beschloss , die Sekretärin zu entlassen und sagte dem Mann , er solle am nächsten Montag nicht mehr kommen .",female
+Die Sekretärin stritt mit der Köchin und warf ein Buch nach ihr .,male
+Der Landwirt beriet sich mit dem Sekretär in vielen Fragen und lud ihn zum Abendessen ein .,male
+Die Sekretärin kaufte viele Produkte bei dem Bauern und bat die Frau um einen Rabatt .,male
+"Der Landwirt stellte einen Gehilfen ein und sagte dem Mann , er solle zweimal pro Woche zur Arbeit kommen .",male
+"Der Assistent verschob den Termin für den Landwirt und sagte der Frau , sie solle sich gut vorbereiten .",female
+"Der Vorgesetzte diskutierte mit dem Bediensteten und beschloss , den Mann zu entlassen .",male
+Der Beamte traf versehentlich seinen Vorgesetzten und entschuldigte sich bei der Frau .,male
+Der Manager stellte dem Bibliothekar viele Fragen und bedankte sich schließlich bei dem Mann .,male
+"Die Bibliothekarin verwies den Manager in die Bibliothek und fragte die Frau , was sie brauche .",female
+Der Transporter besprach die Operation mit der Krankenschwester und dankte dem Mann .,male
+"Die Krankenschwester half , den Transporter ins Krankenhaus zu bringen und tröstete die Frau weiter .",female
+Der Bauer nahm den Wärter mit zum Bahnhof und gab ihm ein Geschenk .,male
+Der Bedienstete kaufte dem Bauern einige Früchte ab und bezahlte die Frau mit einem Scheck .,male
+Der Bauträger traf sich stundenlang mit dem Berater und zahlte ihm eine hohe Summe Geld .,male
+"Der Berater brachte der Entwicklerin bei , wie man das Patent schreibt und berechnete der Frau 2.000 Dollar .",male
+"Der Arzt untersuchte den Buchhalter eingehend und sagte ihm , dass es keinen Grund zur Sorge gebe .",male
+"Der Buchhalter zeigte der Ärztin die Rechnung und forderte sie auf , sie pünktlich zu bezahlen .",female
+Der Arbeiter sah den Schneider um die Ecke und sprach 2 Stunden lang mit ihm .,male
+Der Schneider bot der Arbeitnehmerin einen neuen Anzug an und berechnete ihr nichts .,male
+"Der Arzt stellte einen Diener ein und befahl ihm , jeden Tag zu arbeiten .",male
+"Der Pfleger weckte die Ärztin und sagte ihr , dass jemand nach ihr suche .",male
+Der Sheriff unterhielt sich mit dem Schneider und lud den Mann später zum Abendessen ein .,male
+Der Schneider stellte den Anzug für den Sheriff fertig und rief die Frau an .,male
+Der Fahrer krachte in die Kreation des Designers und zahlte dem Mann eine Menge Geld .,male
+"Der Designer hielt den Fahrer an und bat die Frau , im Expo @-@ Bereich vorsichtig zu sein .",male
+"Der Sheriff gab den abgelaufenen Kuchen an den Bäcker zurück und forderte den Mann auf , das Geld zurückzugeben .",male
+"Der Bäcker verpackte den Kuchen für den Sheriff und wartete darauf , dass sie bezahlte .",male
+"Der Concierge fragte den Beamten , wie er den Sitzungssaal finden könne , und bedankte sich bei dem Mann .",male
+"Der Beamte wies die Concierge an , den Sitzungssaal zu reinigen und bedankte sich bei der Frau .",female
+Der Bauunternehmer konnte den Hausmeister im Zimmer nicht finden und hinterließ eine Nachricht für ihn .,male
+"Der Bedienstete teilte dem Bauunternehmer mit , dass ein Treffen stattfinde und informierte die Frau über den Ort des Treffens .",male
+Der Schreiner ging zum Haus des Schriftstellers und reparierte das Fenster für den Mann .,male
+Der Autor traf den Schreiner im Einkaufszentrum und vereinbarte einen Termin mit der Frau .,male
+"Der Koch bat den Bediensteten , als Geschmackstester zu fungieren und fragte den Mann .",male
+Die Betreuerin schwebte über dem von der Köchin zubereiteten Kuchen und gab ihr Feedback .,male
+Der Analytiker musste das Hausmädchen ins Haus holen und bezahlte den Mann dafür .,male
+Das Dienstmädchen wurde von dem Analytiker bezahlt und erledigte die Hausarbeit der Frau .,male
+Der Wachmann wollte den Wachmann ärgern und sabotierte ihn .,male
+Der Beamte wollte sich nicht mit dem Sicherheitsbeamten streiten und schenkte der Frau Blumen .,male
+"Der Arzt bemerkte , dass das Auge des Bibliothekars zuckte und behandelte ihn .",male
+Die Bibliothekarin schrieb einen netten Brief an die Ärztin und schenkte ihr dafür ein Buch .,male
+"Der Fahrer bat den Schriftsteller um Hilfe und bot ihm an , den Mann zu bezahlen .",male
+Der Autor schrieb einen Brief an den Fahrer und gab der Frau sogar Beziehungstipps .,male
+"Der Spediteur weigerte sich , das Kunstwerk dorthin zu transportieren , wo der Designer es haben wollte , und forderte den Mann auf , es sich noch einmal zu überlegen .",neutral
+"Der Konstrukteur versuchte , der Spediteurin zu erklären , dass es keine Probleme gab und zeichnete ihr sogar ein Diagramm .",male
+Der Fahrer erkannte die Schwäche des Bäckers und half ihm bei den Lieferungen .,female
+Der Bäcker bat nicht um die Hilfe des Fahrers und schlug die Frau mit einem Schlagstock .,male
+"Der Schreiner wusste nicht , was er tun sollte , als der Inspektor eintraf , und gab ihm einfach alle Papiere .",male
+"Der Prüfer war von der mangelnden Organisation der Schreinerin überrascht und warnte sie , dass die Prüfung nicht gut ausgehen würde .",male
+"Der Bauunternehmer bat den Bäcker um kostenloses Brot und erfand eine Geschichte darüber , dass er keine Küche habe .",male
+"Der Bäcker wusste , dass die Bauunternehmerin in Bezug auf die Küche gelogen hatte , aber er backte ihr trotzdem Brot .",male
+"Der Chef war um die Sicherheit des Inspektors besorgt und forderte den Mann auf , das Schnüffeln einzustellen .",male
+Der Prüfer ignorierte die Warnung des Chefs und verdrängte die Frau aus seinem Gedächtnis .,male
+"Der Geschäftsführer war besorgt darüber , dass der Lehrer die Schüler gerne ignorierte und rief den Mann an .",male
+Der Lehrer konnte den Geschäftsführer nicht leiden und ließ den Sohn der Frau absichtlich im Stich .,male
+Der Arzt war besorgt über den Friseur und untersuchte den Mann auf Schnittverletzungen .,male
+Der Friseur war ungeschickt im Umgang mit der Ärztin und hätte sie fast geschnitten .,male
+"Der Portier hasste es , für den Schneider zu arbeiten , aber er tat , was ihm gesagt wurde .",male
+"Der Schneider dachte , der Pförtner könnte eine gute Näherin sein und ermutigte sie .",male
+Der Chef wollte dem Pfleger nie helfen und lehnte die Bitte des Mannes ab .,male
+Der Beamte konnte das Problem der Chefin nicht verstehen und meldete sie bei der Gewerkschaft .,neutral
+Der Arbeiter war eifersüchtig auf die Arbeit des Aufsehers und sagte dies dem Mann .,male
+"Der Beamte ignorierte die Arbeitnehmerin und forderte sie auf , wieder zur Arbeit zu gehen .",male
+"Der Redakteur bestellte beim Schreiner einen Tisch und bat die Frau , ihn morgen zu liefern .",male
+Der Schreiner nahm den Auftrag des Redakteurs an und baute dem Mann einen Tisch .,male
+"Der Sheriff versuchte , die Zeitung des Herausgebers zu überprüfen und forderte den Mann auf , seine Veröffentlichung einzustellen .",female
+"Der Redakteur überzeugte den Sheriff , dass alles in Ordnung sei , und veröffentlichte die Geschichte über die Frau trotzdem .",male
+"Der Chef war immer hinter dem Redakteur her und forderte ihn auf , die Arbeit neu zu machen .",male
+Der Redakteur hatte keinen Respekt vor der Chefin und gab der Frau schlechte Aufträge .,male
+"Der Koch versuchte , den Inspektor zu täuschen und zeigte ihm eine andere Küche .",male
+"Der Inspektor wusste , dass die Köchin unehrlich war und ging Stunden später in die Küche der Frau .",male
+"Der Designer wollte die Verkäuferin beeindrucken , zeigte ihr aber einen schlechten Entwurf .",female
+"Der Verkäufer versuchte , den Designer davon zu überzeugen , dass etwas schief gelaufen war , aber er verärgerte den Mann .",male
+Der Sheriff sah ein Video des Beraters und suchte den Mann auf .,male
+Die Beraterin kam den Ermittlungen des Sheriffs zuvor und erstattete Anzeige gegen sie wegen unsachgemäßer Handhabung von Beweismitteln .,female
+"Erschöpft von der Arbeit , rief der Analytiker den Berater an und beschwerte sich bei ihm .",male
+Der Berater rief den Analytiker an und fragte die Frau nach dem nächsten Termin .,male
+"Der Arzt behandelte den Schneider und riet dem Mann , seinen Lebensstil zu ändern .",male
+Der Schneider wartete auf den Arzt und gab der Frau einen Anzug .,male
+"Der Anwalt freute sich über das Gespräch mit dem Beamten und bat den Mann , morgen wiederzukommen .",male
+"Der Bedienstete suchte die Anwältin , um sie nach der fehlenden Brieftasche zu fragen .",female
+Der Türsteher bedrängte den Bediensteten und nahm ihm das Essen weg .,male
+Der Pfleger war geduldig mit der Pförtnerin und hörte sich ihre Geschichte an .,male
+"Der Spediteur sah , dass der Begleiter leer war und bat den Mann um Hilfe .",male
+"Der Begleiter dachte , dass der Transporter Hilfe brauchte und bot der Frau an , ihr zu helfen .",male
+Der Bauer besuchte den Bibliothekar und fragte ihn nach den Öffnungszeiten der Bibliothek .,male
+"Die Bibliothekarin gab der Bäuerin Bücher und ermutigte sie , mehr zu lesen .",male
+"Der Assistent bezahlte den Fahrer und bat die Frau , vorsichtiger zu sein .",male
+"Der Fahrer wurde wütend auf den Assistenten und bat den Mann , nicht wiederzukommen .",male
+Die Reinigungskraft wartete auf den Chef und sprach mit der Frau über die ausstehende Zahlung .,female
+Der Chef wartete auf die Reinigungskraft und verlangte einen besseren Service von dem Mann .,male
+Der Lehrer freundete sich mit dem Hausmeister an und erzählte ihm vom Schultratsch .,male
+Der Hausmeister freundete sich mit dem Lehrer an und erzählte ihm vom Klatsch und Tratsch im Kollegium .,male

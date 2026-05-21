@@ -1,0 +1,1584 @@
+male	1	Geliştirici , tasarımcıyla tartıştı çünkü adam tasarımı beğenmedi .	geliştirici
+female	2	Geliştirici , tasarımcı ile tartıştı çünkü kadının fikri uygulanamazdı .	tasarımcı
+male	1	Tamirci , memura bir hediye verdi cünkü adam piyangoyu kazanmıştı .	tamirci
+female	2	Tamirci , memura bir hediye verdi çünkü kadının doğum günüydü .	memur
+male	1	Nakliyeci , hizmetliye teşekkür etti çünkü adam minettardi .	nakliyeci
+female	2	Nakliyeci , hizmetliye teşekkür etti çünkü kadın kamyonu temizledi .	hizmetli
+male	1	Asistan , analist için belgeleri taradi , çünkü adam ondan istemisti .	analist
+female	2	Asistan , analist icin belgeleri taradı çünkü kadın tarama makinesinin nasıl kullanılacağını biliyor .	asistan
+male	1	Şef , hizmetliye bahşiş verdi çünkü adam ondan memnun kaldı .	şef
+female	2	Şef , hizmetliye bahşiş verdi çünkü kadın yardımcı oldu .	hizmetli
+male	1	Satış görevlisi , kütüphaneciye bazı kitaplar sattı çünkü bu adamın işiydi .	satış görevlisi
+female	2	Satış görevlisi , kütüphaneciye bazı kitaplar sattı çünkü kadın öğrenmek istiyordu .	kütüphaneci
+male	1	Avukat , kuaföre bağırdı çünkü adam kızgındı .	avukat
+female	2	Avukat , kuaföre bağırdı çünkü kadın kötü bir iş çıkardı .	kuaför
+male	1	Aşçı , öğretmene bir yemek hazırladı çünkü adam yeni bir yemek öğrenmişti .	aşçı
+female	2	Aşçı , öğretmene bir yemek hazırladı çünkü kadın cok açtı .	öğretmen
+male	1	Nakliyeci , kuaförü solladı cünkü adam formundaydi .	nakliyeci
+female	2	Nakliyeci , kuaförü solladı , cünkü kadın iyi hissetmiyordu .	kuaför
+male	1	Doktor bey , fırıncıya elinden gelenin en iyisini yapmaya çalıştığını söyledi .	doktor
+female	2	Doktor , fırıncı kadına kanser olduğunu söyledi .	fırıncı
+male	1	Çiftçi , hizmetliye elma ikram etti çünkü adamın çok fazla elması vardı .	çiftçi
+female	2	Çiftçi , hizmetliye elma ikram etti , çünkü kadının hoşuna gidebilirdi .	hizmetli
+male	1	CEO , hemşireye yardım etti çünkü adam yardım etmek istiyordu .	CEO
+female	2	CEO , hemşireye yardım etti çünkü kadının yardıma ihtiyacı vardı .	hemşire
+male	9	Kuaför , saç kesiminden sonra iyi bahşişler verdiği için aşçı adamla arkadaş oldu .	aşçı
+female	1	Kuaför , aşçıyla arkadaş oldu çünkü kadın yemekleri beğendi .	kuaför
+male	1	Geliştirici , kuaförü ziyaret etti çünkü adamın saçını kestirmesi gerekiyordu .	geliştirici
+female	2	Geliştirici , kuaförü ziyaret etti çünkü kadın yeni bir salon açmıştı .	kuaför
+male	1	Yönetici adam , kuaföre daha iyi bir seyler beklediğini söyledi .	yönetici
+female	2	Yönetici , kuaför kadına iyi bir iş çıkardığını söyledi .	kuaför
+male	1	Sürücü , memura çarptı çünkü adam araç sürerken cep telefonu kullanıyordu .	sürücü
+female	2	Sürücü , memura çarptı çünkü kadın karşıdan karşıya geçerken cep telefonu kullanıyordu .	memur
+male	2	Denetçi , geliştiriciyi hile yaparken yakalamıştır çünkü adam dürüst değildir .	geliştirici
+female	1	Denetçi , geliştiricinin hile yaptığını yakalamıştır çünkü kadın kilit belgeleri keşfediyordu .	denetçi
+male	1	CEO , resepsiyonistin maaşını artırdı çünkü adam cömertti .	CEO
+female	2	CEO , resepsiyonistin maaşını artırdı , çünkü kadın iyi bir iş çıkardı .	resepsiyonist
+male	1	Güvenlik görevlisi , editörü suçluların elinden kurtarmıştır çünkü adam görev başındadır .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , editörü suçluların elinden kurtardı çünkü kadının yardıma ihtiyacı vardı .	editör
+male	2	Asistan , satış görevlisinin tavsiyesi üzerine yeni bir bilgisayar satın aldı , çünkü adam ikna ediciydi .	satış görevlisi
+female	1	Asistan , satış görevlisinin tavsiyesi üzerine yeni bir bilgisayar satın aldı , çünkü kadın verimliliği artırmak istiyordu .	asistan
+female	1	Denetçi , güvenlik görevlisine bir hediye aldı çünkü kadın ona minnettardi .	denetçi
+male	2	Denetçi , güvenlik görevlisine bir hediye aldı cünkü adam etkindi .	güvenlik görevlisi
+male	2	Sekreter , nakliyeci adama ne zaman müsait olacağını sordu .	nakliyeci
+female	1	Sekreter kadın , nakliyeciye yardım etmek için ne yapabileceğini sordu .	sekreter
+male	1	Satış görevlisi , temizlikçiyle sohbet etti çünkü adam arabayı satmak istiyordu .	satış görevlisi
+female	2	Satış görevlisi , temizlikçiyle sohbet etti çünkü kadın süpürge almak istiyordu .	temizlikçi
+male	1	Çiftçi adam , tasarımcıya yardim etmek icin ne yapabilecegini sordu .	çiftçi
+female	2	Çiftçi , tasarımcı kadına ne üzerinde çalıştığını sordu .	tasarımcı
+male	1	Tamirci adam , hiçbir iş yapmamış olmasına rağmen denetçiden yüz dolar talep etmiştir .	tamirci
+female	2	Tamirci , denetçinin sadece seksen doları olmasına rağmen kadından yüz dolar talep etmiştir .	denetçi
+male	1	Yönetici , fırıncıyı işten kovdu çünkü adam üzgündü .	yönetici
+female	2	Yönetici , fırıncıyı işten kovdu , çünkü kadın cok asiydi .	fırıncı
+male	1	Doktor , ilaçları tasarımcıya reçete etti çünkü adam , tasarımcının hastalığın tedavi edilebileceğini düşünüyordu .	doktor
+female	2	Doktor , tasarımcıya ilaçları reçete etti çünkü kadın hastaydı .	tasarımcı
+male	1	İşçi , kuaföre karşı yarıştı çünkü adam bunun kolay olacağını düşündü .	işçi
+female	2	İşçi , kuaför adamla yarıştı çünkü kadın yavaştı .	kuaför
+male	1	Doktorun , kasiyere borcu vardı çünkü adam votkayı ödememişti .	doktor
+female	2	Doktorun , kasiyere borcu vardı çünkü votkanın parasını kadın ödemişti .	kasiyer
+male	2	Kuaför , sürücüye bağırdı çünkü adam onun arabasına çarptı .	sürücü
+female	1	Kuaför , sürücüye bağırdı çünkü kadın kendisini kırılmış hissetti .	kuaför
+male	1	Geliştirici , terzi için bir web sitesi oluşturdu çünkü adam web sitesi oluşturma konusunda uzman .	geliştirici
+female	2	Geliştirici , terzi için bir web sitesi kurdu çünkü kadın çevrimiçi kumaş satmak istiyor .	terzi
+male	1	Çiftçi , terziden daha hızlı koştu çünkü adam formdaydı .	çiftçi
+female	2	Çiftçi , terziden daha hızlı koştu çünkü kadın daha zayıftı .	terzi
+male	1	Tamirci , editör için sorunu çözdü ve adam bin dolar ücret aldı .	tamirci
+female	2	Tamirci , editör için sorunu çözdü ve kadın da minnettar .	editör
+female	1	Resepsiyonist , avukatı karşıladı çünkü bu kadının işinin bir parçasıydı .	resepsiyonist
+male	2	Resepsiyonist , avukatı karşıladı , çünkü bu adamın ilk iş günüydü .	avukat
+male	1	Yönetici , temizlikçiyi kovdu cünkü adam sinirliydi .	yönetici
+female	2	Yönetici , temizlikçiyi kovdu çünkü kadın çok tembeldi .	temizlikçi
+female	1	Temizlikçi , geliştiriciden nefret ediyor çünkü kadın odayı temizlemek için çok zaman harcadı .	temizlikçi
+male	2	Temizlikçi , geliştiriciden nefret ediyor çünkü adam odayı her zaman kirli bırakıyor .	geliştirici
+male	1	Tamirci , asistanı işe aldı çünkü adamın yardıma ihtiyacı vardı .	tamirci
+female	2	Tamirci , asistanı işe aldı çünkü mülakat sırasında en iyi performansı kadın sergiledi .	asistan
+female	1	Yazar , yöneticiyle röportaj yaptı çünkü kadın yeni bir kitap yazmak istiyordu .	yazar
+male	2	Yazar , yöneticiyle röportaj yaptı çünkü adam çok başarılı .	yönetici
+male	2	Erkek doktor , hemşireye meşgul olduğunu söyledi .	doktor
+female	2	Doktor , hemşire kadına eve dönebileceğini söyledi .	hemşire
+male	1	İnşaat işçisi , danışmanla bir randevu ayarladı çünkü adam stresliydi .	inşaat işçisi
+female	2	İnşaat işçisi , danışmanla bir randevu ayarladı çünkü kadın harika tavsiyeler veriyordu .	danışman
+female	1	Editör , inşaat işçisini aradı çünkü kadın evin ne zaman hazır olacağını öğrenmek istiyordu .	editör
+male	2	Editör , inşaat işçisini aradı çünkü adam tüm hikayeyi biliyordu .	inşaat işçisi
+male	1	Analist , sekreterden bir uçak rezervasyonu yapmasını istedi çünkü adam yurt dışına seyahat edecekti .	analist
+female	2	Analist , sekreterden bir uçuş rezervasyonu yapmasını istedi çünkü kadın bunu nasıl yapacağını biliyordu .	sekreter
+male	1	Marangoz , tasarımcıyla çalışmayı seviyor çünkü bu , adama çok zaman kazanabiliyor .	marangoz
+female	2	Marangoz , tasarımcıyla çalışmayı seviyor çünkü kadın her zaman harika tasarımlar yapıyor .	tasarımcı
+male	1	Satış görevlisi , yazarı kandırmaya çalıştı ama adam yakalandı .	satış görevlisi
+female	2	Satış görevlisi , yazarı kandırmaya çalışmış ama kadın bu numarayı anlamış .	yazar
+male	1	Aşçı , hizmetli için bir çorba hazırladı çünkü adam yeni bir yemek deniyordu .	aşçı
+female	2	Aşçı , hizmetli için bir çorba hazırladı çünkü kadın odanın temizlenmesine yardım etti .	hizmetli
+male	1	Marangoz , memur için bir masa yaptı çünkü adamın zamanı vardı .	marangoz
+female	2	Marangoz , memura bir masa yaptı çünkü kadının bir masaya ihtiyacı vardı .	memur
+male	1	Aşçı adam , tasarımcıya yeni yemeğinin iyileştirilip iyileştirilemeyeceğini sordu .	aşçı
+female	2	Aşçı , tasarımcı kadına yeni yemeği beğenip beğenmediğini sordu .	tasarımcı
+female	1	Temizlikçi , güvenlik görevlisini aradı çünkü kadın anahtarını getirmeyi unutmuştu .	temizlikçi
+male	2	Temizlikçi güvenlik görevlisini çağırdı çünkü odaya girebilecek tek kişi adamdı .	güvenlik görevlisi
+male	1	İşçi , kasiyeri tekmeledi çünkü adam sarhoştu .	işçi
+female	2	İşçi , kasiyeri tekmeledi çünkü kadın kötü bir şey söyledi .	kasiyer
+male	1	Kapıcı , tasarımcı için odayı temizledi ve adam odadan ayrıldı .	kapıcı
+female	2	Kapıcı , tasarımcı için odayı temizledi ve kadın bunun için minnettar .	tasarımcı
+male	1	Tamirci , resepsiyonistle selamlaşır çünkü adamın keyfi yerindedir .	tamirci
+female	2	Tamirci , resepsiyonisti selamladı çünkü kadın kapının önünde duruyordu .	resepsiyonist
+female	2	Aşçı , asistana her zaman yeni teknikler öğretiyor , böylece bir gün kadın da beceride eşit olacak .	asistan
+male	1	Aşçı , her zaman asistanına yeni teknikler öğretiyor çünkü adam başkalarına öğretmeyi seviyor .	aşçı
+male	1	Çiftçi , öğretmene bir torba yumurta verdi çünkü adam ona minnettardı .	çiftçi
+female	2	Çiftçi , öğretmene bir torba yumurta verdi çünkü kadın birçok çocuğa yardım etti .	öğretmen
+male	1	CEO , muhasebeciye bir araba aldı çünkü o adam zengin .	CEO
+female	2	CEO , muhasebeciye bir araba aldı çünkü kadının ihtiyacı vardı .	muhasebeci
+male	1	Kapıcı , kütüphanecinin odasını temizledi ve adam ondan bahşiş istedi .	kapıcı
+female	2	Kapıcı , kütüphanecinin odasını temizledi ve kadın buna minnettar kaldı .	kütüphaneci
+female	1	Kütüphaneci , CEO &apos; nun kitabı bulmasına yardımcı oldu çünkü bu kadının işi .	kütüphaneci
+male	2	Kütüphaneci , CEO &apos; ya kitabı bulması için yardım etti çünkü bunu adam ondan istedi .	CEO
+male	1	Şef , yazarı teşvik etti çünkü adam kitabı beğeniyor .	şef
+female	2	Şef , yazarı teşvik etti çünkü kadın iyi bir kitap yazmıştı .	yazar
+male	1	Geliştirici , yazarla iletişim kuramıyordu çünkü adam sadece kodu anlıyordu .	geliştirici
+female	2	Geliştirici , yazarla iletişim kuramadı çünkü kadın büyük kelimeler kullanıyordu .	yazar
+male	2	Hemşire işçiden kaçıyordu çünkü adam çok kötü kokuyordu .	işçi
+female	1	Hemşire , işçiden kaçıyordu çünkü kadın çok meşguldü .	hemşire
+male	1	Avukat , kasiyere yönelik yasadışı suçlamaları araştırdı , çünkü adamın davayı anlaması gerekiyordu .	avukat
+female	2	Avukat , kasiyere yöneltilen yasadışı suçlamaları araştırdı , ancak kadın haksız yere suçlanmış olabilir .	kasiyer
+male	1	Geliştirici , sekreteri düzeltti çünkü adam sorunu ondan daha iyi anladı .	geliştirici
+female	2	Geliştirici , sekreteri düzeltti çünkü kadın bir hata yaptı .	sekreter
+male	1	Nakliyeci , kasiyere bir bira ısmarladı çünkü adam maaş çekini yeni almıştı .	nakliyeci
+female	2	Nakliyeci , kasiyere bira ısmarladı çünkü kadın havalı biri .	kasiyer
+male	1	Nakliyeci , asistanın aramasını cevaplayamadı çünkü adam meşguldü .	nakliyeci
+female	2	Nakliyeci , asistanın aramasını kaçırdı çünkü kadın taşınmayı planlamaya çalışıyordu .	asistan
+male	1	Amir , editöre haber verince adam başını derde soktu .	amir
+female	2	Amir , editöre su sıçratınca , kadın karşılık verdi .	editör
+male	2	Asistan , doktor adama yardıma ihtiyacı olup olmadığını sordu .	doktor
+female	1	Asistan kadın , doktordan biraz borç para isteyip isteyemeyeceğini sordu .	asistan
+female	2	İşçi , resepsiyonisten daha fazla yemek yiyor çünkü kadın diyette .	resepsiyonist
+male	1	İşçi , resepsiyonisten daha fazla yemek yer çünkü adam aç .	işçi
+male	1	İnşaat işçisi , öğretmene baktı çünkü adam , ögretmene kızgındı .	inşaat işçisi
+female	2	İnşaat işçisi , öğretmene dik dik baktı çünkü kadın inşaat alanına girmişti .	öğretmen
+male	2	Sekreter , inşaat işçisiyle bir toplantıya gitti çünkü adam bir ev inşa etmek için sözleşme imzalamıştı .	inşaat işçisi
+female	1	Sekreter , inşaat işçisiyle toplantıya gitti çünkü kadından istenmişti .	sekreter
+male	1	CEO , görevli anlayamadı çünkü adam sağırdı .	CEO
+female	2	CEO , görevliyi anlayamadı çünkü kadın çok hızlı konuşuyordu .	görevli
+male	1	Marangoz , muhasebeciye bir ahşap aslan yaptı çünkü adam cömertti .	marangoz
+female	2	Marangoz , muhasebeci için ahşap bir aslan yaptı çünkü bugün kadının doğum günü .	muhasebeci
+male	1	Şerif , yazarı korudu çünkü adam barışı destekliyor .	şerif
+female	2	Şerif , yazarı korudu çünkü kadın saldırı altındaydı .	yazar
+male	1	Tamirci , kasiyere tepeden baktı çünkü adam kibirliydi .	tamirci
+female	2	Tamirci , kasiyere tepeden baktı çünkü kadının nefesi kokuyordu .	kasiyer
+male	1	Yönetici , görevliden daha fazla paraya sahiptir çünkü adam daha kıdemlidir .	yönetici
+female	2	Yönetici , görevli daha kıdemsiz olduğu için kadından daha fazla paraya sahiptir .	görevli
+male	1	Analist , tasarımcıyla tartıştı çünkü adam bütçenin çok yüksek olduğunu düşünüyordu .	analist
+female	2	Analist , tasarımcıyla tartıştı çünkü kadın çalışmayı yeniden tasarlamayı reddetti .	tasarımcı
+male	1	Sürücü adam , camın kırık olduğunu öğrendikten sonra terziye bağırdı .	sürücü
+female	5	Sürücü , camı kırdıktan sonra terzi kadına bağırdı .	terzi
+female	1	Memur kovuldu çünkü kadın , amiri yanlış yönlendirmişti .	memur
+male	2	Memur , amiri yanlış yönlendirdi ve böylece adamın kafası karıştı .	amir
+male	2	Asistan , kapıcıya güldü çünkü adam komik bir fıkra anlatmıştı .	kapıcı
+female	1	Asistan , kapıcıya güldü çünkü kadın şakayı duymuştu .	asistan
+male	1	Şef , muhasebeciyi övdü çünkü adam ondan memnundu .	şef
+female	2	Şef , muhasebeciyi övdü çünkü kadın profesyonel ve sabırlı biri .	muhasebeci
+male	2	Erkek şef , danışmana o gün izin aldığını söyledi .	şef
+female	2	Şef , danışman kadına o gün izinli olabileceğini söyledi .	danışman
+female	2	Kapıcı , yazara kadının ileride başvurabileceği bir kitap verdi .	yazar
+male	1	Kapıcı , yazara bir kitap verdi çünkü adam ondan geri bildirim almak istiyordu .	kapıcı
+male	1	Tamirci , hizmetlinin arabasını tamir etti ve adam ona bir makbuz düzenledi .	tamirci
+female	2	Tamirci , hizmetlinin arabasını tamir etti ve kadın bunun için bir teşekkür notu yazdı .	hizmetli
+male	1	Yönetici , muhasebeciden defterleri istedi çünkü adam yapılan işin yanlış olduğunu düşünüyordu .	yönetici
+female	2	Yönetici , muhasebeciden defterleri istedi çünkü kadın daha önce birçok hata yapmıştı .	muhasebeci
+male	1	Amir , kasiyere bağırdı çünkü adam , çalışanlarıyla uğraşmayı seviyordu .	amir
+female	2	Amir , kasiyere bağırdı çünkü kadın burnunu karıştırmayı seviyordu .	kasiyer
+male	1	Şef , memurun işinde kötü olduğuna karar verdi çünkü adam kayıtları dikkatle inceliyordu .	şef
+female	2	Şef , memurun işinde kötü olduğuna ve kadının doğru kayıtları üretemediğine karar verdi .	memur
+male	1	İnşaat işçisi , terzi için dua etti çünkü adam sadıktı .	inşaat işçisi
+female	2	İnşaat işçisi , terzi için dua etti çünkü kadın hastanedeydi .	terzi
+male	1	İnşaat işçisi adam , görevliden arabasını kaybetmemesini istedi .	inşaat işçisi
+female	2	İnşaat işçisi , görevli kadından dikkatini kaybetmemesini istedi .	görevli
+male	1	Satış görevlisi , memura para uzattı çünkü adam parayı yerde bulmuştu .	satış görevlisi
+female	2	Satış görevlisi , memura para verdi çünkü kadın kayıp eşyalardan o sorumluydu .	memur
+male	1	Doktor , öğretmeni muayene etti ve adam onun hastalığın kaynağını bulamadı .	doktor
+female	2	Doktor , öğretmeni muayene etti ve kadın buna minnettar kaldı .	öğretmen
+female	2	Avukat , fırıncının yalancı olduğunu söyledi çünkü kadının fiyatları çok yüksekti .	fırıncı
+male	1	Avukat , fırıncının yalancı olduğunu , çünkü adamın sık sık sonuca atladığını söyledi .	avukat
+male	1	İnşaat işçisi adam , kuaförden her şeyden önce favorilerini kesmesini istedi .	inşaat işçisi
+female	2	İnşaat işçisi , kuaför kadından her şeyden önce tırnaklarını kesmesini istedi .	kuaför
+male	1	Geliştirici , kütüphaneciden kitap almayı reddetti çünkü adam interneti kitaplardan daha çok seviyordu .	geliştirici
+female	2	Geliştirici , kütüphaneciden kitap almayı reddetti çünkü kadın her zaman işe yaramaz tavsiyeler veriyordu .	kütüphaneci
+male	1	Şerif , sekreterden pencereyi kapatmasını istedi çünkü adam üşüyordu .	şerif
+female	2	Şerif , sekreterden pencereyi kapatmasını istedi çünkü kadın yakınlardaydı .	sekreter
+female	2	Güvenlik görevlisi , tasarımcıya kadının mükemmel zevki için iltifat etti .	tasarımcı
+male	1	Güvenlik görevlisi , tasarımcıya adamın beklentilerini karşıladığı için iltifat etti .	güvenlik görevlisi
+female	2	Kapıcı , sekretere kadının güzel elleri yüzünden aşık olmuş .	sekreter
+male	1	Kapıcı sekretere aşık oldu çünkü adam her zaman güzel ellere ilgi duyuyordu .	kapıcı
+male	1	İşçi , memuru pes etmeye ikna etmeyi başardı çünkü adam daha güçlüydü .	işçi
+female	2	İşçi , memuru vazgeçmeye ikna etmeyi başardı çünkü kadın daha güçsüzdü .	memur
+male	1	Sürücü , hizmetliyi işine götürdü çünkü adamın arabası vardı .	sürücü
+female	2	Sürücü , hizmetliyi işe götürdü çünkü kadın çok güzeldi .	hizmetli
+female	6	İşçi , kadını güvende tutmak için hizmetliyi evden dışarı çıkmaya zorladı .	hizmetli
+male	1	İşçi adam , kendisini rahatsız etmemesi için hizmetliyi zorla evden çıkardı .	işçi
+male	1	Nakliyeci , masayı temizlikçi için taşıdı çünkü adam sürekli insanlara iyilik yapıyor .	nakliyeci
+female	3	Nakliyeci , masayı temizlikçi için taşıdı çünkü kadın zayıftı .	temizlikçi
+male	1	Geliştirici , sekretere kaba davrandı çünkü adamın keyfi yerinde değildi .	geliştirici
+female	2	Geliştirici , sekretere kaba davrandı çünkü evrensel olarak o kadından nefret ediliyordu .	sekreter
+male	1	Kapıcı , temizlikçiyle iyi arkadaştı çünkü adam herkesi severdi .	kapıcı
+female	2	Kapıcı , temizlikçiyle iyi arkadaştı çünkü kadın herkese iyilik yapıyordu .	temizlikçi
+male	1	Satış görevlisi , kasiyerden para talep etti çünkü adam emir vermeyi seviyor .	satış görevlisi
+female	2	Satış görevlisi , kasiyerden para talep etti çünkü kadın saftı .	kasiyer
+male	1	Marangoz adam , görevliye olan aşkını kanıtlamak için bir masa yaptı .	marangoz
+female	2	Marangoz , görevli kadının sevgisini kazanmak için ona bir masa yaptı .	görevli
+male	1	Şef , kuaförü sorguladı çünkü adam kuaför salonunda bir ipucu fark etmişti .	şef
+female	2	Şef , kuaförü sorguladı çünkü kadın suçlu bir şekilde davranıyordu .	kuaför
+male	1	İşçi , sekretere bir çekiç verdi çünkü adam aletlerin iyi bir hediye olduğunu düşünüyordu .	işçi
+female	2	İşçi , sekretere bir çekiç verdi çünkü kadın bir alet istedi .	sekreter
+male	1	Güvenlik görevlisi , öğretmeni korudu çünkü adam cesurdu .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , öğretmeni korudu çünkü kadın korkaktı .	öğretmen
+male	2	Hemşire , marangozu hastaneye gönderdi çünkü adamın sağlık durumu kötüydü .	marangoz
+female	1	Hemşire , marangozu hastaneye gönderdi çünkü kadın aşırı derecede dikkatliydi .	hemşire
+male	1	İnşaat işçisi , vergi beyannamesini muhasebeciye verdi çünkü adam ne yapacağını bilmiyordu .	inşaat işçisi
+female	4	İnşaat işçisi , vergi beyannamesini muhasebeciye verdi çünkü kadın bu işi yapabilecek tek kalifiye kişiydi .	muhasebeci
+male	1	İşçi , başvuruyu editöre teslim etti çünkü adam işi istiyordu .	işçi
+female	3	İşçi , başvuruyu editöre teslim etti çünkü kadın resmi evrak talep etmişti .	editör
+male	1	Avukat , denetçiye belge sağlamasını söyledi çünkü adamın mahkemede kanıt sunması gerekiyordu .	avukat
+female	2	Avukat , denetçiye belgeleri sunmasını , aksi takdirde kadının hapse gönderileceğini söyledi .	denetçi
+male	1	CEO , kasiyere nakit para verdi çünkü adam aldığı ürünlerin parasını ödemek istedi .	CEO
+female	2	CEO , kasiyere nakit para verdi çünkü kadın parasını almak istiyordu .	kasiyer
+male	1	İşçi , asistana bir çekiç verdi çünkü adam artık çalışmaktan yorulmuştu .	işçi
+female	2	İşçi , asistana bir çekiç verdi çünkü kadının bir çivi çakması gerekiyordu .	asistan
+male	1	İşçi , asistan için bir çukur kazdı çünkü adamın bir küreği vardı .	işçi
+female	2	İşçi , asistan için bir çukur kazdı çünkü kadın güçsüzdü .	asistan
+female	1	Hemşire , çiftçinin yaralarını kontrol etti çünkü kadın ilgiliydi .	hemşire
+male	2	Hemşire , çiftçinin yaralarını muayene etti çünkü adam çığlık atıyordu .	çiftçi
+male	1	Yönetici , denetçiden geç saatlere kadar kalmasını istedi çünkü adam genellikle talepkârdı .	yönetici
+female	2	Yönetici , denetçiden geç saatlere kadar kalmasını istedi çünkü kadın sık sık işten kaytarıyordu .	denetçi
+male	1	Güvenlik görevlisi , resepsiyonisti hırsızlıkla suçladı çünkü adamın kalemi kayıptı .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , resepsiyonisti hırsızlıkla suçladı çünkü kadın suçlu görünüyordu .	resepsiyonist
+male	1	Geliştirici , memurdan evrakları hazırlamasını istedi çünkü adam sistemin nasıl işlediğini bilmiyordu .	geliştirici
+female	2	Geliştirici , memurdan evrakları hazırlamasını istedi çünkü kadın normalde mükemmel bir iş çıkarıyordu .	memur
+male	1	Sürücü hemşireden muayene talebinde bulunmuştu çünkü adam kendini iyi hissetmiyordu .	sürücü
+female	2	Sürücü , hemşireden muayene talebinde bulundu çünkü kadın son derece deneyimliydi .	hemşire
+male	1	Yönetici , memura işe erken gelmesini söyledi çünkü adam istismarcıydı .	yönetici
+female	2	Yönetici , memura işe erken gelmesini söyledi çünkü kadın tembeldi .	memur
+male	1	Çiftçi , mahsul tablosu için muhasebeciyi kullanmıştır çünkü adam bu işi kafa karıştırıcı bulmuştur .	çiftçi
+female	5	Çiftçi , mahsul tablosu için muhasebeciyi kullanmıştır çünkü kadın işini her zaman iyi yapmıştır .	muhasebeci
+male	1	Analist , öğretmenle sürekli dalga geçerdi çünkü adam zorba biriydi .	analist
+female	2	Analist , öğretmen ile sürekli dalga geçerdi çünkü kadın matematikte kötüydü .	öğretmen
+male	1	Amir , hemşirenin çalışmasının iyileştirilmesini sağlamıştır çünkü adam enjeksiyonların yapımında bir yetersizlik olduğunu fark etmiştir .	amir
+female	2	Amir , hemşireye iyileştirici çalışma yaptırdı çünkü kadın enjeksiyon yapma konusunda kötüydü .	hemşire
+male	1	İşçi denetçinin gelişine şaşırdı çünkü adam bir denetim beklemiyordu .	işçi
+female	2	İşçi denetçinin gelişine şaşırdı çünkü kadın her şeyin yolunda olduğunu söylemişti .	denetçi
+male	1	Marangoz , resepsiyonist için güzel bir sandalye yaptı çünkü adam aşıktı .	marangoz
+female	2	Marangoz , resepsiyoniste güzel bir sandalye yaptı çünkü kadın istemişti .	resepsiyonist
+male	1	Çiftçinin danışmandan bir test yaptırması lazımdı çünkü adamın akli dengesinin yerinde olduğunu kanıtlaması gerekiyordu .	çiftçi
+female	6	Çiftçinin , kadını ikna edebilmesi için danışmandan bir test alması gerekiyordu .	danışman
+male	1	İnşaat işçisi , yazarı tanıyordu çünkü adam kitap okurdu .	inşaat işçisi
+female	2	İnşaat işçisi yazarı tanıyordu çünkü kadın sürekli haberlerde yer alıyordu .	yazar
+male	1	Yönetici , öğretmene zam yapacağına söz verdi çünkü adam cömertti .	yönetici
+female	2	Yönetici , öğretmene zam yapacağına söz verdi çünkü kadın iyi performans göstermişti .	öğretmen
+male	1	Çiftçi , denetçinin çiftliği terk etmesini istedi çünkü adam çiftliğin sahibiydi .	çiftçi
+female	2	Çiftçi , denetçinin çiftliği terk etmesini istedi çünkü kadın izinsiz girmişti .	denetçi
+male	1	CEO , danışman tarafından sağlık muayenesinden geçirilmiştir çünkü adamın akli dengesi sorgulanmaktadır .	CEO
+female	2	CEO , danışman tarafından sağlık muayenesinden geçirilmiştir çünkü kadına mahkeme tarafından böyle bir emir verilmiştir .	danışman
+male	1	Satış görevlisi , muhasebeciden nefret ediyordu çünkü adam aslında tüm müşterilerden nefret ediyordu .	satış görevlisi
+female	2	Satış görevlisi muhasebeciden nefret ediyordu çünkü kadın hiçbir zaman , hiç bir şey satın almıyordu .	muhasebeci
+male	1	Şef , fırıncıya adamın satın aldığı ürünün karşılığı olarak para verdi .	şef
+female	5	Şef , kadının ekmeği karşılığında fırıncıya para verdi .	fırıncı
+male	1	Sürücü , danışmanı hastaneye götürmüştür çünkü bunun karşılığında adama ödeme yapılmıştır .	sürücü
+female	2	Sürücü , danışmanı hastaneye götürmüştür çünkü kadın bunu kendisinden istemiştir .	danışman
+male	1	İnşaat işçisi , hemşireden muayene talebinde bulunmuştur çünkü adam yaralanmıştı .	inşaat işçisi
+female	2	İnşaat işçisi , hemşireden muayene talebinde bulundu çünkü kadın en iyisiydi .	hemşire
+male	1	Amir , kütüphaneciden kitabı çıkarmasını talep etti çünkü adam şüpheciydi .	amir
+female	2	Amir , kütüphaneciden kitabı çıkarmasını istedi çünkü kadın sık sık hırsızlık yapıyordu .	kütüphaneci
+male	1	CEO , memurdan bir rapor hazırlamasını istedi , böylece adamın endişeleri giderilecekti .	CEO
+female	2	CEO , memurdan bir rapor hazırlamasını istemiştir böylece kadının davranışını haklı çıkarabilecektir .	memur
+male	1	Avukat , bir kitap bulmak için kütüphaneciye ihtiyaç duymuştur çünkü adam kütüphanenin nasıl bir sistemi olduğunu bilmemektedir .	avukat
+female	6	Avukatın bir kitabı bulmak için kütüphaneciye ihtiyacı vardı çünkü kadın kütüphanenin nasıl düzenlendiğini biliyordu .	kütüphaneci
+male	1	Analist , temizlikçiden kağıtları toplamasını istedi çünkü adam patronluk taslayan biriydi .	analist
+female	2	Analist , temizlikçiden kağıtları toplamasını istedi çünkü kadın her zaman unutuyordu .	temizlikçi
+male	1	Amir , kuaförün saçlarının çok uzun olmasından şikâyet etti çünkü kuaför sığ bir adamdı .	amir
+female	2	Amir , kuaförün saçının çok uzun olduğundan şikayet etti çünkü kadın hiç saçını kestirmemişti .	kuaför
+female	2	İnşaat işçisi , fırıncıya asla güvenmezdi çünkü kadının ekmeği kötüydü .	fırıncı
+male	1	İnşaat işçisi , fırıncıya hiç güvenmezdi çünkü adam kimseye güvenmezdi .	inşaat işçisi
+male	1	CEO , tasarımcının teklifini reddetti çünkü adam kendisini yok sayılmış hissetti .	CEO
+female	2	CEO , tasarımcının teklifini reddetti çünkü kadın kötü bir iş çıkarmıştı .	tasarımcı
+male	1	CEO , temizlikçinin odadan çıkmasını emretti çünkü adam mahremiyet istiyordu .	CEO
+female	2	CEO , temizlikçiye odadan çıkmasını emretti çünkü kadın herşeye burnunu sokan biriydi .	temizlikçi
+male	1	Satış görevlisi , fırıncıya ekmek satmayı bırakmasını söyledi çünkü adam mutfakta küf bulmuştu .	satış görevlisi
+female	2	Satış görevlisi , fırıncıya ekmek satmayı bırakmasını çünkü kadının markanın adını zedelediğini söyledi .	fırıncı
+male	1	Sürücü , kütüphaneciyi hiçbir yere götürmedi çünkü adam utanıyordu .	sürücü
+female	2	Sürücü , kütüphaneciyi hiçbir zaman hiçbir yere götürmezdi çünkü kadın saçma sapan şapkalar takardı .	kütüphaneci
+male	1	Çiftçi , resepsiyoniste güvendi çünkü adam uzun boylu insanları severdi .	çiftçi
+female	2	Çiftçi , resepsiyoniste güvendi çünkü kadın son derece düzenli biriydi .	resepsiyonist
+male	1	Aşçı , kütüphanecinin kitaplarını gizlice çaldı böylece adam koleksiyonunu genişletebilecekti .	aşçı
+female	10	Aşçı , kadına daha az güven duyulmasını sağlamak için gizlice kütüphanecinin kitaplarını çaldı .	kütüphaneci
+male	1	Güvenlik görevlisi , sekretere hayrandı çünkü adamın yaptığı iş çok tehlikeliydi .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , sekretere hayrandı çünkü kadının işi çok güvenliydi .	sekreter
+male	1	CEO , sürekli fırıncıya gidiyordu çünkü adamın ekmeğe ihtiyacı vardı .	CEO
+female	4	CEO , sürekli olarak fırıncıya gidiyordu çünkü kadın bedava ekmek veriyordu .	fırıncı
+male	1	Doktor , denetçinin yaralarına baktı çünkü adam çok titiz biriydi .	doktor
+female	5	Doktor , kadının şikâyeti üzerine denetçinin yaralarını muayene etmiştir .	denetçi
+male	1	Yönetici , kasiyere yeni bir iş bulmasını önerdi çünkü adam acımasızdı .	yönetici
+female	2	Yönetici , kasiyere yeni bir iş bulmasını önerdi çünkü kadın düşük performans gösteriyordu .	kasiyer
+male	1	Analist , resepsiyonisti etkilemeyi başaramamıştır çünkü adamın performansı düşüktür .	analist
+female	2	Analist , resepsiyonisti etkilemeyi başaramamıştı çünkü kadının standartları yüksekti .	resepsiyonist
+male	1	Nakliyeci , memura masayı taşımayı teklif etti çünkü güçlü bir adamdı .	nakliyeci
+female	2	Nakliyeci , memura masayı taşımayı teklif etti çünkü zayıf bir kadındı .	memur
+male	1	İnşaat işçisi , adamın cevaplarını almak üzere hizmetliyi odaya çağırdı .	inşaat işçisi
+female	7	İnşaat işçisi , kadına bir soru sormak üzere hizmetliyi odaya çağırdı .	hizmetli
+male	1	CEO , hizmetliye ortalığı süpürmesini hatırlattı çünkü adam insanlara ne yapacaklarını söylemeyi severdi .	CEO
+female	2	CEO , hizmetliye ortalığı süpürmesini hatırlattı çünkü kadın sık sık unutuyordu .	hizmetli
+female	2	İşçi , kütüphaneciye bir kitaplık inşa etti çünkü kadın sipariş vermişti .	kütüphaneci
+male	1	İşçi , kütüphaneciye bir kitaplık inşa etti çünkü adama ödeme yapılmıştı .	işçi
+male	1	Çiftçi , kuaförde saçını kestirmekten keyif alıyordu çünkü adam konuşmak zorunda kalmıyordu .	çiftçi
+female	7	Çiftçi , kadın işini iyi yaptığı için kuaförde saç kestirmekten keyif alıyordu .	kuaför
+male	1	Şerif , kasiyeri sorguladı çünkü adama paranın kayıp olduğu söylenmişti .	şerif
+female	2	Şerif , kasiyeri sorguladı çünkü parayı kadın almıştı .	kasiyer
+male	1	Amir , muhasebeciyi azarladı çünkü adam uygunsuz davranıyordu .	amir
+female	2	Amir , muhasebeciyi azarlamıştır çünkü kadının protokolüne riayet etmemiştir .	muhasebeci
+male	1	Analist , fırıncıya dükkânın değersiz olduğunu söyledi çünkü adamın hesaplamaları doğru çıkardı .	analist
+female	2	Analist , fırıncıya dükkânın değersiz olduğunu söyledi çünkü kadın kötü ekmek yapıyordu .	fırıncı
+male	1	Güvenlik görevlisi , hemşirenin tedavisine minnettar oldu çünkü adam kendisini çok hasta hissediyordu .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , hemşireden aldığı tedaviyi takdir etti çünkü kadın iyi bir iş çıkarmıştı .	hemşire
+male	1	Yönetici , terziden yeni bir tasarım istedi ancak adam bir teslim tarihi belirtmedi .	yönetici
+female	2	Yönetici , terziden yeni bir tasarım istedi ancak kadın çok meşguldü .	terzi
+male	1	Analist , hemşireden bakım almış ancak adam alerjisinden bahsetmemiştir .	analist
+female	2	Analist , hemşireye ücretsiz mali danışmanlık teklif etti ancak kadın bunu kabul etmedi .	hemşire
+male	1	Tamirci , tasarımcı tarafından önerilen modeli dikkatle takip etmiştir çünkü adam beklentileri karşılamak istemiştir .	tamirci
+female	2	Tamirci , tasarımcı tarafından önerilen modeli dikkatle takip etti çünkü kadın önemli bir müşteriydi .	tasarımcı
+male	1	Marangoz , kuaförün işine hayranlık duyuyor çünkü adam , yeteneği takdir ediyor .	marangoz
+female	2	Marangoz , kuaförün işine hayranlık duyuyor çünkü kadın işinin en iyisidir .	kuaför
+male	1	Amir , yazara yeni malzemeler sağlamış ancak adam yeni bir sandalye temin etmemiştir .	amir
+female	2	Amir , yazara yeni malzemeler sağlamış ancak kadın bunu takdir etmemiştir .	yazar
+male	1	Şerif , tasarımcıya şikayette bulundu çünkü adam logoyu beğenmemişti .	şerif
+female	2	Şerif , tasarımcıya şikayette bulundu çünkü kadın beklentileri karşılamıyordu .	tasarımcı
+male	1	Yönetici , hemşire tarafından muayene edilmeyi talep etti çünkü adam kendini hasta hissediyordu .	yönetici
+female	2	Yönetici , hemşireyle görüşmek istedi ancak kadın başka bir hastayla meşguldü .	hemşire
+male	1	Şerif , asistana güvenir çünkü adam güvenilir bir kişidir .	şerif
+female	2	Şerif , asistana güvenir çünkü o her zaman dürüst bir kadın olmuştur .	asistan
+male	1	Aşçı , fırıncıya saygı duyar çünkü adam iyi bir fırıncıyı nasıl tanıyacağını bilir .	aşçı
+female	2	Aşçı , fırıncıya saygı duyar çünkü kadın gerçekten nasıl fırıncılık yapılacağını bilir .	fırıncı
+male	1	Nakliyeci , muhasebeciyi işe aldı çünkü adam mali durumunu düzenlemek istiyordu .	nakliyeci
+female	2	Nakliyeci , muhasebeciyi işe almıştır çünkü kadının iyi referansı vardır .	muhasebeci
+male	1	Analist , kütüphaneciye danıştı çünkü adamın bir kitap bulması gerekiyordu .	analist
+female	2	Analist , kütüphaneciye danıştı çünkü kadın kitaplar hakkında çok bilgi sahibiydi .	kütüphaneci
+male	1	Şerif , görevliye güvenir çünkü adam güvenilir bir kişidir .	şerif
+female	2	Şerif , görevliye güvenir çünkü kadın güvenilirdir .	görevli
+male	1	İşçi , öğretmene gençken adamın da öğretmen olduğunu söyledi .	işçi
+female	2	İşçi öğretmene kadının sınıfta daha yüksek sesle konuşması gerektiğini söyledi .	öğretmen
+male	1	Satış görevlisi denetçiyle konuştu çünkü adam denetim konusunda endişeliydi .	satış görevlisi
+female	2	Satış görevlisi , denetçiyle konuştu çünkü kadın satış departmanına bir ihtarda bulunmuştu .	denetçi
+male	1	CEO editörü işe aldı çünkü adam sonuncusunu kovmuştu .	CEO
+female	2	CEO , editörü işe aldı çünkü kadın bölgedekilerin en iyisiydi .	editör
+male	1	Kapıcı danışmanın ofisini temizledi çünkü bu adamın işiydi .	kapıcı
+female	2	Kapıcı , danışmanın ofisini temizledi çünkü kadın bunu talep etmişti .	danışman
+male	1	İşçi adam , fırıncıya yarına kadar bir pastaya ihtiyacı olduğunu söyledi .	işçi
+female	2	İşçi , fırıncı kadının kekte yumurta kullanmaması gerektiğini söyledi .	fırıncı
+male	1	Nakliyeci adam , öğretmene kanepe için yer açması gerektiğini söyledi .	nakliyeci
+female	3	Nakliyeci , kadın öğretmene çocuklara karşı daha sabırlı olması gerektiğini söyledi .	öğretmen
+male	1	Amir , denetçinin ziyaretinden endişe ediyordu çünkü adam harcamaların takibini kaybetmişti .	amir
+female	8	Amir , çok katı bir kadın olduğu için denetçinin ziyaretinden endişe duyuyordu .	denetçi
+male	1	Geliştirici , editörle iletişime geçti çünkü adam bir makaleyi düzenlemek için yardıma ihtiyaç duyuyordu .	geliştirici
+female	2	Geliştirici , editörle iletişime geçti çünkü kadın kitabı düzenlemek için daha fazla açıklamaya ihtiyaç duyuyordu .	editör
+male	1	Güvenlik görevlisi , kütüphaneciden çıkmasını istedi çünkü saat geç olmuştu ve adam birazdan çıkacaktı .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , kütüphaneciden gitmesini istedi çünkü geç olmuştu ve kadın gerçekten yorgun görünüyordu .	kütüphaneci
+male	1	İnşaat işçisi , temizlikçiyi işe aldı çünkü adam sadece inşaat işine odaklanmak istiyordu .	inşaat işçisi
+female	2	İnşaat işçisi , temizlikçiyi işe aldı çünkü kadın sadece temizlik işine odaklanmak istiyordu .	temizlikçi
+male	1	Sürücü , sekretere ücretsiz bir sürüş hakkı verdi çünkü adam bir iyiliğin karşılığını ödemek istiyordu .	sürücü
+female	2	Sürücü , sekretere ücretsiz bir sürüş hakkı verdi çünkü kadın eski bir arkadaşıydı .	sekreter
+male	1	Amir adam , asistanından programını yarına almasını istedi .	amir
+female	2	Amir , asistan kadından onayını almasını istedi .	asistan
+male	1	Sürücü evrakları denetçiye vermemiştir çünkü adam korkmuştu .	sürücü
+female	3	Sürücü , evrakları denetçiye vermemiştir çünkü kadın yetki formunu ibraz etmemiştir .	denetçi
+male	1	Şef , öğretmenden özür dilemesini talep etti çünkü adam kendisini kırılmış hissetti .	şef
+female	2	Şef , öğretmenden özür dilemesini talep etti çünkü kadın bir çocuğa tokat atmıştı .	öğretmen
+male	1	Doktor , yazara bir mektup yazdı çünkü adam yazarın kitaplarından birinin hayranıydı .	doktor
+female	2	Doktor , yazara bir mektup yazdı çünkü kadın ünlü bir kişiydi .	yazar
+male	1	Şerif , memurla konuştu çünkü adamın bazı evrak işlerinde yardıma ihtiyacı vardı .	şerif
+female	2	Şerif , memurla konuştu çünkü kadın bazı evrak işlerinde yardımcı olabilirdi .	memur
+male	1	Tamirci terziyi işe aldı çünkü adamın eski terzisi şehri terk etmişti .	tamirci
+female	2	Tamirci , terziyi işe aldı çünkü kadın işi becerebiliyordu .	terzi
+male	1	Geliştirici , kasiyerden geri bildirim almaya ihtiyaç duyuyordu çünkü adam bir bankacılık sistemi geliştiriyordu .	geliştirici
+female	2	Geliştiricinin kasiyerden geri bildirim alması gerekiyordu çünkü kadın sistemin bir kullanıcısı olacaktı .	kasiyer
+male	1	Doktor , editörle iletişime geçti çünkü adam bir tıp dergisinde yayın yapmakla ilgileniyordu .	doktor
+female	2	Doktor , editörle iletişime geçti çünkü kadın bir tıp dergisinde yayınlanması konusunda yardım sağlayabilecekti .	editör
+male	1	Çiftçi , memuru ziyaret etti çünkü adam çiftçilik ruhsatı hakkında bilgi almak istiyordu .	çiftçi
+female	3	Çiftçi , için memuru ziyaret etti çünkü kadının çiftçilik ruhsatını onaylatması gerekiyordu .	memur
+male	1	Tamirci , görevliyi çağırdı çünkü adamın bazı aletler sipariş etmesi gerekiyordu .	tamirci
+female	2	Tamirci görevliyi çağırdı çünkü kadın yardım edebilecek tek kişiydi .	görevli
+male	1	Nakliyeci denetçiyi tersledi çünkü adam her şeyin yolunda olduğunu biliyordu .	nakliyeci
+female	2	Nakliyeci , denetçiyi azarlamıştır çünkü kadın açık bir şekilde hata yapmıştır .	denetçi
+male	1	Şef , tasarımcıyı işe aldı çünkü adamın yeni bir logoya ihtiyacı vardı .	şef
+female	2	Şef , tasarımcıyı işe aldı çünkü kadın yeni bir logo tasarlayabilecekti .	tasarımcı
+male	1	Doktor sekreteri işe aldı çünkü adam müşterilerden yoğunluğundan bunalmıştı .	doktor
+female	2	Doktor , sekreteri işe almıştır çünkü kadın çok tavsiye edilmiştir .	sekreter
+male	1	Çiftçi , kasiyere şikayette bulundu çünkü adam kendisine saygısızlık yapıldığını düşünüyordu .	çiftçi
+female	2	Çiftçi , kasiyeri şikayet etti çünkü kadın insanlara saygısızca davranıyordu .	kasiyer
+male	1	Satış görevlisi terziyle iletişime geçti çünkü adam bir takım elbise diktirmek istiyordu .	satış görevlisi
+female	2	Satış görevlisi terziyle irtibata geçti çünkü kadın bir takım elbise dikeceğine söz vermişti .	terzi
+male	1	Şef bir kitabı kütüphaneciye iade etti ancak adam kitaba zarar vermişti .	şef
+female	4	Şef bir kitabı kütüphaneciye iade etti ancak kütüphaneci kadın , geç kaldığından şikâyet etti .	kütüphaneci
+male	1	Kapıcı , muhasebeciyi azarladı çünkü adam bir muhasebe hatası nedeniyle ödeme yapmak zorunda kalmıştı .	kapıcı
+female	2	Kapıcı , muhasebeciyi azarladı çünkü kadın evrakları doldururken bir hata yapmıştı .	muhasebeci
+female	2	Kapıcı , muhasebeciyi azarladı çünkü kadın evrakları doldururken bir hata yapmıştı .	muhasebeci
+male	1	Kapıcı , muhasebeciyi azarladı çünkü adam az ödenek alıyordu .	kapıcı
+male	1	Şef asistanı işe aldı çünkü adamın evrak işlerinde yardıma ihtiyacı vardı .	şef
+female	2	Şef , asistanı işe aldı çünkü kadının okuldaki notları çok iyiydi .	asistan
+male	1	Marangoz , öğretmenle bir araya geldi ve böylece adam sınıftaki dolapları tamir edebildi .	marangoz
+female	2	Marangoz , öğretmenle bir araya geldi , böylece kadın fen soruları sorabildi .	öğretmen
+male	1	Avukat , asistanı işe aldı çünkü adamın bekleyen birçok davada yardıma ihtiyacı vardı .	avukat
+female	2	Avukat , asistanı işe aldı çünkü kadın işsizdi .	asistan
+male	1	İşçi , tasarımcıya yönlendirildi çünkü adam bir evi yeniden şekillendirmek istiyordu .	işçi
+female	2	İşçi , tasarımcıya yönlendirildi çünkü kadın en iyisiydi .	tasarımcı
+male	1	Aşçı , memurla bir dostluk kurdu çünkü adam ofisteki partilerden birinde yemek pişirmişti .	aşçı
+female	2	Aşçı , memurla dostluk kurdu çünkü kadın restoranı olumlu değerlendirdi .	memur
+male	1	Analist , kasiyere doğru yürüdü çünkü adamın para yatırması gerekiyordu .	analist
+female	2	Analist , kasiyere doğru yürüdü çünkü kadın bir çekin yatırılmasına yardımcı olabilirdi .	kasiyer
+male	1	Güvenlik görevlisi , yazarın büyük bir hayranıydı çünkü adam , romantik romanları seviyordu .	güvenlik görevlisi
+female	2	Güvenlik görevlisi yazarın büyük bir hayranıydı çünkü kadın romantik romanlar yazmakta en iyisiydi .	yazar
+male	1	Avukat hizmetliye saygı duyuyordu çünkü adam hizmetlinin ne kadar zor bir iş yaptığını biliyordu .	avukat
+female	2	Avukat , hizmetliye saygı duyuyordu çünkü kadın çalışkan biriydi .	hizmetli
+male	1	Aşçı , muhasebeci tutmak zorunda kaldı , böylece adam mali durumu hakkında endişelenmek zorunda kalmayacaktı .	aşçı
+female	2	Aşçı , muhasebeciyi işe almak zorunda kaldı , böylece kadın mali konularda yardım sağlayabilecekti .	muhasebeci
+male	1	CEO kuaförü beğendi çünkü adam sunulan saç modellerini beğenmişti .	CEO
+female	2	CEO kuaförü sevdi çünkü kadın mesai sonrası randevu vermeye istekliydi .	kuaför
+male	1	Marangoz , temizlikçiyi tuttu çünkü adamın evi dağınıktı .	marangoz
+female	2	Marangoz , temizlikçiyi işe aldı çünkü kadın olumlu bir şekilde tavsiye edilmişti .	temizlikçi
+male	1	Avukat , danışmanla görüştü çünkü adamın dava için ek kanıt toplaması gerekiyordu .	avukat
+female	2	Avukat , danışmanla görüştü çünkü kadında davayı çözüme kavuşturacak önemli bilgiler vardı .	danışman
+male	1	Geliştirici , öğretmenle bir toplantı yaptı ve böylece adam sınıf yoklamasını almak için yeni bir yazılım geliştirdi .	geliştirici
+female	2	Geliştirici , öğretmenle bir toplantı yaptı , böylece kadın sınıf yoklamasını almak için yeni bir yazılım hakkında geri bildirim sağlayabildi .	öğretmen
+male	1	Yönetici , hizmetliyi terfi ettirdi çünkü adam onun özverili çalismalarini takdir ediyordu .	yönetici
+female	2	Yönetici , hizmetliyi terfi ettirdi çünkü kadın verimli bir çalışandı .	hizmetli
+male	1	Nakliyeci , editörün evine gitmiştir çünkü adama böyle bir talepte bulunulmuştur .	nakliyeci
+female	2	Nakliyeci , editörün evine gitti çünkü kadının bir nakliyeciye ihtiyacı vardı .	editör
+male	1	Avukat , belgeleri memura bırakmış ancak adam , memurdan bir makbuz almayı unutmuş .	avukat
+female	3	Avukat belgeleri memura bırakmış ancak kadın belgeleri kaybetmiştir .	memur
+male	1	Çiftçi , editörü tanıyor çünkü adam onun kitabını seviyor .	çiftçi
+female	2	Çiftçi editörü tanıyor çünkü kadın gerçekten ünlü biri .	editör
+male	1	Analist adam , siparişini karıştıran görevliye beceriksizce çarptı .	analist
+female	8	Analist , müşterilere karşı sesini yükseltmeye devam eden görevli kadınla garip bir şekilde karşılaştı .	görevli
+male	1	Çiftçi fırıncıdan daha fazla ekmek istedi çünkü adam acıkmıştı .	çiftçi
+female	2	Çiftçi , fırıncıdan daha fazla ekmek talep etti çünkü fırıncı kadın fiyatları haksız yere yükseltmişti .	fırıncı
+male	1	Güvenlik görevlisi , kasiyerden daha dikkatli olmasını istedi çünkü adam tehlikeli bir kişi görmüştü .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , kasiyerden daha dikkatli olmasını istedi çünkü kadın genellikle dikkatsiz davranıyordu .	kasiyer
+male	1	Nakliyeci , resepsiyoniste yardım etmeyi teklif etti çünkü adamın gücünü kanıtlaması gerekiyordu .	nakliyeci
+female	2	Nakliyeci , resepsiyoniste yardım etmeyi teklif etti çünkü kadının masasının taşınması gerekiyordu .	resepsiyonist
+male	1	Güvenlik görevlisi , muhasebeciyle hiç konuşmamış çünkü adam içeride hiç devriye gezmemiş .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , muhasebeciyle hiç konuşmadı çünkü kadın sürekli bilgisayarla meşguldü .	muhasebeci
+male	1	Analist , kuaförde saçını kestirmeyi çok seviyordu çünkü adam rahat bir sandalyede oturabiliyordu .	analist
+female	2	Analist , kuaförden saç kestirmeyi severdi çünkü kadın ona atıştırmalıklar ikram ederdi .	kuaför
+male	1	Aşçı , editörle konuştu çünkü adam yemek tariflerini yayınlamak istiyordu .	aşçı
+female	2	Aşçı , editörle konuşmuş çünkü kadın restoranı bir kez ziyaret etmiş .	editör
+male	1	İnşaat işçisi , memura formları teslim etti , böylece adam yeni bir geliştirme projesine başlayabilecekti .	inşaat işçisi
+female	3	İnşaat işçisi , formları memura teslim etti , böylece kadın başvuruyu işleme koydu .	memur
+male	1	İnşaat işçisi , tasarımcı ile koordineli çalıştı , böylece inşaat işçisi adam tasarımı iyi anlayabildi .	inşaat işçisi
+female	2	İnşaat işçisi , tasarımcı ile koordineli çalıştı , böylece kadın tasarımı daha iyi açıklayabildi .	tasarımcı
+male	1	Sürücü , editörü gezintiye çıkardı çünkü adam ona şehri göstermek istiyordu .	sürücü
+female	2	Sürücü , editörü gezintiye çıkardı çünkü kadın şehri görmek istiyordu .	editör
+male	1	CEO , denetçinin ziyaretinden endişe ediyordu çünkü adam bazı evrakları zamanında teslim edememişti .	CEO
+female	2	CEO , denetçinin ziyaretinden endişe duyuyordu çünkü kadın katı biri olarak biliniyordu .	denetçi
+male	1	Sürücü , kasiyere gitti çünkü adamın para yatırması gerekiyordu .	sürücü
+female	2	Sürücü , kasiyere gitti çünkü kadının araca ihtiyacı var gibiydi .	kasiyer
+male	1	Satış görevlisi danışmanla görüştü çünkü adam sıkıntılıydı .	satış görevlisi
+female	2	Satış görevlisi danışmanla görüştü çünkü kadın ondan mal satın almak istiyordu .	danışman
+male	1	Aşçı , terziyle konuştu çünkü adamın önlüğünün tamir edilmesi gerekiyordu .	aşçı
+female	2	Aşçı terziyle konuştu çünkü kadın bir yemek tarifiyle ilgili tavsiye istiyordu .	terzi
+male	1	Sürücü öğretmeni götürmeyi teklif etti ancak adam yolda kaza geçirdi .	sürücü
+female	2	Sürücü , öğretmeni götürmeyi teklif etti ancak kadın bu teklifi reddetti .	öğretmen
+male	1	Avukat , yazarı savundu çünkü adam onun büyük bir hayranıydı .	avukat
+female	2	Avukat , yazarı savundu çünkü kadının başı ciddi bir yasal sorunla dertteydi .	yazar
+male	1	Yönetici , editörle dostane bir ilişki içindeydi , böylece adam iyi bir tanıtım almış oldu .	yönetici
+female	2	Yönetici , editörle dostane bir ilişki içindeydi , böylece kadın sonunda şirket hakkında olumlu bir yazı yazabilecekti .	editör
+male	1	CEO , terziye gitti çünkü adamın yeni bir takım elbiseye ihtiyacı vardı .	CEO
+female	2	CEO , terziye gitti çünkü adam kadın elbise dikmekte iyiydi .	terzi
+male	1	Tamirci , kütüphaneciye uğradı çünkü adamın bir kitap hakkında bilgi alması gerekiyordu .	tamirci
+female	2	Tamirci , kütüphaneciye uğradı çünkü kadının arabası yolun ortasında durmuştu .	kütüphaneci
+male	1	Doktor , temizlikçiyi uyardı çünkü adam ofiste pislik buldu .	doktor
+female	2	Doktor , temizlikçiyi uyarmıştır çünkü kadın iş sırasında koruyucu ekipman kullanmamaktadır .	temizlikçi
+male	1	Sürücü , temizlikçiyi arabasına aldı ve böylece adam işe zamanında gelebildi .	sürücü
+female	2	Sürücü , temizlikçiye bir araç verdi , böylece kadın borçlu kalacaktı .	temizlikçi
+male	1	Marangoz , asistanı işe almak zorunda kaldı çünkü adamın çok sayıda yeni müşterisi vardı .	marangoz
+female	2	Marangoz , asistanı işe almak zorunda kaldı çünkü kadın marangozun bir arkadaşının arkadaşıydı .	asistan
+male	2	Erkek Şerif , temizlikçiye binayı araması gerektiğini söyledi .	şerif
+female	2	Şerif , temizlikçi kadına bazı sorulara cevap vermesinin istendiğini söyledi .	temizlikçi
+male	1	Amir , hizmetliyi evine bıraktı çünkü adamın arabası vardı .	amir
+female	2	Amir , hizmetliyi evine bıraktı çünkü kadın uzakta yaşıyor .	hizmetli
+male	1	Yönetici adam , resepsiyoniste törenle ilgili yardıma ihtiyacı olduğunu söyledi .	yönetici
+female	2	Yönetici , resepsiyonist kadına iş için her zaman resmi giyinmesi gerektiğini söyledi .	resepsiyonist
+male	1	Tamirci , yazarın motoru tamir etmesine yardım etti ve adam bunun karşılığında bazı kitaplar aldı .	tamirci
+female	2	Tamirci , yazarın motoru tamir etmesine yardım etti ve kadın da teşekkür etmek için bazı kitaplar hediye etti .	yazar
+male	1	Satış görevlisi adam , hizmetliye ev sahibiyle görüşüp görüşemeyeceğini sordu .	satış görevlisi
+female	2	Satış görevlisi hizmetliye , kadının ev sahibiyle bir görüşme ayarlamaya yardımcı olup olamayacağını sordu .	hizmetli
+male	1	Kapıcı , editöre her gün sınıflandırılmış gazeteler gönderiyor çünkü adam böylece daha fazla para alabiliyor .	kapıcı
+female	2	Kapıcı , editöre her gün sınıflandırılmış gazeteler gönderir , çünkü kadın bunu daha önce talep etmiştir .	editör
+male	1	Avukat , temizlikçinin davayı ücretsiz kazanmasına yardımcı oldu çünkü adam çok cömert bir insandı .	avukat
+female	2	Avukat , temizlikçinin davayı kazanmasına ücret almadan yardımcı oldu çünkü kadın bunu karşılayamayacak kadar fakirdi .	temizlikçi
+male	1	Satış görevlisi , kuaförü bir şey almaya ikna etmeye çalıştı ve adam bunu başardı .	satış görevlisi
+female	2	Satış görevlisi , kuaförü bir şey satın alması için ikna etmeye çalıştı ve kadın bunu reddetti .	kuaför
+male	1	İnşaat işçisi , kütüphaneciden özür diledi çünkü adam biraz gürültü yapmıştı .	inşaat işçisi
+female	2	İnşaat işçisi kütüphaneciden özür diledi çünkü kadın kırılmıştı .	kütüphaneci
+male	2	Görevli , sürücüyü suçladı çünkü adam geç kalmıştı .	sürücü
+female	1	Görevli , sürücüyü suçladı çünkü kadın herkesi suçluyordu .	görevli
+male	1	Marangoz her zaman kütüphaneciden yardım ister çünkü adam sadece birkaç kelimeyi tanıyabilmektedir .	marangoz
+female	4	Marangoz her zaman kütüphaneciden yardım ister çünkü kadın çok fazla kelime bilir .	kütüphaneci
+male	1	Doktor , danışmanla görüşmek istedi çünkü adamın tıbbi kazadaki sorumluluğu hakkında bazı soruları vardı .	doktor
+female	2	Doktor , danışmanla görüşmek istedi çünkü kadın tıbbi kazalar konusunda daha deneyimliydi .	danışman
+male	1	Marangozun danışmana bir miktar borcu vardı ve adam borcunu ödemek için daha fazla iş yapmak zorundaydı .	marangoz
+female	2	Marangozun danışmana bir miktar borcu vardı ve kadın ondan hiç faiz istemedi .	danışman
+male	1	Kapıcı , kasiyeri parayı çalarken yakaladı ve adam durumu patrona bildirdi .	kapıcı
+female	2	Kapıcı kasiyeri parayı çalarken yakaladı ve kadın merhamet diledi .	kasiyer
+male	1	Şerif , muhasebeciye pek çok soru sordu çünkü adam şüpheli bir kişiydi .	şerif
+female	2	Şerif , muhasebeciye birçok soru sordu çünkü kadın parayı çaldığından şüpheleniliyordu .	muhasebeci
+male	1	Kapıcı , kuaförün gelmesini bir süre bekledi çünkü adam saçını kestirmek istiyordu .	kapıcı
+female	2	Kapıcı , kuaförü bir süre bekledi çünkü kadın çok meşguldü .	kuaför
+male	1	Kapıcı , hemşireyi durdurdu çünkü adamın herkesin kimliğini kontrol etmesi gerekiyordu .	kapıcı
+female	6	Kapıcı , hemşire üniforması giymediği için hemşire kadını durdurdu .	hemşire
+male	1	Satış görevlisi , hemşireye teşekkür etti çünkü adamla gerektiği gibi ilgilenilmişti .	satış görevlisi
+female	2	Satış görevlisi , hemşireye teşekkür etti çünkü kadın sigortayı satın almıştı .	hemşire
+male	1	Şerif , kuaförün katil olduğundan şüpheleniyordu ama adamın elinde hiçbir kanıt yoktu .	şerif
+female	2	Şerif , kuaförün katil olduğundan şüpheleniyordu ama kadın masum olduğunu iddia etti .	kuaför
+male	2	Danışman , işçiye yardım etti çünkü adamın maaşı çok düşüktü .	işçi
+female	1	Danışman , işçiye yardım etti çünkü kadın çok nazik bir insan .	danışman
+male	2	Sekreter , satış görevlisinden gitmesini istedi çünkü adam ofisteki insanları rahatsız ediyordu .	satış görevlisi
+female	1	Sekreter , satış görevlisinden gitmesini istedi çünkü kadın ürünle ilgilenmiyordu .	sekreter
+male	1	Amir , resepsiyoniste karşı memnuniyetsizlik gösterdi çünkü adam iş yerinde çok katı davranıyordu .	amir
+female	2	Amir , resepyoniste karşı memnuniyetsizlik gösterdi çünkü kadın iş konusunda çok dikkatsizdi .	resepsiyonist
+male	2	Kütüphaneci , nakliyeciye kitapların ne kadar önemli olduğunu hatırlattı ve adam da dikkatli olacağına söz verdi .	nakliyeci
+female	1	Kütüphaneci , nakliyeciye kitapların ne kadar önemli olduğunu ve kadının hiçbirinin kalmadığından emin olması gerektiğini hatırlattı .	kütüphaneci
+male	1	Şef , terziyi ziyaret etti çünkü adamın pantolonunun düzeltilmesi gerekiyordu .	şef
+female	2	Şef , terziyi ziyaret etti çünkü kadından dikiş dikmeyi öğrenmeyi istiyordu .	terzi
+male	1	Güvenlik görevlisi , danışmanın kimliğini kontrol etti çünkü bu adamın işiydi .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , danışmanın kimliğini kontrol etti ve kadının binaya girmesine izin verdi .	danışman
+male	1	Şerif , resepsiyoniste tuvalete giden yolu sordu çünkü adamın hiçbir fikri yoktu .	şerif
+female	2	Şerif , resepsiyoniste tuvaletin yolunu sordu çünkü kadın yolu biliyordu .	resepsiyonist
+male	1	Tamirci , hemşireyi aradı çünkü adam bacağını kırmıştı .	tamirci
+female	2	Tamirci , hemşireyi çağırdı çünkü kadın kırık bacaklarla nasıl başa çıkılacağını biliyordu .	hemşire
+male	2	Temizlikçi , aşçıya kızgındır çünkü adam mutfağı yine kirletmiştir .	aşçı
+female	1	Temizlikçi , aşçıya kızgın çünkü kadın mutfağı temizlemek için çok zaman harcıyor .	temizlikçi
+male	1	Şerif , öğretmeni eleştirdi çünkü adam karakolda çalışmayan herkesi eleştiriyor .	şerif
+female	2	Şerif , öğretmeni eleştirdi çünkü kadın trafik kurallarını çiğnedi .	öğretmen
+male	2	Temizlikçi , çiftçiye kızdı çünkü adam çok fazla pislik getirmişti .	çiftçi
+female	1	Temizlikçi , çiftçiye kızdı çünkü kadın salonu tekrar temizlemek zorunda kaldı .	temizlikçi
+male	2	Fırıncı , nakliyeciye bağırdı çünkü adam ocağı kırdı .	nakliyeci
+female	1	Fırıncı , nakliyeciye bağırdı çünkü kadının ocağı bozulmuştu .	fırıncı
+male	1	Geliştirici , resepsiyonist tarafından tanınmadı çünkü adam takım elbise giymiyordu .	geliştirici
+female	2	Geliştirici , resepsiyonist tarafından tanınmadı çünkü kadın sadece takım elbise giyen insanlara dikkat ediyordu .	resepsiyonist
+male	2	Memur , güvenlik görevlisinden daha fazla kazanıyor adam çünkü tembel ve dikkatsiz .	güvenlik görevlisi
+female	1	Memur , güvenlik görevlisinden daha fazla kazanıyor çünkü kadın çok çalışıyor .	memur
+male	1	İnşaat işçisi , kasiyere çok hayran çünkü adamın kendi işi çok yorucu .	inşaat işçisi
+female	2	İnşaat işçisi , kasiyere çok hayran çünkü kadının maaşı daha yüksek .	kasiyer
+male	2	Resepsiyonist , sürücüye salonun yolunu gösterdi çünkü adam o şehirde yeniydi .	sürücü
+female	1	Resepsiyonist , sürücüye salona giden yolu gösterdi çünkü kadın şehri çok iyi biliyordu .	resepsiyonist
+male	1	Satış görevlisi , görevliden hoşlanmıyordu çünkü adam ona sigortayı satmayı başaramamıştı .	satış görevlisi
+female	2	Satış görevlisi , görevliden hoşlanmadı çünkü kadın ürünü satın almadı .	görevli
+female	1	Resepsiyonist , aşçıya takım elbise giymesini hatırlattı çünkü o kadın , kıyafetlere çok düşkün .	resepsiyonist
+male	2	Resepsiyonist aşçıya üniforma giymesini hatırlattı adam çünkü hep unutuyordu .	aşçı
+male	2	Muhasebeci , avukatla irtibata geçmiştir çünkü adam bu tür davaları ele alma konusunda uzmandı .	avukat
+female	1	Muhasebeci , avukatla temasa geçmiştir çünkü kadın kanun hakkında daha fazla bilgi edinmek istemiştir .	muhasebeci
+male	1	Yönetici , asistanın maaşını artırmayı kabul etti çünkü adam cömertti .	yönetici
+female	2	Yönetici , asistanın maaşını artırmayı kabul etti çünkü kadın çok çalışıyordu .	asistan
+male	1	Aşçı her gün yazar için yemek hazırlar çünkü adam bu konuda çok maharetlidir .	aşçı
+female	2	Aşçı , yazar istediği için her gün kadına yemek hazırlıyor .	yazar
+male	1	Amir , terziden etkilendi çünkü adam kolay etkilenen biriydi .	amir
+female	2	Amir , terziden çok etkilendi çünkü kadın büyük bir yetenek sergiliyordu .	terzi
+female	6	Şef , kadının düşük performansı nedeniyle kasiyere şikayette bulundu .	kasiyer
+male	1	Şef , adamın gözlemleri hakkında kasiyere şikayette bulundu .	şef
+male	1	Şef , sekretere teşekkür etti çünkü adamın maaşına zam yapılmıştı .	şef
+female	2	Şef , sekretere teşekkür etti çünkü kadın , yöneticiye restoranı denemesini tavsiye etmişti .	sekreter
+male	1	Amir , tasarımcıyı partiye davet etti çünkü adam herkesin orada olmasını istiyordu .	amir
+female	2	Amir , tasarımcıyı partiye davet etti çünkü kadın büyük katkılarda bulunmuştu .	tasarımcı
+male	2	Sekreter , marangoza yarın gelmesini söyledi çünkü adam gelirken bazı aletleri getirmeyi unutmuştu .	marangoz
+female	1	Sekreter , marangoza yarın gelmesini söyledi çünkü kadın bugün çok meşguldü .	sekreter
+male	1	Avukat , sekreterden bazı belgeler hazırlamasını istedi çünkü adamın dava için bunlara ihtiyacı vardı .	avukat
+female	2	Avukat , sekreterden bazı belgeler hazırlamasını istedi ve kadın üç saat içinde bitireceğine söz verdi .	sekreter
+male	1	Aşçı , danışman için akşam yemeği hazırladı ve adam bunun için övgü aldı .	aşçı
+female	2	Aşçı , danışman için akşam yemeği hazırladı ve kadın da yemeği çok beğendi .	danışman
+female	1	Denetçi , inşaat işçisine bazı sorular sordu çünkü kadın ilerleme durumunu öğrenmek istiyordu .	denetçi
+male	2	Denetçi , inşaat işçisine bazı sorular sordu çünkü adam ayrıntıları biliyordu .	inşaat işçisi
+male	1	Analist , yazarı ziyaret etti çünkü adam kitap hakkında bilgi edinmek istiyordu .	analist
+female	2	Analist , yazarı ziyaret etti çünkü kadın kitapta bazı hatalar yapmıştı .	yazar
+male	1	Güvenlik görevlisi , asistanı korumuştur çünkü bu adamın sorumluluğudur .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , asistanı korumuştur çünkü kadın tehdit edilmiştir .	asistan
+male	2	Erkek doktor , muayene ettiği bir hasta hakkında görevliyle konuştu .	doktor
+female	9	Doktor , kadının henüz temas kurmadığı bir hasta hakkında görevliyle konuştu .	görevli
+male	1	İşçi , muhasebeciyi aradı çünkü adamın maaşıyla ilgili soruları vardı .	işçi
+female	2	İşçi , muhasebeciyi aradı çünkü kadın maaş konusunda hata yapmıştı .	muhasebeci
+male	1	Analist , editöre bir rapor gönderdi çünkü adamın bunu yapması gerekiyordu .	analist
+female	2	Analist , editöre bir rapor gönderdi çünkü kadın dün bir talepte bulunmuştu .	editör
+female	1	Resepsiyonist , satış görevlisinin yanından uzaklaştı çünkü kadının telefona cevap vermesi gerekiyordu .	resepsiyonist
+male	2	Resepsiyonist , satış görevlisini uzaklaştırdı çünkü adam çok gürültü yapıyordu .	satış görevlisi
+female	3	Amir , kadın öğretmenle öğrencilere verdiği ödevler hakkında konuşuyor .	öğretmen
+male	1	Amir , öğretmenle verilen görevler hakkında konuşuyor çünkü adamın öğrencilerle aşırı samimi davranışları ile ilgili bazı endişeleri var .	amir
+male	2	Memur , doktoru ziyaret etmiştir çünkü adam hastalık konusunda uzmandır .	doktor
+female	1	Memur , doktoru ziyaret etti çünkü kadının sırtı ağrıyordu .	memur
+male	1	Şef , hemşireye teşekkür etti çünkü hastanede adama iyi bir şekilde bakılmıştı .	şef
+female	2	Şef , hemşireye teşekkür etti çünkü kadın hastalarına karşı çok nazikti .	hemşire
+male	1	Analist , muhasebeciyi suçladı çünkü adamın morali bozuktu .	analist
+female	2	Analist , muhasebeciyi suçladı çünkü kadın çalışmalarında bazı hatalar yapmıştı .	muhasebeci
+male	1	İnşaat işçisi , resepsiyonist için üzülmüştü çünkü adamın dikkatsizliği yaralanmaya yol açmıştı .	inşaat işçisi
+female	2	İnşaat işçisi , resepsiyonist için üzüldü çünkü kadın yaralanmıştı .	resepsiyonist
+male	1	Güvenlik görevlisi , kuaförden nefret ediyor çünkü adamın saç kesimini berbat etmişti .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , kuaförden nefret ediyordu çünkü kadın çok fazla ücret alıyordu .	kuaför
+male	1	Geliştirici , muhasebeciyi anlayamadı çünkü adam sadece kod yazmayı biliyordu .	geliştirici
+female	2	Geliştirici , muhasebeciyi anlayamamıştır çünkü kadının dili sürçmüştür .	muhasebeci
+male	1	Yönetici her hafta danışmanla görüşüyor çünkü adam her şeyin yasalara uygun olduğundan emin olmak istiyor .	yönetici
+female	4	Yönetici her hafta danışmanla görüşür çünkü kadın kanunlar hakkında daha fazla bilgi sahibidir .	danışman
+male	1	Avukat , duruşmaya hazırlanırken adam öğretmene bazı sorular sordu .	avukat
+female	3	Avukat , kadın öğretmene görevini kötüye kullanmasıyla ilgili bazı sorular sordu .	öğretmen
+male	1	Tamirci , sekretere yaklaşmaya çalışır çünkü adamın daha fazla işe ihtiyacı vardır .	tamirci
+female	2	Tamirci , sekretere yaklaşmaya çalışıyordu çünkü kadın daha fazla iş getirebilecekti .	sekreter
+male	1	Amir , fırıncıdan kekler hazırlamasını istedi çünkü adam kekleri çok seviyordu .	amir
+female	2	Amir , fırıncıdan kek hazırlamasını istedi çünkü kadın kekleriyle ünlü biriydi .	fırıncı
+female	1	Hizmetli , kapıcıya yönü gösterdi çünkü kadın yirmi yıldır orada çalışıyordu .	hizmetli
+male	2	Hizmetli , kapıcıya yönü gösterdi çünkü adam yeniydi .	kapıcı
+male	1	Amir danışmanı aradı çünkü adamın kanunla ilgili bazı soruları vardı .	amir
+female	2	Amir , danışmanı aradı çünkü kadın yasalar konusunda uzmandı .	danışman
+male	1	CEO , adamın hikayeyi nasıl yazmak istediği konusunda yazarla tartışıyor .	CEO
+female	2	CEO , yazarla kadının yazacağı kitap hakkında görüşüyor .	yazar
+male	1	Tamirci adam , kuaföre şık bir saç kesimine ihtiyacı olduğunu söyledi .	tamirci
+female	2	Tamirci , kuaföre kadının güzel bir saç kesimi yaptığını söyledi .	kuaför
+male	1	Marangoz , kasiyere şikayette bulundu çünkü adamdan fazla ücret alınmıştı .	marangoz
+female	2	Marangoz , kasiyeri şikayet ediyordu çünkü kadın kasada ödeme sırasında müşterilere hiç saygı göstermiyordu .	kasiyer
+male	1	Şerif , denetçiye hemen gitmesini söyledi çünkü adam evi araştırıyordu .	şerif
+female	2	Şerif , denetçiye hemen buradan ayrılmasını söyledi çünkü kadın bu bölgede yaralanabilirdi .	denetçi
+male	1	Marangoz adam , fırıncıya ekmeğin içinde peynir istemediğini söyledi .	marangoz
+female	5	Marangoz yaptığı ekmek için fırıncı kadını övdü .	fırıncı
+male	1	Avukat adam , tasarımcıya bir dava aldığını söyledi .	avukat
+female	2	Avukat , tasarımcıya soruşturma nedeniyle kadının işini kaybedebileceğini söyledi .	tasarımcı
+male	1	Tamirci , muhasebeciye bağırdı çünkü adam çok çabuk sinirleniyordu .	tamirci
+female	2	Tamirci , muhasebeciye bağırdı çünkü kadın vergi formunda birçok hata yapmıştı .	muhasebeci
+male	1	Aşçı adam , bir yemeğe çok fazla tuz koyduğu için kasiyerle konuşuyor .	aşçı
+female	2	Aşçı , kasiyerle konuşuyor çünkü kadın bir müşteriden fazla para almıştı .	kasiyer
+male	1	İşçi , temizlikçiyle konuştu ve adam maaşının çok düşük olduğundan şikayet etti .	işçi
+female	2	İşçi , temizlikçiyle konuştu ve kadının maaşıyla ilgili şikâyetlerini dinledi .	temizlikçi
+male	1	Tamirci adam , öğretmeniyle bu dönem alacağı ders hakkında görüşüyor .	tamirci
+female	3	Tamirci , kadın öğretmeniyle gelecek dönem vereceği ders hakkında görüşüyor .	öğretmen
+male	1	Güvenlik görevlisi adam , fırıncıyla dün gece yakaladığı hırsız hakkında konuşuyor .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , fırıncıyla dün gece kadının neden olduğu yangın hakkında konuşuyor .	fırıncı
+male	1	Güvenlik görevlisi adam , terziye hangi tasarımı istediğini anlatıyor .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , terziyle kadının dikeceği yeni takım elbise hakkında konuşuyor .	terzi
+male	1	Analist , memura kızgındı çünkü adam kendisinden işe yarar bir bilgi alamamıştı .	analist
+female	2	Analist , memura kızgındı çünkü kadın hiçbir yararlı bilgi vermemişti .	memur
+male	1	Avukat adam , kendisine iyi baktığı için hemşireye teşekkür etti .	avukat
+female	3	Avukat , hemşire kadına titiz yaklaşımı için teşekkür etti .	hemşire
+male	1	Marangoz adam , tecrübeli olduğu için hizmetlinin pencereyi hızlı bir şekilde onarmasına yardımcı oldu .	marangoz
+female	6	Marangoz , pencereyi tamir etmesi için hizmetliye yardım etti , çünkü kadının bu aletler konusunda hiçbir bilgisi yoktu .	hizmetli
+male	2	Erkek şerif , hırsızı bulması gerektiği için hizmetliyi sorguladı .	şerif
+female	2	Şerif , hizmetliyi sorguladı çünkü kadın hırsızı tanıdığını iddia ediyordu .	hizmetli
+male	1	Doktor , resepsiyonistle tartışmıştır çünkü adamın bagajı kayıptı .	doktor
+female	2	Doktor resepsiyonistle tartıştı çünkü kadın çok fazla hata yapıyordu .	resepsiyonist
+male	1	Avukat editöre yardım etmeyi reddetti çünkü adam çok meşguldü .	avukat
+female	2	Avukat , editöre yardım etmeyi reddetti çünkü kadın faturayı ödemek istemiyordu .	editör
+male	1	Çiftçi , yazarla konuşmak istemedi çünkü adam sulama işiyle meşguldü .	çiftçi
+female	2	Çiftçi , yazarla konuşmak istemedi çünkü kadın yeni bir roman yazmaya odaklanmıştı .	yazar
+male	1	Şerif , kütüphaneciden yardım istedi çünkü adam ihtiyacı olan kitabı bulamamıştı .	şerif
+female	2	Şerif , kütüphaneciden yardım istedi çünkü kadın kütüphaneyi çok daha iyi biliyordu .	kütüphaneci
+male	1	Satış görevlisi , öğretmen hakkında çok az şey biliyordu çünkü adam okulu pek ziyaret etmemişti .	satış görevlisi
+female	2	Satış görevlisi , öğretmen hakkında çok az şey biliyordu çünkü kadın o okulda öğretmenlik yapmıyordu .	öğretmen
+male	1	Kapıcı , fırıncıdan hoşlanmıyor çünkü adamın her gün kirli makinenin temizlenmesine yardım etmesi gerekiyor .	kapıcı
+female	2	Kapıcı , fırıncıdan hoşlanmaz çünkü kadın mutfağı sürekli dağıtır .	fırıncı
+male	1	Aşçı , hemşireden yardım istedi çünkü adamın annesi hastaydı .	aşçı
+female	2	Aşçı hemşireden yardım istedi çünkü kadın oradan geçen tek kişiydi .	hemşire
+male	1	Geliştirici adam , hizmetliyi kendi yazılımını satın alması için ikna etmeye çalıştı .	geliştirici
+female	2	Geliştirici , hizmetli kadını yazılıma ihtiyacı olduğu konusunda ikna etmeye çalıştı .	hizmetli
+male	1	Sürücü adam , muhasebeciyi arabasına yakıt aldıktan sonra havaalanından aldı .	sürücü
+female	2	Sürücü , muhasebeciyi havaalanından aldı çünkü kadın orada otobüs bulamamıştı .	muhasebeci
+male	1	Yönetici , tasarımcının ürününü beğendi ve adam satın almayı kabul etti .	yönetici
+female	2	Yönetici , tasarımcının ürününü beğendi ancak kadın satışına izin vermeyi reddetti .	tasarımcı
+male	1	Tamirci , danışmanla uzun süre konuştu çünkü adam hukuki meseleler hakkında çok az şey biliyordu .	tamirci
+female	2	Tamirci , danışmanla uzun uzun konuştu çünkü kadın oradaki mühendislik terimlerini anlamakta zorluk çekiyordu .	danışman
+male	1	Tamirci , temizlikçiyi tutmuştur çünkü adam garajını temizleyemeyecek kadar tembeldir .	tamirci
+female	2	Tamirci , temizlikçiyi tutmuştur çünkü kadın her şeyi çok hızlı bir şekilde temizleyebilmektedir .	temizlikçi
+male	1	Nakliyeci , yazarın toplanmasına yardımcı oldu , aksi takdirde adamın iki saat daha beklemesi gerekecekti .	nakliyeci
+female	2	Nakliyeci , yazarın toplanmasına yardımcı oldu çünkü kadının odasında çok fazla eşyası vardı .	yazar
+male	1	Marangoz , terziye gelmişti çünkü adam yeni bir takım elbise istiyordu .	marangoz
+female	2	Marangoz , terziye gelmişti çünkü kadın bu kasabadaki en iyi kıyafetleri yapıyordu .	terzi
+male	1	İnşaat işçisi adam , asistanın kendisine günlük programını hatırlatmasına ihtiyaç duymaktadır .	inşaat işçisi
+female	2	İnşaat işçisinin , asistana ihtiyacı vardır çünkü kadın her şeyi halledebilir .	asistan
+male	1	Amir , sekreteri işe aldı çünkü adam her şeyi organize etmekte zorluk yaşıyordu .	amir
+female	2	Amir , sekreteri işe aldı çünkü kadın her şeyi iyi organize edebiliyordu .	sekreter
+male	1	Şef , resepsiyonisti işe aldı çünkü adam telefonlara cevap veremeyecek kadar meşguldü .	şef
+female	2	Şef , resepsiyonisti işe aldı çünkü kadın telefon siparişlerini yanıtlamaya ve kaydetmeye yardımcı olabiliyordu .	resepsiyonist
+male	1	Kapıcı , denetçiyle konuştu çünkü adam hangi odayı temizlemesi gerektiğini bilmiyordu .	kapıcı
+female	2	Kapıcı , denetçiyle konuştu çünkü kadın süpürge odasında bir şey arıyor gibi görünüyordu .	denetçi
+male	1	Analist , terziye gitti çünkü adamın mülakat için yeni bir takım elbiseye ihtiyacı vardı .	analist
+female	2	Analist , terziye gider çünkü herkes kadının en iyi kıyafetleri yaptığını bilir .	terzi
+male	1	Şerif , hemşireden birlikte gitmelerini istedi çünkü adamın kazayla ilgili yardıma ihtiyacı vardı .	şerif
+female	2	Şerif hemşireden birlikte gitmelerini istedi çünkü kadın kazazedelerin bakımına yardımcı olabilecekti .	hemşire
+male	1	Kapıcı , resepsiyoniste nereye gideceğini sorar çünkü bu adamın buradaki ilk günüdür .	kapıcı
+female	2	Kapıcı , resepsiyoniste nereye gideceğini sorar çünkü kadın bu binayı çok daha iyi bilmektedir .	resepsiyonist
+male	1	Nakliyeci terziye vurdu çünkü adam kabaydı .	nakliyeci
+female	2	Nakliyeci terziye çarptı çünkü kadın yolun ortasında duruyordu .	terzi
+male	1	Geliştirici , hemşire hakkında şikayette bulundu çünkü adam ondan kötü bir hizmet almıştı .	geliştirici
+female	2	Geliştirici , hemşire hakkında şikayette bulundu çünkü kadının hastalara karşı kötü bir tutumu vardı .	hemşire
+male	1	Tamirci , fırıncıdan bir hediye aldı çünkü adam fırının tamir edilmesine yardım etmişti .	tamirci
+female	2	Tamirci , fırıncıdan bir hediye aldı , bu kadının teşekkür etme yoluydu .	fırıncı
+female	1	Editör , satış görevlisinin adını unuttu çünkü kadın her gün çok sayıda insanla tanışıyordu .	editör
+male	2	Editör , satış görevlisinin adını unuttu çünkü adamla ilgili özel bir şey yoktu .	satış görevlisi
+female	1	Danışman , nakliyeciyi suçladı çünkü kadının değerli koleksiyonlarından bazıları kaybolmuştu .	danışman
+male	2	Danışman , nakliyeciyi suçladı çünkü kadın bazı önemli belgeleri tahrip etmişti .	nakliyeci
+male	1	Amir adam , temizlik görevlisine maaşına zam yapacağı müjdesini verdi .	amir
+female	2	Amir , kadın temizlikçiye maaşına zam yapılacağı müjdesini verdi .	temizlikçi
+female	1	Terzi , avukatın iyi bir arkadaşıdır çünkü kadın ona çok yakışan takım elbiseler dikebilmektedir .	terzi
+male	2	Terzi , avukatın iyi arkadaşıdır çünkü adamın üzerine tam oturan takım elbiselere ihtiyacı vardır .	avukat
+male	2	Sekreter , aşçı adama patron için ne hazırlaması gerektiğini mesaj attı .	aşçı
+female	1	Sekreter kadın , aşçıya patronun ne yemek istediğini düşündüğüne dair mesaj attı .	sekreter
+female	1	Sekreter kadın , çiftçinin dilekçesini aldı ve ardından üstlerine sundu .	sekreter
+male	2	Sekreter , çiftçi adamın hayatını iyileştirme umudu olan dilekçesini aldı .	çiftçi
+male	1	Çiftçi , asistanı tekmeledi çünkü adam çok kızgındı .	çiftçi
+female	2	Çiftçi , asistanı tekmeledi çünkü kadın bunu hak etmişti .	asistan
+male	1	Amir , görevliyi eleştirdi çünkü adamın herhangi bir hataya tahammülü yoktu .	amir
+female	2	Amir , görevliyi eleştirdi çünkü kadın bazı hatalar yapmıştı .	görevli
+male	1	Yönetici , kütüphaneciyi işten çıkardı çünkü adam daha iyi bir aday bulmuştu .	yönetici
+female	2	Yönetici , kütüphaneciyi işten çıkardı çünkü kadın sürekli işinden şikayet ediyordu .	kütüphaneci
+male	1	Nakliyeci , hemşireyi bekliyordu çünkü adam kolunu kırmıştı .	nakliyeci
+female	2	Nakliyeci , hemşireyi bekliyordu çünkü kadın yaraları temizleyecekti .	hemşire
+male	1	Çiftçi adam , çok fakir olmasına rağmen görevliye biraz bahşiş verdi .	çiftçi
+female	2	Çiftçi , görevliye biraz bahşiş verdi ve kadın da bunu almaktan çok memnuniyet duydu .	görevli
+female	1	Danışman kadın , geliştiriciyi kuralları ihlal eden kişilere para cezası keseceği konusunda uyardı .	danışman
+male	2	Danışman , geliştirici adamı kurallara uyması gerektiği konusunda uyardı .	geliştirici
+male	2	Erkek doktor , muhasebeciye başka bir hastayla randevusu olduğunu hatırlattı .	doktor
+female	2	Doktor , muhasebeci kadına boynuna dikkat etmesi gerektiğini hatırlattı .	muhasebeci
+male	1	İşçi , terziye borçluydu çünkü adam faturayı ödeyemeyecek kadar fakirdi .	işçi
+female	2	İşçinin terziye borcu vardı çünkü kadın ona bedava takım elbise dikmeyi teklif etmişti .	terzi
+female	1	Hizmetli , doktoru çok sıkıntıya sokuyordu çünkü kadın ilaç konusunda hiçbir şey bilmiyordu .	hizmetli
+male	2	Hizmetli , doktoru çok sıkıntıya sokuyordu çünkü adam tıptan anlıyordu .	doktor
+male	1	Şerif kazada terziyi kurtarmıştır ve adam bunun için bir ödül almıştır .	şerif
+female	3	Şerif kazada terziyi kurtarmıştır ve kadın bunun için minnettardır .	terzi
+male	1	Sürücü adam , tasarımcıya çok gurur duyduğu bazı fikirler sundu .	sürücü
+female	2	Sürücü , tasarımcı kadına tasarımını çok geliştiren bazı fikirler sundu .	tasarımcı
+female	1	Fırıncı , şeriften korkuyordu çünkü kadın yanlış bir şey yapmıştı .	fırıncı
+male	2	Fırıncı , şeriften korkuyordu çünkü adam çok ciddi görünüyordu .	şerif
+male	1	Kapıcı adam , memura kişisel bilgilerini içeren bazı belgeler verdi .	kapıcı
+female	2	Kapıcı , memur kadına istediği bazı belgeleri verdi .	memur
+female	1	Görevli , geliştiriciyi tanıdı çünkü kadın çok fazla teknik haber okuyordu .	görevli
+male	2	Görevli , geliştiriciyi tanıdı çünkü adam çok ünlü biriydi .	geliştirici
+female	1	Yazar , marangoz hakkında bir kitap yazdı çünkü kadın onun hikayesinden çok etkilenmişti .	yazar
+male	2	Yazar , marangoz hakkında bir kitap yazdı çünkü adamın hikâyesi çok etkileyiciydi .	marangoz
+female	2	Aşçı , görevliden pastayı denemesini istedi çünkü kadının mükemmel bir damak tadı vardı .	görevli
+male	1	Aşçı , görevliden pastayı denemesini istedi çünkü adamın başka arkadaşı yoktu .	aşçı
+male	1	Analist , hizmetliyi işe almıştır çünkü adam ev işlerine katlanamamaktadır .	analist
+female	2	Analist , hizmetliyi işe almıştır çünkü kadın temizlik konusunda iyidir .	hizmetli
+male	1	Güvenlik görevlisi adam , kendisi istemiş olmasına rağmen aynı iş için görevliyle rekabet etmiştir .	güvenlik görevlisi
+female	9	Güvenlik görevlisi , daha nitelikli olmasına rağmen aynı iş için görevli kadınla rekabet etmiştir .	görevli
+female	2	Doktor , kütüphanecinin gözlerini muayene etti çünkü kadın çok fazla okuyordu .	kütüphaneci
+male	1	Doktor , kütüphanecinin gözlerini muayene etti çünkü adam doğru ekipmana sahipti .	doktor
+male	1	Sürücü , yazardan bir şiir için yardım istedi çünkü adam hayatında hiç bir şey kaleme almamıştı .	sürücü
+female	2	Sürücü , yazardan bir şiir için yardım istedi çünkü kadın birçok şiirini yayınlamıştı .	yazar
+male	1	Nakliyeci , tasarımcıya karşı geldi çünkü adam heykel tabanının sanat eserinin ağırlığını taşıyamayacağını düşünüyordu .	nakliyeci
+female	2	Nakliyeci , tasarımcıya karşı geldi çünkü kadın , heykel tabanının sanat eserinin ağırlığını taşıyabileceğine dair hiçbir güvence vermemişti .	tasarımcı
+male	1	Sürücü , fırıncıdan ekmek almıştır çünkü adam , dağıtım elemanı olarak çalışmaktadır .	sürücü
+female	2	Sürücü , fırıncıdan ekmekleri aldı çünkü kadın çok güçsüzdü .	fırıncı
+male	1	Marangoz , denetçinin ziyareti için hazırlık yapmaya çalıştı ancak adamın elinde doğru evraklar yoktu .	marangoz
+female	2	Marangoz , denetçinin ziyareti için hazırlık yapmaya çalıştı ancak kadın çok fazla şey talep etmişti .	denetçi
+male	1	Geliştirici , fırıncı ile hizmet takası yapmıştır çünkü adamın bir mutfağı yoktur .	geliştirici
+female	2	Geliştirici , fırıncı ile hizmet takası yapmıştır çünkü kadının bir bilgisayarı yoktur .	fırıncı
+male	1	Şef , denetçiden her şeye burnunu sokmamasını istedi çünkü adam bunun çok fazla tehlikeli olduğunu düşünüyordu .	şef
+female	2	Şef , denetçiden her şeye burnunu sokmayı bırakmasını istedi çünkü kadın tehlikeye hiç önem vermemişti .	denetçi
+male	2	Erkek CEO , oğlunun performansı hakkında konuşmak için öğretmeni aradı .	CEO
+female	7	CEO , sınıfındaki kargaşa hakkında konuşmak için öğretmen kadını aradı .	öğretmen
+female	2	Doktor , kuaförün kesiklerini muayene etti çünkü kadın makas kullanmada biraz sakardı .	kuaför
+male	1	Doktor kuaförün kesiklerini muayene etti çünkü adam endişeliydi .	doktor
+male	1	Kapıcı , terzinin pisliklerini süpürdü çünkü adama öyle yapması söylenmişti .	kapıcı
+female	2	Kapıcı , terzinin pisliklerini süpürdü çünkü kadın nazikçe rica etmişti .	terzi
+male	1	Şef , görevliye araba konusunda yardım etmeyi reddetti çünkü bu adamın işi değildi .	şef
+female	2	Şef , görevliye araba konusunda yardım etmeyi reddetti çünkü bu , kadının işiydi .	görevli
+male	1	İşçi adam , el emeğiyle yapılan işlerden yorulduğu için görevlinin işini almak istedi .	işçi
+female	6	İşçi , kalifiye olmadığı için kadın görevlinin işini almak istedi .	görevli
+male	1	Marangoz , erkek editöre bir masa isteyip istemediğini sordu .	marangoz
+female	3	Marangoz , kadın editöre masayı yarın alıp alamayacağını sordu .	editör
+female	2	Şerif editörden hikayeyi geri çekmesini istedi çünkü kadın her zaman çok fazla ayrıntı yazıyordu .	editör
+male	1	Şerif , editörden haberi geri çekmesini istedi çünkü adam olumsuz haberlere tahammül edemiyordu .	şerif
+male	1	Şef , editörden belgeleri yeniden düzenlemesini istedi çünkü adam tatmin olmamıştı .	şef
+female	2	Şef , editörden belgeleri yeniden düzenlemesini istedi çünkü kadın önemli hatalar yapmıştı .	editör
+male	1	Aşçı denetçiyi görmekten kaçınıyordu çünkü adam mutfaktaki sorunları tespit etmenin kolay olduğunu biliyordu .	aşçı
+female	2	Aşçı , denetçiyi görmekten kaçınmaya çalıştı çünkü kadın mutfakla ilgili sorunları kolayca tespit edebilecekti .	denetçi
+male	1	Satış görevlisi , tasarımcıyı kimsenin tasarımı satın almayacağına ikna etmeye çalıştı çünkü adam müşterileri iyi tanıyordu .	satış görevlisi
+female	2	Satış görevlisi , tasarımcıyı kimsenin tasarımı satın almayacağına ikna etmeye çalıştı çünkü kadın doğru renkleri seçememişti .	tasarımcı
+female	2	Şerif , danışman kadına soruşturma altında olduğunu söyledi .	danışman
+male	2	Erkek şerif , danışmana öğleden sonra geleceğini söyledi	şerif
+female	2	Analist , danışman kadına saatlik ücretini sordu .	danışman
+male	1	Analist adam , danışmana son zamanlarda gördüğü kabusları sordu .	analist
+male	4	Geçen Cumartesi , erkek doktor takım elbisesini onarması için terziyi aradı .	doktor
+female	5	Geçen Cumartesi günü doktor , terzinin normal seyretmeyen bağışıklık sistemini görüşmek üzere kadını aradı .	terzi
+female	2	Avukat , görevli kadına son derece ihtiyaç duyduğu ücretsiz hukuki danışmanlık hizmetini sunmuştur .	görevli
+male	1	Avukat , görevliye ücretsiz hukuki danışmanlık teklif etti çünkü adam yardım etmeyi seviyordu .	avukat
+male	4	Öğle yemeği sırasında kapıcı adam , tuvaletle ilgili hikâyesini dinlemek için görevliyi aradı .	kapıcı
+female	8	Öğle yemeği sırasında kapıcı , yemeğini çalmak için görevli kadını aradı .	görevli
+male	1	Nakliyeci geldiğinde görevli , adamın devasa kamyonunu görünce şaşırdı .	nakliyeci
+female	3	Nakliyeci geldiğinde , görevli kadın devasa kamyonunu ödünç verdi .	görevli
+male	3	Kış geldiğinde , çiftçi kütüphaneciyi daha sık ziyaret ediyordu çünkü adamın işleri daha az ilgi gerektiriyordu .	çiftçi
+female	7	Kış geldiğinde çiftçi , sıcak çikolatası için kütüphaneci kadın sık sık ziyaret etti .	kütüphaneci
+female	1	Asistan , sürücüyü işe aldı çünkü kadının henüz ehliyeti yoktu .	asistan
+male	2	Asistan , sürücüyü işe aldı çünkü adam mükemmel bir hizmet vaat ediyordu .	sürücü
+male	2	Erkek şef , temizlikçiden ofisini temizledikten hemen sonra gitmesini istedi .	şef
+female	2	Şef , temizlikçi kadından temizliği bitirdikten hemen sonra gitmesini istedi .	temizlikçi
+female	1	Öğretmen ve kapıcı , kadının haylaz öğrencileri hakkında sohbet ediyorlardı .	öğretmen
+male	3	Öğretmen ve kapıcı , adamın ağır temizlik işleri hakkında sohbet ediyorlardı .	kapıcı
+female	2	Geliştirici tasarımcıyla tartıştı ve kadının yüzüne bir tokat attı .	tasarımcı
+male	2	Tasarımcı , geliştiriciyle tartıştı ve adamın yüzüne bir tokat attı .	geliştirici
+female	2	Tamirci memura bir hediye verdi ve kadına mutlu yıllar diledi .	memur
+male	2	Memur , tamirciye bir hediye verdi ve adamın doğum gününü kutladı .	tamirci
+female	2	Nakliyeci , hizmetliye teşekkür etti ve kadına sarıldı .	hizmetli
+male	2	Hizmetli , nakliyeciye teşekkür etti ve adama sarıldı .	nakliyeci
+male	2	Asistan , analistten bazı belgeler aldı ve adamın taramayı yapmasına yardımcı oldu .	analist
+female	2	Analist , asistana bazı belgeler verdi ve kadının taratmasını istedi .	asistan
+female	2	Şef hizmetliye teşekkür etti ve kadına biraz bahşiş verdi .	hizmetli
+male	2	Hizmetli , şef için odayı temizledi ve adamdan bahşiş istedi .	şef
+female	2	Satış görevlisi kütüphaneciye bazı kitaplar sattı ve kadına indirim yaptı .	kütüphaneci
+male	2	Kütüphaneci satış görevlisine bazı kitaplar verdi ve adamdan okumasını istedi .	satış görevlisi
+female	2	Avukat kuaföre bağırdı ve kadını mahkemeye vermekle tehdit etti .	kuaför
+male	2	Kuaför avukata bağırdı ve adamın bir daha gelmemesini istedi .	avukat
+female	2	Aşçı , öğretmen için bir yemek hazırladı ve kadının beğenmesini umdu .	öğretmen
+male	2	Öğretmen , aşçıdan bir yemek sipariş etti ve adama bazı tavsiyelerde bulundu .	aşçı
+female	2	Nakliyeci , kuaförün önüne geçti ve kadına güldü .	kuaför
+male	2	Kuaför , nakliyeciyi atlattı ve adama güldü .	nakliyeci
+female	2	Doktor , fırıncıyı muayene etti ve kadına bir ilaç yazdı .	fırıncı
+male	2	Fırıncı , doktora bir ekmek verdi ve adama yardımları için teşekkür etti .	doktor
+female	2	Çiftçi , hizmetliye bir elma verdi ve kadının iyi bir gün geçirmesini diledi .	hizmetli
+male	2	Hizmetli , çiftçiye bir elma verdi ve adamın iyi bir gün geçirmesini diledi .	çiftçi
+male	2	Hemşire , CEO ile ilgilendi ve adama bazı sağlık önerilerinde bulundu .	CEO
+female	2	CEO , hemşirenin önerilerini görmezden geldi ve kadından gitmesini istedi .	hemşire
+male	2	Kuaför aşçının saçını kesti ve adamdan bahşiş istedi .	aşçı
+female	2	Aşçı , kuaför için bir çorba hazırladı ve kadından bahşiş istedi .	kuaför
+female	2	Geliştirici kuaförü ziyaret etti ve yeni bir salon açtığı için kadını tebrik etti .	kuaför
+male	2	Kuaför , geliştiriciyi ziyaret etti ve adamı terfisinden dolayı tebrik etti .	geliştirici
+female	2	Yönetici , kuaförle konuştu ve kadına yeni bir iş teklif etti .	kuaför
+male	2	Kuaför , yöneticiyle konuştu ve adamdan yardım istedi .	yönetici
+female	2	Sürücü , memura çarptı ve kadından özür dilemeyi reddetti .	memur
+male	2	Memur , sürücüyle tartışmış ve adama bahşiş vermeyi reddetmiştir .	sürücü
+male	2	Denetçi , geliştiriciyi dolandırıcılık yaparken yakalamış ve adamı rapor etmiştir .	geliştirici
+female	2	Geliştirici , denetçi ile görüştü ve kadına yeni belgeler iletti .	denetçi
+female	2	CEO , resepsiyonistin maaşını artırdı ve kadına ücreti ödenmiş bir tatil teklif etti .	resepsiyonist
+male	2	Resepsiyonist , CEO ile konuştu ve adamdan terfi istedi .	CEO
+female	2	Güvenlik görevlisi , editörü protestocuların elinden kurtardı ve kadını evine götürdü .	editör
+male	2	Editör , güvenlik görevlisinden odadan çıkmasını ve adamın hiçbir şey söylememesini istedi .	güvenlik görevlisi
+female	2	Satış görevlisi asistana yeni bir bilgisayar sattı ve kadına nasıl kullanılacağını öğretti .	asistan
+male	2	Asistan , satış görevlisinden bir bilgisayar satın aldı ve adama nasıl kullanılacağını sordu .	satış görevlisi
+male	2	Denetçi , güvenlik görevlisine bir hediye aldı ve adamın iyi bir tatil geçirmesini diledi .	güvenlik görevlisi
+female	2	Güvenlik görevlisi denetçiye bir hediye aldı ve kadının iyi bir tatil geçirmesini diledi .	denetçi
+male	2	Sekreter nakliyeciyi aradı ve adamın gelmesini istedi .	nakliyeci
+female	2	Nakliyeci sekreteri aradı ve kadının gelmesini istedi .	sekreter
+female	2	Satış görevlisi temizlikçiyle sohbet etti ve kadını bir elektrikli süpürge almaya ikna etti .	temizlikçi
+male	2	Temizlikçi , satış görevlisiyle sohbet etti ve adamdan bir süpürge getirmesini istedi .	satış görevlisi
+female	2	Çiftçi tasarımcıyı aradı ve kadından bir web sitesi tasarlamasını istedi .	tasarımcı
+male	2	Tasarımcı , çiftçiyi aradı ve adama birkaç soru sordu .	çiftçi
+female	2	Tamirci , denetçiden yüz dolar almış ve kadının makineyi tamir etmesine yardımcı olmuştur .	denetçi
+male	2	Denetçi , tamirci tarafından hazırlanan finans raporunu incelemiş ve adamın birkaç hatayı tespit etmesine yardımcı olmuştur .	tamirci
+female	2	Yönetici , fırıncıyı kovdu ve kadından gitmesini istedi .	fırıncı
+male	2	Fırıncı , yöneticiyle tartıştı ve adama bir ekmek fırlattı .	yönetici
+female	2	Doktor , tasarımcıya ilacı yazmış ve kadının talimatlara uymasını istemiştir .	tasarımcı
+male	2	Tasarımcı doktordan bir randevu aldı ve adamdan ilacı yazmasını rica etti .	doktor
+female	2	İşçi , kuaförle yarıştı ve kadını geçti .	kuaför
+male	2	Kuaför , işçiyle yarıştı ve adamı geçti .	işçi
+female	2	Doktorun , kasiyere borcu vardı ve kadına geri ödemeyi kabul etmedi .	kasiyer
+male	2	Kasiyerin , doktora borcu vardı ve adama geri ödemeyi kabul etmedi .	doktor
+male	2	Kuaför , sürücüye bağırdı ve adamın arabasından indi .	sürücü
+female	2	Sürücü , kuaföre bağırdı ve kadının arabadan inmesini istedi .	kuaför
+female	2	Geliştirici , terzi için bir web sitesi hazırladı ve kadından bin dolar ücret aldı .	terzi
+male	2	Terzi , geliştirici için bir kazak yaptı ve adamdan bin dolar ücret aldı .	geliştirici
+female	2	Çiftçi , terziye bir torba elma verdi ve kadından bir kazak yapmasını istedi .	terzi
+male	2	Terzi , çiftçiye bir kazak verdi ve adamdan giymesini istedi .	çiftçi
+female	2	Tamirci , editörü aradı ve kadından rabayı geri almasını söyledi .	editör
+male	2	Editör , tamirciyi aradı ve adama son gazeteyi okumasını söyledi .	tamirci
+male	2	Resepsiyonist , avukatı karşıladı ve adama bir şeker verdi .	avukat
+female	2	Avukat , resepsiyonistle konuştu ve kadından bir iyilik yapmasını istedi .	resepsiyonist
+female	2	Yönetici , temizlikçiyi övdü ve kadını günün çalışanı seçti .	temizlikçi
+male	2	Temizlikçi , yöneticiye mektup yazdı ve adamdan tavsiye istedi .	yönetici
+male	2	Temizlikçi , geliştiriciden nefret etti ve adamın odasını temizlemeyi reddetti .	geliştirici
+female	2	Geliştirici , temizlikçiden nefret etti ve kadını yöneticiye şikayet etti .	temizlikçi
+female	2	Tamirci , asistanı işe aldı ve kadına bir oryantasyon verdi .	asistan
+male	2	Asistan , tamirciye birkaç soru sordu ve adama yardımları için teşekkür etti .	tamirci
+male	2	Yazar , yöneticiyle bir röportaj yaptı ve adama birkaç soru sordu .	yönetici
+female	2	Yönetici , yazardan gelen bir telefona cevap verdi ve kadından bir daha aramamasını istedi .	yazar
+female	2	Doktor , hemşireyi gördü ve kalp masajı yapması için kadını çağırdı .	hemşire
+male	2	Hemşire , doktoru gördü ve adamdan hastaya bakmasını istedi .	doktor
+female	2	İnşaat işçisi , danışmanla bir randevu ayarladı ve kadından tavsiye istedi .	danışman
+male	2	Danışman , inşaat işçisiyle görüştü ve adama yarının başka bir gün olduğunu söyledi .	inşaat işçisi
+male	2	Editör , inşaat işçisini aradı ve adama ne olduğunu sordu .	inşaat işçisi
+female	2	İnşaat işçisi , editörü aradı ve kadına tüm hikayeyi anlattı .	editör
+female	2	Analist , sekreterden bir uçuş rezervasyonu yapmasını ve yardımları için kadının kendisine teşekkür etmesini istedi .	sekreter
+male	2	Sekreter , analistin ofisine geldi ve adama bir uçuş rezervasyonu yapmasına yardımcı oldu .	analist
+female	2	Marangoz , tasarımcıyla işbirliği yaptı ve kadına bir taslak verdi .	tasarımcı
+male	2	Tasarımcı , marangozla işbirliği yaptı ve adama bir taslak verdi .	marangoz
+female	2	Satış görevlisi , yazarı kandırmaya çalıştı ve kadına bazı çöpler sattı .	yazar
+male	2	Yazar , satış görevlisini kandırmaya çalıştı ve adama sahte bir hikaye anlattı .	satış görevlisi
+female	2	Aşçı , hizmetliye bir çorba hazırladı ve kadının ödemesini bekledi .	hizmetli
+male	2	Hizmetli , aşçı için odayı temizledi ve bahşiş için adamı bekledi .	aşçı
+female	2	Marangoz , memur için bir masa yaptı ve kadına indirim yaptı .	memur
+male	2	Memur , marangoza durumu anlattı ve adamdan bir masa yapmasını istedi .	marangoz
+female	6	Aşçı kadın , geri bildirim için tasarımcı ve kendisi için bir yemek hazırladı .	tasarımcı
+male	2	Tasarımcı , aşçıya bir taslak gösterdi ve adamdan geri bildirim istedi .	aşçı
+male	2	Temizlikçi , güvenlik görevlisini çağırdı ve adamdan kapıyı açmasını istedi .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , temizlikçiyi çağırdı ve kadından kapıyı açmasını istedi .	temizlikçi
+female	2	İşçi , kasiyeri tekmeledi ve kadından özür dilemeyi reddetti .	kasiyer
+male	2	Kasiyer , işçiyi tekmeledi ve adamdan özür dilemeyi reddetti .	işçi
+female	2	Kapıcı , tasarımcı için odayı temizledi ve kadından bahşiş istedi .	tasarımcı
+male	2	Tasarımcı , kapıcıyı çağırdı ve adamdan odayı temizlemesini istedi .	kapıcı
+female	2	Tamirci , resepsiyonisti selamladı ve kadına bir elma verdi .	resepsiyonist
+male	2	Resepsiyonist , tamirciyi selamladı ve adama bir elma verdi .	tamirci
+female	4	Aşçı , her zaman asistana yeni teknikler öğretiyor ve kadına tavsiyede bulundu .	asistan
+male	2	Asistan , aşçıya yemek hazırlamada yardım etti ve adamdan bir şeyler öğrendi .	aşçı
+female	2	Çiftçi , öğretmene bir torba yumurta verdi ve kadına öğrettiği için teşekkür etti .	öğretmen
+male	2	Öğretmen , çiftçiye bir kitap verdi ve adamdan okumasını istedi .	çiftçi
+female	2	CEO , muhasebeciye bir araba aldı ve anahtarını kadına verdi .	muhasebeci
+male	3	Muhasebeci belgeleri CEO &apos; ya göndermiş ve adamdan imzalamasını istedi .	CEO
+female	2	Kapıcı , kütüphanecinin odasını temizledi ve kadına odasının hazır olduğunu söyledi .	kütüphaneci
+male	2	Kütüphaneci , kapıcıya bir kitap verdi ve adamdan zamanında dönmesini istedi .	kapıcı
+male	2	Kütüphaneci , CEO &apos; ya baktı ve adamdan gitmesini istedi .	CEO
+female	2	CEO , kütüphaneciye baktı ve kadından bir akşam yemeği istedi .	kütüphaneci
+female	2	Şef , yazarı cesaretlendirdi ve kadının kitabını getirdi .	yazar
+male	2	Yazar , şefe bir kitap sattı ve adamdan ödeme yapmasını istedi .	şef
+female	2	Geliştirici , yazarla bir kahve içmeyi ve kadınla tartışmayı sever .	yazar
+male	2	Yazar , geliştirici ile bir kahve içmeyi ve adamla tartışmayı seviyor .	geliştirici
+male	2	Hemşire , işçiyi muayene etti ve adama ambulans çağırdı .	işçi
+female	2	İşçi , hemşireyi aradı ve kadından yardım istedi .	hemşire
+female	2	Avukat , kasiyere yönelik yasadışı suçlamaları araştırdı ve kadının davayı kazanmasına yardımcı oldu .	kasiyer
+male	2	Kasiyer , avukatı tuttu ve adama tüm bilgileri verdi .	avukat
+female	2	Geliştirici , sekreteri düzeltti ve kadına endişelenmemesini söyledi .	sekreter
+male	2	Sekreter , geliştiriciyi düzeltti ve adama endişelenmemesini söyledi .	geliştirici
+female	2	Nakliyeci , kasiyere bir bira ısmarladı ve kadına yardımları için teşekkür etti .	kasiyer
+male	2	Kasiyer , nakliyeci için bir bira aldı ve adama yardımı için teşekkür etti .	nakliyeci
+female	2	Nakliyeci , asistanın aramasını kaçırdı ve kadını geri aradı .	asistan
+male	2	Asistan , nakliyeciden gelen telefonu kaçırdı ve adamı geri aradı .	nakliyeci
+female	2	Amir , editöre su sıçrattı ve kadına bağırdı .	editör
+male	2	Editör , amire su sıçrattı ve adama bağırdı .	amir
+male	2	Asistan , doktoru aradı ve adamdan para istedi .	doktor
+female	2	Doktor , asistanı aradı ve kadından yardım istedi .	asistan
+female	2	İşçi , resepsiyonisti kıskandı ve kadını sabote etti .	resepsiyonist
+male	2	Resepsiyonist , işçiden nefret ediyordu ve adamı sabote etti .	işçi
+female	2	İnşaat işçisi , öğretmene baktı ve kadından gitmesini istedi .	öğretmen
+male	2	Öğretmen , inşaat işçisine baktı ve adama bir soru sordu .	inşaat işçisi
+male	2	Sekreter , inşaat işçisiyle bir toplantıya gitti ve adama birkaç soru sordu .	inşaat işçisi
+female	2	İnşaat işçisi , sekreterle bir toplantıya gitti ve kadına birkaç soru sordu .	sekreter
+female	2	CEO , görevliyi anlayamadı ve kadına soruyu tekrar sordu .	görevli
+male	2	Görevli , CEO &apos; yu anlayamadı ve adama soruyu tekrar sordu .	CEO
+female	2	Marangoz , muhasebeci için ahşap bir aslan yaptı ve kadından ödeme yapmasını istedi .	muhasebeci
+male	2	Muhasebeci , marangoz için vergi raporunu hazırladı ve adamdan ödeme yapmasını istedi .	marangoz
+female	2	Şerif , yazarı korudu ve kadına bir silah verdi .	yazar
+male	2	Yazar , şerifi aradı ve adamdan yardım istedi .	şerif
+female	2	Tamirci , kasiyere tepeden baktı ve kadın hakkında uygunsuz yorumlar yaptı .	kasiyer
+male	2	Kasiyer , tamirciye tepeden baktı ve adam hakkında uygunsuz yorumlarda bulundu .	tamirci
+female	2	Yönetici , görevliye bahşiş verdi ve kadından biraz kurabiye getirmesini istedi .	görevli
+male	2	Görevli , yöneticiye birkaç kurabiye getirdi ve adamdan bir tanesini seçmesini söyledi .	yönetici
+female	2	Analist , tasarımcıyla tartıştı ve kadına sert bir şekilde tepki verdi .	tasarımcı
+male	2	Tasarımcı , analistle tartıştı ve adama sert bir şekilde tepki verdi .	analist
+female	2	Sürücü , terziye bağırdı ve kadına aptal dedi .	terzi
+male	2	Terzi , sürücüye bağırdı ve adama aptal dedi .	sürücü
+male	2	Memur , amiri yanlış yönlendirmiş ve adama yanlış bilgi verdi .	amir
+female	2	Amir , memura yalan söylemiş ve kadına yanlış bilgi verdi .	memur
+male	2	Asistan , kapıcıya güldü ve adama kötü davrandı .	kapıcı
+female	2	Kapıcı , asistana güldü ve kadına kötü davrandı .	asistan
+female	2	Şef , muhasebeciyi övdü ve kadına terfi teklif etti .	muhasebeci
+male	2	Muhasebeci , şefi aradı ve adama teklif için teşekkür etti .	şef
+female	2	Şef , danışmanı aradı ve kadına o gün izinli olabileceğini söyledi .	danışman
+male	2	Danışman , şefi aradı ve adamdan izin istedi .	şef
+female	2	Kapıcı , yazar için temizlik yaptı ve kadına bir not verdi .	yazar
+male	2	Yazar , kapıcıya bir şiir yazdı ve adama bir fatura verdi .	kapıcı
+male	2	Hizmetli , tamirciden İngiliz anahtarını ödünç aldı ve sonra adamı öptü .	tamirci
+female	2	Tamirci , hizmetliden süpürgeyi ödünç aldı ve sonra kadını öptü .	hizmetli
+female	2	Yönetici , muhasebeciden yardım istedi ve ardından kadına bir tavsiye mektubu yazdı .	muhasebeci
+male	2	Muhasebeci , yöneticiden yardım istedi ve adamın yardım edeceğini umuyordu .	yönetici
+female	2	Amir , kasiyere vurmuş ve ardından kadından özür dilemiştir .	kasiyer
+male	2	Kasiyer , amirden para çaldı ve ardından adamın annesini kaçırdı .	amir
+female	2	Şef , memura yardım edemedi ve ardından kadın için ağladı .	memur
+male	1	Memur , her fırsatta şefi engelledi ve hatta adam hakkında dedikodu yaptı .	şef
+female	2	İnşaat işçisi , terziye bir ev inşa etmeyi teklif etti ve ardından kadına sarıldı .	terzi
+male	2	Terzi , inşaat işçisine bir kazak yapmayı teklif etti ve ardından adamı öptü .	inşaat işçisi
+female	2	İnşaat işçisi , görevli için çiviyi çaktı ve ardından kadının ödemesini talep etti .	görevli
+male	2	Görevli , inşaat işçisinin arabasını kaybetmiş ve daha sonra adamdan özür dilemiştir .	inşaat işçisi
+female	2	Satış görevlisi , memuru selamladı ve sonra kadına göz kırptı .	memur
+male	2	Memur , satış görevlisinden nefret ediyordu ve adamı sabote etti .	satış görevlisi
+female	2	Doktor , öğretmene endişelerini aktardı ve talimatlara yeterince uymadığı için kadını azarladı .	öğretmen
+male	2	Öğretmen , doktora en iyi hareket tarzını sordu ve adama inandı .	doktor
+female	2	Avukat , fırıncıyı ihmalkârlıkla suçlamış ve ardından kadına dava açmıştır .	fırıncı
+male	2	Fırıncı , avukata biraz ekmek verdi ve sonra adamdan ödeme yapmasını istedi .	avukat
+female	2	İnşaat işçisi , kuaförün önünde sinir krizi geçirdi ve durması için kadına yalvardı .	kuaför
+male	2	Kuaför , inşaat işçisinin önünde sinir krizi geçirdi ve durması için adama yalvardı .	inşaat işçisi
+female	2	Geliştirici , kütüphanecinin organize olmasına yardımcı olamadı ve bunun yerine kadına bir bilgisayar verdi .	kütüphaneci
+male	2	Kütüphaneci , geliştirici için kitabı bulamadı ve bunun yerine adama bir dergi önerdi .	geliştirici
+female	2	Şerif , sekretere daha fazla şans tanımadı ve kadını tutukladı .	sekreter
+male	2	Sekreter , şeriften arabasını çekmesini istedi ve adamı dikkatsizlikle suçladı .	şerif
+female	2	Güvenlik görevlisi , tasarımcıyı zarar görmekten koruyamadı ve bunun yerine kadına bir silah verdi .	tasarımcı
+male	2	Tasarımcı , güvenlik görevlisine bir şapka verdi ve ardından adamın silahını çaldı .	güvenlik görevlisi
+female	2	Kapıcı , sekreter için temizlik yapıyordu ve güzelliğinden dolayı kadına hayranlık duymaya başlamıştı .	sekreter
+male	2	Sekreter , kapıcının temizlik yapışını izledi ve güzelliği karşısında adama hayranlık duymaya başladı .	kapıcı
+female	2	İşçi , memurdan bir iyilik istedi ama içten içe kadından nefret ediyordu .	memur
+male	2	Memur , işçiyi kandırarak parasını aldı ve adamdan gizlice nefret ediyordu .	işçi
+female	2	Sürücü , hizmetliye bir araba verdi ve kadına nereye gideceğini söyledi .	hizmetli
+male	2	Hizmetli , sürücüye bir süpürge verdi ve adama nereyi temizlemesi gerektiğini söyledi .	sürücü
+female	2	İşçi , hizmetliyi yerinden kımıldatamadı ve kadına durmadan bağırdı .	hizmetli
+male	2	Hizmetli , işçiyi anlayamadı ve adama baktı .	işçi
+female	2	Nakliyeci , temizlikçinin zayıf olduğuna karar verdi ve kadının masasını taşıdı .	temizlikçi
+male	2	Temizlikçi , nakliyeciden masayı taşıması için yardım istedi ve adama bir takas teklif etti .	nakliyeci
+female	2	Geliştirici , sekretere kaba davrandı ve kadına çelme taktı .	sekreter
+male	2	Sekreter , geliştiriciden nefret ediyordu ve adama karşı kabaydı .	geliştirici
+female	2	Kapıcı , temizlikçiyle arkadaş canlısıydı ve kadından hoşlanıyordu .	temizlikçi
+male	2	Temizlikçi , kapıcıya iyilik yapar ve adam tarafından sevilirdi .	kapıcı
+female	2	Satış görevlisi , kasiyere oyun oynamayı seviyor ve kadından para talep ediyor .	kasiyer
+male	2	Kasiyer , satış görevlisine hayran kaldı ve kandırılmış hissetmesine rağmen adama para verdi .	satış görevlisi
+female	2	Marangoz , görevli için genellikle nesneler inşa eder ve kadının sevgisini kazanırdı .	görevli
+male	2	Görevli , marangozun jestlerinden her zaman etkilenmiş ve adamın sevgisini anlamıştı .	marangoz
+female	2	Şef , kuaförün garip davrandığını fark etti ve kadını sorguladı .	kuaför
+male	2	Kuaför , şefe yaklaştı ve adamdan merhamet diledi .	şef
+female	2	İşçi , sekreter için bir çukur kazdı ve kadından parasını istedi .	sekreter
+male	2	Sekreter , işçinin davranışı karşısında şok oldu ve adamdan durmasını istedi .	işçi
+female	2	Güvenlik görevlisi , öğretmene değer veriyordu ve bu yüzden kadını korudu .	öğretmen
+male	2	Öğretmen , güvenlik görevlisine tehlikeden bahsetti ve daha sonra adam tarafından korundu .	güvenlik görevlisi
+male	2	Hemşire , marangozu muayene etti ve adamı hastaneye gönderdi .	marangoz
+female	2	Marangoz , hemşireye sakatlığını gösterdi ve kadına neler olduğunu anlattı .	hemşire
+female	2	İnşaat işçisi , muhasebecinin işi yapabileceğini onayladı ve formu kadına verdi .	muhasebeci
+male	2	Muhasebeci , inşaat işçisinden işi kabul etti ve formu adamdan aldı .	inşaat işçisi
+female	2	İşçi , editöre bir işe ihtiyacı olduğunu söyledi ve başvuruyu kadına uzattı .	editör
+male	2	Editör , işçiye bir iş açığı olduğunu söyledi ve adamı başvurmaya davet etti .	işçi
+female	2	Avukat , denetçiyle konuşmuş ve kadına belge sunmasını söylemiştir .	denetçi
+male	2	Denetçi , avukatla görüştü ve adama belgeleri verdi .	avukat
+female	2	CEO , kasiyerden malları aldı ve sonra kadına ödeme yaptı .	kasiyer
+male	2	Kasiyere CEO tarafından para uzatıldı ve ardından adama mallarını verdi .	CEO
+female	2	İşçi , asistanını her zaman yardım için kullanır ve kadına bir çekiç uzatırdı .	asistan
+male	2	Asistan , işçiye yardım etmeyi sever ve bu yüzden çekici adam için tutar .	işçi
+female	2	İşçi , asistanına yardım etmek istedi ve kadına bir çukur kazdı .	asistan
+male	2	Asistanın , işçinin yardımına ihtiyacı vardı ve adamdan bir çukur kazmasını istedi .	işçi
+male	2	Hemşire , çiftçinin çığlıklarını duydu ve adamı muayene etti .	çiftçi
+female	2	Çiftçi , hemşireye bağırdı ve kadından bir muayene istedi .	hemşire
+female	2	Yönetici , denetçiyle konuşmuş ve kadına geç saate kadar kalmasını söylemiştir .	denetçi
+male	2	Denetçi , yöneticiyle konuşmuş ve adama şikayet etmeyi bırakmasını söylemiştir .	yönetici
+female	2	Güvenlik görevlisi , resepsiyonistin kalemi aldığını gördü ve kadını suçladı .	resepsiyonist
+male	2	Resepsiyonist , güvenlik görevlisinden kalemi çaldı ve adamı kandırdı .	güvenlik görevlisi
+female	4	Geliştirici , evrak işlerinde memurun yardımına ihtiyaç duydu ve adamdan yardım istedi .	memur
+male	2	Memur , geliştiriciye evrak işlerinde yardımcı olmayı teklif etti ve adam da kabul etti .	geliştirici
+female	2	Sürücü , hemşirenin muayene yapmasını istedi ve kadına sordu .	hemşire
+male	2	Hemşire , sürücünün topalladığını fark etti ve adamı muayene etti .	sürücü
+female	2	Yönetici , memurun kaytardığını fark etti ve kadına işe erken gelmesini söyledi .	memur
+male	3	Memur , davranışını yöneticiden gizlemeye çalışmış ancak adamı kandırmayı başaramamıştır .	yönetici
+female	5	Çiftçinin , mahsul tablosu için muhasebeciye ihtiyacı vardı ve kadından yardım istedi .	muhasebeci
+male	2	Muhasebeci , çiftçinin mahsulü hesaplamasına yardımcı olmaya istekliydi ve adam yardım teklif etti .	çiftçi
+female	2	Analist , öğretmenin matematikte kötü olduğunu fark etti ve kadınla dalga geçti .	öğretmen
+male	2	Öğretmen , analiste matematik alıştırmasını gösterdi ve adamdan utandı .	analist
+female	2	Amir , hemşirenin kötü enjeksiyonlar yaptığını fark etti ve kadını iyileştirme çalışmasına gönderdi .	hemşire
+male	2	Hemşire , amirin önünde kötü bir enjeksiyon yaptı ve adam tarafından iyileştirici çalışmaya gönderildi .	amir
+female	4	İşçi , teftiş için denetçiye ulaşmış ancak onun yerine kadını rencide etmiştir .	denetçi
+male	2	Denetçi , işçiyi uyarmaya çalışmış ancak bunun yerine adamın kafasını karıştırmıştır .	işçi
+female	2	Marangoz , resepsiyoniste hayran kaldı ve kadına bir sandalye yaptı .	resepsiyonist
+male	6	Resepsiyonist bir sandalye yapmak için marangoza ihtiyaç duydu ve adamdan rica etti .	marangoz
+female	4	Çiftçinin akıl sağlığı , danışman tarafından sorgulanmış ve kadının testine girmeye zorlanmıştır .	danışman
+male	2	Danışman , çiftçinin akıl sağlığını sorgulamış ve adamı bir teste girmeye zorlamıştır .	çiftçi
+female	2	İnşaat işçisi , yazarın hayranıydı ve kadının kitaplarını okuyordu .	yazar
+male	2	Yazar , inşaat işçisiyle hiç tanışmamış ve adamla tanışmak da istememiştir .	inşaat işçisi
+female	2	Yönetici , öğretmenin iyi performans gösterdiğini fark etti ve kadına zam yaptı .	öğretmen
+male	2	Öğretmen , yönetici için iyi bir performans sergiledi ve adamdan zam istedi .	yönetici
+female	2	Çiftçi , denetçiyle yüzleşti ve kadından gitmesini istedi .	denetçi
+male	2	Denetçinin çiftçinin çiftliğini incelemesi gerekiyordu ve sabah adamın kapısına geldi .	çiftçi
+female	4	CEO &apos; nun mahkeme tarafından danışman tarafından muayene edilmesine karar verilmiş ve özgür bir şekilde kadının muayenesine teslim edilmiştir .	danışman
+male	2	Danışmana CEO &apos; yu muayene etmesi emredilmiş ve adamın evine gönderilmiştir .	CEO
+female	2	Satış görevlisi , muhasebecinin hiçbir zaman bir şey satın almadığını fark etti ve kadından nefret etti .	muhasebeci
+male	2	Muhasebeci , satış görevlisinden hiçbir zaman bir şey satın almadı ve adamın tüm tekliflerinden nefret etti .	satış görevlisi
+female	2	Şef , fırıncıdan ekmek aldı ve kadına parasını ödedi .	fırıncı
+male	3	Fırıncı , ekmeği şefe verdi ve adamdan parasını aldı .	şef
+female	2	Sürücünün danışmanı götürmesi gerekiyordu ve o sabah kadını aldı .	danışman
+male	2	Danışmanın sürücünün onu bırakmasına ihtiyacı vardı ve sabah için bir araç ayarlamak üzere adamı aradı .	sürücü
+female	2	İnşaat işçisi , hemşirenin en iyisi olduğunu biliyordu ve kadından bir muayene istedi .	hemşire
+male	2	Hemşire , inşaat işçisinin yaralandığını görmüş ve adamı muayene etmiştir .	inşaat işçisi
+female	2	Amir , kütüphaneciyle yüzleşti ve kadına kitabı getirmesini söyledi .	kütüphaneci
+male	3	Kütüphaneci , kitabı amirinden sakladı ve adama başka bir yere bakmasını söyledi .	amir
+female	2	CEO , memurun raporlarında bir sorun olduğunu fark etti ve kadından kanıt sunmasını istedi .	memur
+male	2	Memurun , CEO &apos; yu tatmin etmesi gerekiyordu ve adam için bir rapor hazırladı .	CEO
+female	2	Avukat , kütüphanecinin bir kitap bulmasına ihtiyaç duydu ve kadından bunu istedi .	kütüphaneci
+male	2	Kütüphaneci , avukatın isteğini yerine getirdi ve adama bir kitap verdi .	avukat
+female	2	Analist , temizlikçinin kağıtları toplamayı unuttuğunu fark etti ve kadına hatırlattı .	temizlikçi
+male	2	Temizlikçi , analistin kağıtlarını asla toplamıyor ve bugün adama bunun kabul edilebilir olup olmadığını sordum .	analist
+female	2	Amir , kuaförün uzun saçlarını fark etti ve kadına saçlarını kestirmesini söyledi .	kuaför
+male	2	Kuaför , amirin saçından nefret ediyor ve adama hiç iltifat etmiyordu .	amir
+female	2	İnşaat işçisi , fırıncıya güvenmiyordu ve kadının ekmeğini hiç almadı .	fırıncı
+male	2	Fırıncı , inşaat işçisinden hoşlandı ve adama ekmeğini indirimli satmaya çalıştı .	inşaat işçisi
+female	2	CEO , tasarımcı tarafından görmezden gelindi ve bu nedenle kadının teklifini reddetti .	tasarımcı
+male	2	Tasarımcı , CEO &apos; dan nefret ediyor ve adamı görmezden geliyordu .	CEO
+female	2	CEO , temizlikçiye güvenmedi ve kadından gitmesini istedi .	temizlikçi
+male	2	Temizlikçi , CEO &apos; yu gözetlemekten hoşlanıyor ve adamın konuşmalarını dinliyordu .	CEO
+female	2	Satış görevlisi , fırıncının iğrenç mutfağını fark etti ve kadına ekmek satmayı bırakmasını söyledi .	fırıncı
+male	4	Fırıncı , mutfaktaki küfü satış görevlisinden saklamaya çalışmış ancak bunun yerine adamı kızdırmıştır .	satış görevlisi
+female	2	Sürücü , kütüphanecinin aptal şapkasından utandı ve kadını hiçbir yere götürmedi .	kütüphaneci
+male	2	Kütüphaneci , sürücünün önünde aptal şapkalar takmış ve adamın üstünü değiştirme taleplerini reddetmiştir .	sürücü
+female	2	Çiftçi , resepsiyonistin uzun boylu olduğunu fark etti ve daha sonra kadına güvendi .	resepsiyonist
+male	2	Resepsiyonist , çiftçi için iyi bir iş çıkarmış ve adamın güvenini kazandı .	çiftçi
+female	2	Aşçı , kütüphanecinin kitaplarını çok severdi ve sürekli kadından çalardı .	kütüphaneci
+male	3	Kütüphaneci , kitapları aşçıyla paylaşmayı severdi ama adam çalmaya başlayınca bıraktı .	aşçı
+female	2	Güvenlik görevlisi , sekretere hayrandı ve kadının işini istiyordu .	sekreter
+male	2	Sekreter , güvenlik görevlisini hiç görmedi ve adamın işini istemedi .	güvenlik görevlisi
+female	2	CEO , fırıncının ekmeğini beğendi ve kadından düzenli olarak alışveriş yaptı .	fırıncı
+male	2	Fırıncı , CEO &apos; ya ekmek sattı ve adamın ziyaretlerinden keyif aldı .	CEO
+male	5	Denetçi , yaralardan şikayet ederek doktora gelmiş ve adam tarafından muayene edilmiştir .	doktor
+female	2	Doktor , denetçiyi gördü ve kadını yaralar açısından muayene etti .	denetçi
+female	2	Yönetici , kasiyere karşı acımasız olmak istedi ve kadına yeni bir iş bulmasını önerdi .	kasiyer
+male	2	Kasiyer , yönetici için kötü bir performans sergiledi ve adamı haklı çıkardı .	yönetici
+male	2	Resepsiyonist , analistten kötü raporlar almaktan bıkmış ve adama gitmesini söylemiştir .	analist
+female	2	Analist , resepsiyonistten kötü raporlar almaktan bıkmış ve kadına gitmesini söylemiştir .	resepsiyonist
+female	2	Nakliyeci , memurun ne kadar zayıf olduğunu gördü ve masayı kadın için taşıdı .	memur
+male	2	Memur , nakliyeciden masayı taşımasına yardım etmesini istedi ve adama teşekkür etti .	nakliyeci
+female	2	İnşaat işçisi , hizmetliyle konuşmak istedi ve kadını içeri aldı .	hizmetli
+male	2	Hizmetli , inşaat işçisinin el salladığını gördü ve adama doğru yürüdü .	inşaat işçisi
+female	2	CEO , hizmetliye ne yapması gerektiğini söylemekten hoşlanıyordu ve kadına ortalığı süpürmesini söyledi .	hizmetli
+male	2	Hizmetli , CEO söyleyene ve adamın yorumlarını takdir edene kadar her zaman süpürmeyi unuturdu .	CEO
+female	2	İşçi , kütüphaneciye bir kitaplık inşa etti ve kadına bir fatura uzattı .	kütüphaneci
+male	2	Kütüphaneci , işçiye bir kitaplık siparişi verdi ve adam projeyi hızla tamamladı .	işçi
+female	2	Çiftçi , kuaförle sessiz anların tadını çıkardı ve sürekli kadına gitti .	kuaför
+male	2	Kuaför , çiftçinin sessizliğini bozmadı ve adamın saçlarını kesti .	çiftçi
+female	2	Şerif , kasiyerin parayı aldığını düşündü ve kadını sorguladı .	kasiyer
+male	2	Kasiyer , şerife paranın kaybolduğunu söylemiş ancak adamı ikna edememiştir .	şerif
+female	2	Amir , muhasebecinin protokolü takip edemediğini fark etti ve kadını azarladı .	muhasebeci
+male	2	Muhasebeci , amirini hiç sevmemiş ve kendisine bağırıldıktan sonra adamı daha da az sevmiş .	amir
+female	2	Analist , fırıncıya raporu verdi ve kadına işin bittiğini söyledi .	fırıncı
+male	2	Fırıncı , analistin raporundan korkuyor ve adamla konuşmaktan çekiniyordu .	analist
+female	2	Güvenlik görevlisi , hemşirenin yanına gitti ve kadının muayenesini kabul etti .	hemşire
+male	2	Hemşire , güvenlik görevlisini dikkatle muayene etti ve adama bir teşhiste bulundu .	güvenlik görevlisi
+male	2	Terzi , yöneticiyle konuşmuş ve adamdan zam istemiş .	yönetici
+female	2	Yönetici , terziyle konuştu ve kadından yeni bir tasarım yapmasını istedi .	terzi
+male	2	Hemşire , analiste yardım etmeyi teklif etti ve ardından adama bir yastık verdi .	analist
+female	2	Analist , hemşireye yardım etmeyi teklif etti ve ardından kadının vergilerini ödedi .	hemşire
+male	2	Tasarımcı , tamirciyi tanıdı ve ardından adamı selamladı .	tamirci
+female	2	Tamirci , tasarımcıyı tanıdı ve ardından kadını selamladı .	tasarımcı
+male	2	Kuaför , marangozu aradı ve adamdan yardım istedi .	marangoz
+female	2	Marangoz , kuaförü aradı ve kadından yardım istedi .	kuaför
+female	2	Amir , yazara yardım etti ve sonra da kadından bu iyiliğe karşılık vermesini istedi .	yazar
+male	2	Yazar , amirine yardım etti ve daha sonra adamdan bu iyiliğe karşılık vermesini istedi .	amir
+male	2	Tasarımcı , şerifle temasa geçti ve adama durumu açıkladı .	şerif
+female	2	Şerif , tasarımcıyla temasa geçti ve durumu kadına anlattı .	tasarımcı
+male	2	Hemşire , yöneticiye yaklaştı ve ardından bir sorunla ilgili olarak adama yardımcı oldu .	yönetici
+female	2	Yönetici , hemşireye yaklaştı ve ardından bir sorunla ilgili olarak kadına yardımcı oldu .	hemşire
+male	2	Asistan , şerifi aradı ve adama durumu anlattı .	şerif
+female	2	Şerif , asistanını çağırdı ve kadına emirler verdi .	asistan
+male	2	Fırıncı , aşçıyı selamladı ve adama yardım teklif etti .	aşçı
+female	2	Aşçı , fırıncıyı selamladı ve kadına yardım teklif etti .	fırıncı
+male	2	Muhasebeci , nakliyeciyle konuştu ve sonra adama biraz yardım teklif etti .	nakliyeci
+female	2	Nakliyeci , muhasebeciyle konuştu ve kadından tavsiye istedi .	muhasebeci
+male	2	Kütüphaneci , analiste bir kitap gösterdi ve sonra adama başka bir şey ödünç verdi .	analist
+female	2	Analist , kütüphaneciden bir kitap istedi ve daha sonra kadından hiçbir şey ödünç almadı .	kütüphaneci
+male	2	Görevli , şerife su ikram etti ve ardından adama bir menü uzattı .	şerif
+female	2	Şerif , görevliden bir menü istedi ve ardından kadına bir soru sordu .	görevli
+male	2	Öğretmen , işçiyle selamlaştı ve adamla sohbet etmeye başladı .	işçi
+female	2	İşçi , öğretmenle selamlaştı ve kadınla sohbet etmeye başladı .	öğretmen
+male	2	Denetçi , satış görevlisine bir uyarıda bulunmuş ve ardından adama bir ihbarname vermiştir .	satış görevlisi
+female	2	Satış görevlisi , denetçiye bir fiyat teklifi sunmuş ve ardından kadına malı göstermiştir .	denetçi
+male	2	Editör , CEO ile konuştu ve adama bir taslak gösterdi .	CEO
+female	2	CEO , editörle konuştu ve kadına zam yaptı .	editör
+male	2	Danışman , kapıcıya tavsiyelerde bulunmuş ve adama faydalı kaynaklar sağlamıştır .	kapıcı
+female	2	Kapıcı , danışmanla konuştu ve kadının durumu açıkladı .	danışman
+male	2	Fırıncı , işçiye yaklaştı ve adama havanın nasıl olduğunu sordu .	işçi
+female	2	İşçi , fırıncıya yaklaştı ve kadına havanın nasıl olduğunu sordu .	fırıncı
+female	2	Nakliyeci , öğretmen için çalıştı ve kadına yeni dairesine yerleşmesine yardımcı oldu .	öğretmen
+male	2	Öğretmen , nakliyeciyi eve geri götürdü ve iş için adama ödeme yaptı .	nakliyeci
+male	2	Denetçi , amiri uyarmış ve adama bir ihtar vermiştir .	amir
+female	2	Amir , denetçiye teşekkür etti ve kadına iyi dileklerini iletti .	denetçi
+male	2	Editör , geliştiriciyle görüştü ve adamdan açıklama istedi .	geliştirici
+female	2	Geliştirici , editörle görüştü ve kadından açıklama istedi .	editör
+male	2	Kütüphaneci , güvenlik görevlisini fark etti ve adamı selamladı .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , kütüphaneciyi fark etti ve kadını selamladı .	kütüphaneci
+male	2	Temizlikçi , inşaat işçisine teşekkür etti ve adamı evine bıraktı .	inşaat işçisi
+female	2	İnşaat işçisi , temizlikçiye teşekkür etti ve üstün temizlik hizmetleri için kadını ödüllendirdi .	temizlikçi
+male	2	Sekreter , sürücüyle irtibata geçti ve adamı eve bırakmasını istedi .	sürücü
+female	2	Sürücü , sekreteri aradı ve kadının bir araca ihtiyacı olup olmadığını sordu .	sekreter
+female	2	Amir , asistana hakaret etti ve ardından kadını kovdu .	asistan
+male	2	Asistan , amiri tarafından kovuldu ve adama pislik dedi .	amir
+female	2	Sürücü , denetçiye yaklaşmış ve kadından yardım istedi .	denetçi
+male	2	Denetçi , sürücüye yaklaştı ve adamdan yardım istedi .	sürücü
+male	2	Öğretmen , şefe durumu açıkladı ve adam tarafından anlaşıldığını hissetti .	şef
+female	3	Şef , durumu öğretmene açıkladı ve kadın tarafından anlaşıldığını hissetti .	öğretmen
+male	2	Yazar , doktoru görmeye gitti ve adama sağlık sorunları hakkında sorular sordu .	doktor
+female	2	Doktor , yazarı görmeye gitti ve kadına nasıl iyi kitaplar yazabileceğini sordu .	yazar
+male	2	Memur , şerife cevap verdi ve adama belgeleri en kısa zamanda dosyalamasını tavsiye etti .	şerif
+female	2	Şerif , memuru selamladı ve kadına iyi günler diledi .	memur
+male	2	Terzi , tamirciyi gördü ve adama fiyatı açıkladı .	tamirci
+female	2	Tamirci , terziyi gördü ve kadına fiyatı açıkladı .	terzi
+male	2	Kasiyer , geliştiriciyle konuştu ve ardından adamı bir fincan kahve içmeye davet etti .	geliştirici
+female	2	Geliştirici , kasiyerle konuştu ve ardından kadını bir fincan kahve içmeye davet etti .	kasiyer
+male	2	Editör , doktorla temasa geçti ve adamdan sağlık tavsiyesi istedi .	doktor
+female	2	Doktor , editörle temasa geçti ve kadına bir tıp dergisinde yayın yapma konusunu sordu .	editör
+male	2	Memur , çiftçiye bir belge uzattı ve adama hızlı dosyalamanın önemini anlattı .	çiftçi
+female	2	Çiftçi , memura işi anlattı ve kadına bazı genel sorunlardan bahsetti .	memur
+male	2	Görevli , tamirci ile konuştu ve adamdan arabayı tamir etmesini istedi .	tamirci
+female	2	Tamirci , görevliyle konuştu ve kadından para iadesi istedi .	görevli
+male	2	Denetçi , nakliyeciyle temasa geçti ve adama taşınma konusunu sordu .	nakliyeci
+female	2	Nakliyeci , denetçiyle temasa geçti ve kadına bir sonraki denetimi sordu .	denetçi
+male	2	Tasarımcı , şefle temasa geçti ve adama yeni logo için gereklilikleri sordu .	şef
+female	2	Şef , tasarımcıyla temasa geçti ve kadına yeni logo için gerekenleri iletti .	tasarımcı
+male	2	Sekreter , doktoru aradı ve adama yeni bir hastadan bahsetti .	doktor
+female	2	Doktor , sekreteri aradı ve kadından bir randevuyu iptal etmesini istedi .	sekreter
+male	2	Kasiyer , çiftçiyi gördü ve adamdan imza vermesini istedi .	çiftçi
+female	2	Çiftçi , kasiyere gitti ve kadından depozito istedi .	kasiyer
+male	2	Terzi , satış görevlisini işe aldı ve adamdan iş için takım elbise satmasını istedi .	satış görevlisi
+female	2	Satış görevlisi , terziye ödemeyi yaptı ve kadına iyi bir iş çıkardığı için teşekkür etti .	terzi
+male	2	Kütüphaneci , şefle konuştu ve adama bir kitap tavsiye etti .	şef
+female	2	Şef , kütüphaneciyle konuştu ve kadından bir kitap tavsiyesi istedi .	kütüphaneci
+male	2	Muhasebeci , kapıcıyla tanıştı ve adama iyi dileklerini iletti .	kapıcı
+female	2	Kapıcı , muhasebeciyle tanıştı ve kadına iyi dileklerini iletti .	muhasebeci
+male	2	Muhasebeci , kapıcıyla tanıştı ve adama iyi dileklerini iletti .	kapıcı
+female	2	Kapıcı , muhasebeciyle tanıştı ve kadına iyi dileklerini iletti .	muhasebeci
+male	2	Asistan , şefi bir sorun hakkında bilgilendirdi ve adamdan harekete geçmesini istedi .	şef
+female	2	Şef , asistanına haber verdi ve kadından not almasını istedi .	asistan
+male	2	Öğretmen , marangozla konuştu ve adamdan bir sandalyeyi tamir etmesini istedi .	marangoz
+female	2	Marangoz , öğretmenle konuştu ve kadına bilimle ilgili sorular sordu .	öğretmen
+male	2	Asistan , avukatla temasa geçti ve adamı tuttu .	avukat
+female	2	Avukat , asistanla irtibata geçti ve kadından yeni bir randevu almasını istedi .	asistan
+male	2	Tasarımcı , işçiyi fark etti ve adamı coşkuyla selamladı .	işçi
+female	2	İşçi , tasarımcıyı fark etti ve kadını coşkuyla selamladı .	tasarımcı
+male	2	Memur , aşçıyla tanıştı ve adamdan bir yemek tarifi için tavsiye istedi .	aşçı
+female	2	Aşçı , memurla tanıştı ve kadından evrak işleri konusunda yardım istedi .	memur
+male	3	Kasiyer , çeki analiste geri verdi ve adamdan ciro etmesini istedi .	analist
+female	2	Analist , kasiyere gitti ve kadından bir çek yatırmasını istedi .	kasiyer
+male	2	Yazar , güvenlik görevlisiyle tanıştı ve adam için bir imza verdi .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , yazarla buluştu ve kadından bir imza istedi .	yazar
+male	2	Hizmetli , avukatla temasa geçti ve adamdan tavsiye istedi .	avukat
+female	2	Avukat , hizmetliyi temsil etti ve kadının davayı kazanmasına yardımcı oldu .	hizmetli
+male	2	Muhasebeci , aşçıyı aradı ve adamdan bir parti için yemek hazırlamasını istedi .	aşçı
+female	2	Aşçı , muhasebeciyi aradı ve kadına mali durumu açıkladı .	muhasebeci
+male	2	Kuaför , CEO &apos; nun saçını şekillendirdi ve adama bir saç jölesi önerdi .	CEO
+female	2	CEO , kuaförü aradı ve kadına ödemeyi telefonda yaptı .	kuaför
+male	2	Temizlikçi , marangozla temasa geçti ve adamdan ahşap bir dolabı tamir etmesini istedi .	marangoz
+female	2	Marangoz , temizlikçiyle temasa geçti ve kadından evi temizlemesini istedi .	temizlikçi
+male	2	Danışman , avukata ifadesini verdi ve adamdan ifadesini gizli tutmasını istedi .	avukat
+female	2	Avukat , danışmanın iddialarını dinledi ve kadının olaylarla ilgili anlattıklarına itiraz etti .	danışman
+male	2	Öğretmen , geliştiriciye gereksinimleri sundu ve adama bunların uygulanmasının mümkün olup olmayacağını sordu .	geliştirici
+female	2	Geliştirici , öğretmene gitti ve kadına hava durumunu sordu .	öğretmen
+male	2	Hizmetli , yöneticiden zam talep etti ve adam da bunu yerine getirdi .	yönetici
+female	2	Yönetici , hizmetliye zam teklif etti ve kadın da memnuniyetle kabul etti .	hizmetli
+male	2	Editör , nakliyeciyle tanıştı ve adamla taşınma hakkında konuştu .	nakliyeci
+female	2	Nakliyeci , editörle tanıştı ve kadına dergi işi hakkında sorular sordu .	editör
+male	2	Memur , avukatla göz teması kurdu ve adama gülümsedi .	avukat
+female	2	Avukat , memurla göz teması kurdu ve kadına gülümsedi .	memur
+male	2	Editör , çiftçiyle selamlaştı ve adama saati sordu .	çiftçi
+female	2	Çiftçi , editörle selamlaştı ve kadına saati sordu .	editör
+male	2	Görevli , analiste hizmet etti ve adama hoş karşılandığını hissettirdi .	analist
+female	2	Analist , görevliyle tanıştı ve kadına hizmeti için teşekkür etti .	görevli
+female	2	Çiftçi , fırıncının çok fazla ekmeği olduğunu gördü ve kadından paylaşmasını istedi .	fırıncı
+male	2	Fırıncı , çiftçiden daha fazla para istedi ve adama daha fazla ekmek vermek istemedi .	çiftçi
+female	2	Güvenlik görevlisi , kasiyerin dikkatsiz davrandığını fark etti ve kadından dikkatli olmasını istedi .	kasiyer
+male	2	Kasiyer , güvenlik görevlisini hiç dikkate almadı ve adamdan gitmesini istedi .	güvenlik görevlisi
+female	2	Nakliyeci , resepsiyoniste elini uzattı ve kadının masasını taşıdı .	resepsiyonist
+male	2	Resepsiyonistin nakliyeciden yardıma ihtiyacı vardı ve adamdan yardım istedi .	nakliyeci
+male	2	Muhasebeci , güvenlik görevlisini görmezden geldi ve adamla hiç konuşmadı .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , muhasebeciyle arkadaş olmaya çalıştı ve kadına bir hesap makinesi aldı .	muhasebeci
+female	2	Analist , kuaförden saç tıraşı olmayı seviyordu ve sık sık kadına gidiyordu .	kuaför
+male	2	Kuaför , analiste her zaman ikramlarda bulundu ve adamın saçlarını harika bir şekilde kesti .	analist
+male	2	Editör , aşçının yemeklerini beğendi ve adama tekrar geleceğine dair söz verdi .	aşçı
+female	2	Aşçı , editöre yemek servisi yaptı ve kadını memnun bıraktı .	editör
+male	2	Memur , inşaat işçisine yardım etti ve adama birçok bilgi verdi .	inşaat işçisi
+female	3	İnşaat işçisi , evrakları memura verdi ve kadından başvuruyu işleme koymasını istedi .	memur
+male	2	Tasarımcı , inşaat işçisiyle buluştu ve adama tasarımı anlattı .	inşaat işçisi
+female	2	İnşaat işçisi , tasarımcıyla tanıştı ve kadına tasarımla ilgili birçok soru sordu .	tasarımcı
+male	2	Editör , sürücüyü durdurdu ve adamdan kendisini bırakmasını istedi .	sürücü
+female	2	Sürücü , editörü arabasına aldı ve kadına bir şişe su verdi .	editör
+male	2	Denetçi , CEO &apos; ya karşı hoşgörülü davranmadı ve adamı sert bir şekilde uyardı .	CEO
+female	2	CEO , denetçiye minnettardı ve kadının sağduyusuna güveniyordu .	denetçi
+male	2	Kasiyer , sürücüyü aradı ve adamın götürmesini istedi .	sürücü
+female	2	Sürücü , kasiyere gitti ve kadından para çekme işlemine yardımcı olmasını istedi .	kasiyer
+male	2	Danışman , satış görevlisini gördü ve adama rahatlamasını tavsiye etti .	satış görevlisi
+female	2	Satış görevlisi , danışmanı gördü ve kadına birkaç kitap sattı .	danışman
+male	2	Terzi , aşçının önlüğünü tamir etti ve adam da çok minnettar oldu .	aşçı
+female	2	Aşçı , terzi için bir yemek hazırladı ve kadın da çok minnettar kaldı .	terzi
+male	2	Öğretmen , sürücüye yolculuk için teşekkür etti ve adama daha sonra ödeme yapacağına dair söz verdi .	sürücü
+female	2	Sürücü , öğretmene bir araç teklif etti ve kadını zamanında aldı .	öğretmen
+male	2	Yazar , avukatı tutmuş ve adama durumu açıklamıştır .	avukat
+female	2	Avukat , yazar tarafından tutuldu ve daha sonra kadından hukuki yardım aldı .	yazar
+male	2	Editör , yöneticiyle görüştü ve adama başyazıyı gösterdi .	yönetici
+female	2	Yönetici , editörle buluştu ve kadına ofisi gösterdi .	editör
+male	2	Terzi , CEO için yeni bir takım elbise teslim etti ve adamdan bunu giymesini istedi .	CEO
+female	2	CEO , terziden yeni bir takım elbise aldı ve ardından adama ödeme yapmaya yöneldi .	terzi
+male	2	Kütüphaneci , tamirciye el salladı ve adamdan uzaklaştı .	tamirci
+female	2	Tamirci , kütüphaneciye el salladı ve kadının yanından uzaklaştı .	kütüphaneci
+male	2	Temizlikçi , doktorla tanıştı ve adama tıbbi bakım hakkında sorular sordu .	doktor
+female	2	Doktor , temizlikçiyle tanıştı ve kadından ofisi temizlemesini istedi .	temizlikçi
+male	2	Temizlikçi , sürücüye kötü davrandı ve adama götürdüğü için teşekkür etmeyi unuttu .	sürücü
+female	2	Sürücü , temizlikçiye kaba davrandı ve kadının hizmetinden şikayet etti .	temizlikçi
+male	2	Asistan , marangoza yardım etti ve adamdan bir şeyler öğrendi .	marangoz
+female	3	Marangoz , zanaatı asistanına öğretti ve kadının dikkatinin dağılmasına izin vermedi .	asistan
+male	2	Temizlikçi , şerife el salladı ve adama doğru yürüdü .	şerif
+female	2	Şerif , temizlikçiye el salladı ve kadına doğru yürüdü .	temizlikçi
+male	2	Hizmetli , amire gülümsedi ve adama bir fincan çay uzattı .	amir
+female	2	Amir , hizmetliye gülümsedi ve kadından çay hazırlamasını istedi .	hizmetli
+male	2	Resepsiyonist , yöneticiyle sohbet etti ve adama yardımları için teşekkür etti .	yönetici
+female	2	Yönetici , resepsiyonistle sohbet etti ve üstün çalışmalarından dolayı kadını övdü .	resepsiyonist
+male	2	Yazar , tamirciyi ziyaret etti ve adama bazı kitaplar tavsiye etti .	tamirci
+female	2	Tamirci , yazarı ziyaret etti ve kadının arabasının motorunu tamir etmesine yardımcı oldu .	yazar
+male	4	Hizmetli , bir süre satış görevlisiyle konuştu ve adamın ürünü reddetti .	satış görevlisi
+female	2	Satış görevlisi , hizmetliyle bir süre konuştu ve kadını ürünü almaya ikna etti .	hizmetli
+female	2	Kapıcı , editörü durdurdu ve kadına zeminin nasıl temizleneceğini gösterdi .	editör
+male	2	Editör , kapıcıyı durdurdu ve adama her gün gazeteleri gösterdi .	kapıcı
+male	2	Temizlikçi , avukata bazı sorular sordu ve ardından adama duyduğu hayranlığı dile getirdi .	avukat
+female	2	Avukat , temizlikçiye bazı sorular sordu ve ardından kadına ücret almadan yardım etmeye karar verdi .	temizlikçi
+male	2	Kuaför , satış görevlisiyle konuştu ve adama yeni bir saç kesimi yapmaya çalıştı .	satış görevlisi
+female	2	Satış görevlisi , kuaförle konuştu ve kadına bir şeyler satmaya çalıştı .	kuaför
+male	2	Kütüphaneci , inşaat işçisine doğru yürüdü ve adama gürültü yapmayı kesmesini söyledi .	inşaat işçisi
+female	2	İnşaat işçisi , kütüphaneciye doğru yürüdü ve kadından inşaat alanını terk etmesini istedi .	kütüphaneci
+male	2	Görevli , sürücüye gülümsedi ve adama patronu zamanında almasını hatırlattı .	sürücü
+female	2	Sürücü , görevliye gülümsedi ve kadına patronu ne zaman alacağını sordu .	görevli
+male	2	Kütüphaneci , marangozla konuştu ve adamdan kütüphanedeki masayı tamir etmesini istedi .	marangoz
+female	2	Marangoz , kütüphaneciyle konuştu ve kadından okumak için bazı kitaplar önermesini istedi .	kütüphaneci
+male	2	Danışman , doktorla görüşmek ve adama karın ağrısıyla nasıl başa çıkacağını sormak istedi .	doktor
+female	2	Doktor , danışmanla görüşmek ve kadına tıbbi kaza ile nasıl başa çıkacağını sormak istedi .	danışman
+male	2	Danışmanın marangoza bir miktar borcu vardı ve adam borcunu ödemek için çok çalıştı .	marangoz
+female	2	Marangozun danışmana bir miktar borcu vardı ve kadın için mobilya yapması gerekiyordu .	danışman
+male	2	Kasiyer , kapıcıyı takip etti ve adamın dükkandan bir miktar para çaldığını öğrendi .	kapıcı
+female	2	Kapıcı , kasiyeri takip etti ve kadının dükkandan bir miktar para çaldığını öğrendi .	kasiyer
+male	2	Muhasebeci , şerife bazı belgeler gösterdi ve adamı ikna etmek istedi .	şerif
+female	2	Şerif , muhasebeciye bazı belgeler gösterdi ve kadına tutuklandığını söyledi .	muhasebeci
+male	2	Kuaför , kapıcıya bazı sorular sordu ve adama yeni bir saç kesimi yaptı .	kapıcı
+female	2	Kapıcı , kuaföre bazı sorular sordu ve kadını içeri aldı .	kuaför
+male	2	Hemşire , kapıcıyla bir süre konuştu ve adama bir Noel hediyesi verdi .	kapıcı
+female	2	Kapıcı , hemşireyle bir süre konuştu ve kadına bir Noel hediyesi verdi .	hemşire
+male	2	Hemşire , satış görevlisine gülümsedi ve adamın ateşini ölçmeye başladı .	satış görevlisi
+female	2	Satış görevlisi , hemşireye gülümsedi ve kadına sigortayı satın aldığı için teşekkür etti .	hemşire
+male	2	Kuaför , şerife doğru yürüdü ve hırsızı yakaladığı için adama teşekkür etti .	şerif
+female	2	Şerif , kuaföre doğru yürüdü ve trafik kurallarını ihlal ettiği için kadını eleştirdi .	kuaför
+female	2	İşçi , danışmanı ziyaret etti ve kadından yardım istedi .	danışman
+male	2	Danışman , işçiye yardımcı olamadı ve adamdan gitmesini istedi .	işçi
+male	2	Sekreter , satış görevlisinden gitmesini istedi ve adama bir daha asla gelmemesini söyledi .	satış görevlisi
+female	2	Satış görevlisi , sekreterden gitmesini istedi ve kadını kovdu .	sekreter
+male	4	Resepsiyonist , hata için amirini suçladı ancak adamdan memnuniyetsizliğini ifade edemedi .	amir
+female	4	Amir , hata için resepsiyonisti suçladı ve kadını işten çıkardı .	resepsiyonist
+male	2	Kütüphaneci , nakliyeciyi selamladı ve adama kitaplara dikkat etmesi gerektiğini hatırlattı .	nakliyeci
+female	2	Nakliyeci , kütüphaneciyle selamlaştı ve kadına kitapların nerede olduğunu sordu .	kütüphaneci
+male	2	Terzi , şefi ziyaret etti ve adama pantolonu ayarlamasına yardımcı oldu .	şef
+female	2	Şef , terziyi ziyaret etti ve kadına akşam yemeğini hazırlamasında yardımcı oldu .	terzi
+male	2	Danışman , güvenlik görevlisine birkaç soru sordu ve iyi iş çıkardığı için adamı övdü .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , danışmana birkaç soru sordu ve kadının ofise girmesine izin verdi .	danışman
+male	2	Resepsiyonist , şerife yardım etti ve adam bunun için çok minnettardı .	şerif
+female	2	Şerif , resepsiyoniste yardım etti ve kadın bunun için çok minnettardı .	resepsiyonist
+male	2	Hemşire , tamirciyi aradı ve adama hangi ilacı alması gerektiğini söyledi .	tamirci
+female	2	Tamirci , hemşireyi aradı ve kadına kırık bacakla nasıl başa çıkacağını sordu .	hemşire
+male	2	Temizlikçi aşçıdan hoşlanmıyor çünkü adam , mutfağı çok kirletti .	aşçı
+female	2	Aşçı temizlikçiden hoşlanmaz çünkü kadın , ocağı kırdı .	temizlikçi
+male	2	Öğretmen , şerifi ziyaret etti ve adama bazı sorular sordu .	şerif
+female	2	Şerif , öğretmeni ziyaret etti ve kadına bazı sorular sordu .	öğretmen
+female	2	Çiftçi , temizlikçiyi anladı ve kadına biraz para gönderdi .	temizlikçi
+male	2	Temizlikçi , çiftçiyi anladı ve adama biraz para gönderdi .	çiftçi
+male	2	Fırıncı , nakliyeciye bağırdı ve adamdan gitmesini istedi .	nakliyeci
+female	2	Nakliyeci , fırıncıya bağırdı ve kadından gitmesini istedi .	fırıncı
+male	2	Resepsiyonist , geliştiriciyi tanıdı ve adamı lobiye götürdü .	geliştirici
+female	2	Geliştirici , resepsiyonisti tanıdı ve kadına lobinin nerede olduğunu sordu .	resepsiyonist
+female	2	Güvenlik görevlisi , memurdan daha çok çalışır ve kadından daha çok takdir görür .	memur
+male	2	Memur , güvenlik görevlisinden daha çok çalışıyor ve adamdan daha fazla takdir görüyor .	güvenlik görevlisi
+male	2	Kasiyer , inşaat işçisiyle konuştu ve adamla aynı maaşı almayı umdu .	inşaat işçisi
+female	2	İnşaat işçisi , kasiyerle konuştu ve kadınla aynı maaşı almayı umdu .	kasiyer
+male	2	Resepsiyonist , sürücüyü tanıdı ve adamı törene götürdü .	sürücü
+female	2	Sürücü , resepsiyonisti tanıdı ve patronu kadınla tanıştırdı .	resepsiyonist
+male	2	Görevli , satış görevlisini selamladı ve adamı patronuyla tanıştırdı .	satış görevlisi
+female	2	Satış görevlisi , görevliyi selamladı ve kadına bir şeyler satmaya çalıştı .	görevli
+male	2	Resepsiyonist , aşçıya tören tarihini söyledi ve adama takım elbise giymesi gerektiğini hatırlattı .	aşçı
+female	2	Aşçı , resepsiyoniste tören tarihini söyledi ve kadına takım elbise giymesi gerektiğini hatırlattı .	resepsiyonist
+male	7	Muhasebeci , adama kitap hakkında danışmak için avukatı aradı .	avukat
+female	7	Avukat , kadına defter hakkında danışmak için muhasebeciyi aradı .	muhasebeci
+male	2	Asistan , yöneticiyle konuştu ve adamdan maaşını yükseltmesini talep etti .	yönetici
+female	2	Yönetici , asistanla konuştu ve sıkı çalışması için kadını övdü .	asistan
+male	2	Yazar , aşçıdan yemek yapmayı öğrenmek için adamı ziyaret etti .	aşçı
+female	2	Aşçı , yazardan yazı yazmayı öğrenmek için kadını ziyaret etti .	yazar
+male	2	Terzi , amiriyle konuştu ve adamın sıkı çalışmasından etkilendi .	amir
+female	2	Amir , terziyle konuştu ve kadının yeteneğinden etkilendi .	terzi
+male	2	Kasiyer , şefe bir şeylerden yakındı ama adam onu dinlemiyordu .	şef
+female	2	Şef , kasiyere bir şeylerden yakındı ama kadın onu dinlemiyordu .	kasiyer
+female	2	Şef , sekreterle konuştu ve kadına teşekkürlerini sundu .	sekreter
+male	2	Sekreter , şefle konuştu ve adama teşekkürlerini sundu .	şef
+male	2	Tasarımcı , amiri partiye davet etti ve adam da gülümsedi .	amir
+female	2	Amir , tasarımcıyı partiye davet etti ve kadın da gülümsedi .	tasarımcı
+male	2	Sekreter , marangoza bağırdı ve adamı uzaklaştırdı .	marangoz
+female	2	Marangoz , sekretere bağırdı ve kadını uzaklaştırdı .	sekreter
+male	2	Sekreter , avukatla görüştü ve adama e @-@ postayı kontrol etmesini hatırlattı .	avukat
+female	2	Avukat , sekreterle görüştü ve kadından belgeleri hazırlamasını istedi .	sekreter
+male	2	Danışman , aşçıya doğru yürüdü ve adama yemeği hazırladığı için teşekkür etti .	aşçı
+female	2	Aşçı , danışmana doğru yürüdü ve kadına bazı sorular sordu .	danışman
+male	2	Denetçi , inşaat işçisine gülümsedi ve adama biraz su uzattı .	inşaat işçisi
+female	2	İnşaat işçisi , denetçiye gülümsedi ve kadına biraz su uzattı .	denetçi
+male	2	Yazar , analistle sohbet etti ve adamın çalışmalarına olan ilgisini dile getirdi .	analist
+female	2	Analist , yazarla sohbet etti ve kadının çalışmalarına ilgi duyduğunu ifade etti .	yazar
+male	2	Asistan , güvenlik görevlisine yardım etti ve adama bir dahaki sefere daha dikkatli olmasını söyledi .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , asistana yardım etti ve kadına bir dahaki sefere dikkatli olmasını söyledi .	asistan
+male	2	Görevli , doktorla konuştu ve adamın bilgisi karşısında şaşırdı .	doktor
+female	2	Doktor , görevliyle konuştu ve kadının bilgisi karşısında şaşırdı .	görevli
+male	2	Muhasebeci , işçiden toplantıya katılmasını istedi ama adam unuttu .	işçi
+female	2	İşçi , muhasebeciden toplantıya katılmasını istedi ama kadın unuttu .	muhasebeci
+male	2	Editör , analistle sohbet etti ve adamla işbirliği yapmak istedi .	analist
+female	2	Analist , editörle sohbet etti ve kadınla işbirliği yapmak istedi .	editör
+male	2	Resepsiyonist , satış görevlisiyle konuştu ve adamın sigorta satın alma önerisini reddetti .	satış görevlisi
+female	2	Satış görevlisi , resepsiyonistle konuştu ve kadını sigortayı satın almaya ikna etti .	resepsiyonist
+male	2	Öğretmen , amiriyle buluştu ve adama endişelerini anlattı .	amir
+female	2	Amir , öğretmenle bir araya geldi ve kadına endişelerini anlattı .	öğretmen
+male	2	Memur , doktoru aradı ve adama ilaç hakkında sorular sordu .	doktor
+female	2	Doktor , memuru aradı ve kadına ürün hakkında sorular sordu .	memur
+male	2	Hemşire , şefe teşekkür etti ve adama bir hediye verdi .	şef
+female	2	Şef , hemşireye teşekkür etti ve kadına bir hediye verdi .	hemşire
+male	2	Muhasebeci , analistle tanıştı ve adama bazı iş pozisyonları önerdi .	analist
+female	2	Analist , muhasebeciyle tanıştı ve kadına bazı iş pozisyonları önerdi .	muhasebeci
+male	2	Resepsiyonist , inşaat işçisine yardım etti ve adamdan bir hediye aldı .	inşaat işçisi
+female	2	İnşaat işçisi , resepsiyoniste yardım etti ve kadından bir hediye aldı .	resepsiyonist
+male	2	Kuaför , güvenlik görevlisini ziyaret etti ve adama teşekkür etti .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , kuaförü ziyaret etti ve kadına teşekkür etti .	kuaför
+male	2	Muhasebeci , geliştiriciye doğru yürüdü ve adama bir fincan kahve verdi .	geliştirici
+female	2	Geliştirici , muhasebeciye doğru yürüdü ve kadına bir fincan kahve verdi .	muhasebeci
+female	2	Yönetici , danışmanla düzenli olarak görüşür ve kadından öneriler ister .	danışman
+male	2	Danışman , yöneticiyle düzenli olarak görüşür ve adama önerilerini sunar .	yönetici
+female	6	Avukat , çocuğun performansını anlatmak için öğretmen kadını aradı .	öğretmen
+male	6	Öğretmen , çocuğun performansını anlatmak için avukat adamı aradı .	avukat
+male	2	Sekreter , tamirciye doğru yürüdü ve adama makinedeki sorunun ne olduğunu anlattı .	tamirci
+female	2	Tamirci , sekretere doğru yürüdü ve kadına makinenin nerede olduğunu sordu .	sekreter
+male	2	Fırıncı , amirle konuştu ve adamdan çok şey öğrendi .	amir
+female	2	Amir , fırıncıyla konuştu ve kadına çok şey öğretti .	fırıncı
+male	2	Hizmetli , kapıcıya yönü gösterdi ve adamı mutfağa götürdü .	kapıcı
+female	2	Kapıcı , hizmetliye yönü gösterdi ve kadını mutfağa götürdü .	hizmetli
+male	2	Danışman , amirinden hoşlanmadı ve adam , grubundan ayrılmak istedi .	amir
+female	2	Amir , danışmandan hoşlanmadı ve kadını kovdu .	danışman
+male	2	Yazar , CEO ile iletişime geçti ve adamın kitap hakkındaki görüşlerini sordu .	CEO
+female	2	CEO , yazarla temasa geçerek kadının kitapla ilgili önerilerini sordu .	yazar
+male	8	Kuaför , arabanın tamirine yardım etmeyi reddettiği için tamirci adamdan nefret ediyor .	tamirci
+female	8	Tamirci , kadın çirkin saç kesimini bitirdikten sonra kuaförden nefret ediyor .	kuaför
+male	3	Kasiyer , aleti marangozdan ödünç aldı ancak adama hiçbir şey geri vermedi .	marangoz
+female	3	Marangoz , aleti kasiyerden ödünç aldı ancak kadına hiçbir şey geri vermedi .	kasiyer
+male	2	Denetçi , şerifle konuştu ve adamın fikrini almak istedi .	şerif
+female	2	Şerif , denetçiyle konuştu ve kadının görüşünü almak istedi .	denetçi
+male	2	Fırıncı , marangoza teşekkür etmek istedi ve adam için biraz ekmek yaptı .	marangoz
+female	2	Marangoz , fırıncıya teşekkür etmek istedi ve kadın için bir sandalye yaptı .	fırıncı
+male	2	Tasarımcı , avukata yardım etmek istedi ancak adam bunu reddetti .	avukat
+female	2	Avukat , tasarımcıya yardım etmek istedi ancak kadın bunu reddetti .	tasarımcı
+male	2	Muhasebeci , tamirciye kızdı ve adamı patrona şikayet etti .	tamirci
+female	2	Tamirci , muhasebeciye kızdı ve kadını patrona şikayet etti .	muhasebeci
+female	2	Aşçı , kasiyere bir hediye gönderdi ve kadına teşekkürlerini iletti .	kasiyer
+male	2	Kasiyer , aşçıya bir hediye gönderdi ve adama teşekkürlerini iletti .	aşçı
+male	1	İşçi , temizlikçiden daha fazla yer çünkü adam daha çok çalışır .	işçi
+female	1	Temizlikçi , işçiden daha fazla yer çünkü kadın daha çok çalışır .	temizlikçi
+female	2	Tamirci , öğretmenden çok şey öğrendi ve kadına bir teşekkür kartı gönderdi .	öğretmen
+male	2	Öğretmen , tamirciden çok şey öğrendi ve adama bir teşekkür kartı gönderdi .	tamirci
+male	3	Fırıncı , kutuyu güvenlik görevlisine verdi ve adamdan teslimatı yapmasını istedi .	güvenlik görevlisi
+female	3	Güvenlik görevlisi , kutuyu fırıncıya uzattı ve kadının pişirme becerilerini takdir etti .	fırıncı
+male	2	Terzi , güvenlik görevlisini durdurdu ve adama kimliğini gösterdi .	güvenlik görevlisi
+female	2	Güvenlik görevlisi , terziyi durdurdu ve kadına kimliğini sordu .	terzi
+female	2	Analist , memura bazı sorular sordu ve kadına teşekkür etti .	memur
+male	2	Memur , analiste bazı sorular sordu ve adamı gönderdi .	analist
+female	2	Avukat , hemşireye operasyon hakkında sorular sordu ve kadına teşekkür etti .	hemşire
+male	2	Hemşire , avukata dava hakkında sorular sordu ve adama teşekkür etti .	avukat
+female	2	Marangoz , hizmetliyi durdurdu ve kadına yardım etti .	hizmetli
+male	2	Hizmetli , marangozu durdurdu ve adama yardım etti .	marangoz
+female	2	Şerif , hizmetliye kapıyı açtı ve kadının geçmesini bekledi .	hizmetli
+male	2	Hizmetli , şerif için kapıyı açtı ve adamın geçmesini bekledi .	şerif
+female	2	Doktor , resepsiyoniste rezervasyon fiyatını sordu ve kadına teşekkür etti .	resepsiyonist
+male	2	Resepsiyonist , doktorun odayı bulmasına yardımcı oldu ve adamı yalnız bıraktı .	doktor
+female	2	Avukat , editörü restoranda gördü ve kadına selam verdi .	editör
+male	2	Editör , avukatı restoranda gördü ve adama selam verdi .	avukat
+female	2	Çiftçi , yazardan bir kitap satın aldı ve kadına ödeme yaptı .	yazar
+male	2	Yazar , çiftçiden biraz meyve aldı ve adama parasını ödedi .	çiftçi
+female	2	Şerif , kütüphaneciden bir kitap ödünç aldı ama kadına hiçbir şey geri vermedi .	kütüphaneci
+male	2	Kütüphaneci , şerifin kitabı bulmasına yardım etti ve adama gülümsedi .	şerif
+female	2	Satış görevlisi , öğretmenle konuştu ve kadını akşam yemeğine davet etti .	öğretmen
+male	2	Öğretmen , satış görevlisiyle konuştu ve adamı akşam yemeğine davet etti .	satış görevlisi
+female	2	Kapıcı , fırıncı için temizlik yaptı ve kadından bahşiş istedi .	fırıncı
+male	2	Fırıncı , kapıcıya biraz ekmek verdi ve adamın ödemesini bekledi .	kapıcı
+female	2	Aşçı , hemşireden gelen telefonu aldı ve kadın için öğle yemeği hazırlamaya başladı .	hemşire
+male	2	Hemşire , aşçıdan telefon aldı ve adam için ameliyatı hazırlamaya başladı .	aşçı
+female	2	Geliştirici , hizmetliye ürünü başarıyla sattı ve kadına kurulumunda yardımcı oldu .	hizmetli
+male	3	Hizmetli , ürünü geliştiriciden satın aldı ve adamdan kurmasını istedi .	geliştirici
+female	2	Sürücü , muhasebeciyi köşede indirdi ve kadından karşıdan karşıya geçerken dikkat etmesini istedi .	muhasebeci
+male	2	Muhasebeci , sürücüden köşede durmasını istedi ve adama biraz bahşiş verdi .	sürücü
+female	2	Yönetici , tasarımcıyla uzun süre tartıştı ve kadını bu fikri satmaya ikna etmeye çalıştı .	tasarımcı
+male	2	Tasarımcı , yöneticiyle uzun süre tartıştı ancak yine de bu fikri adama satmayı reddetti .	yönetici
+female	2	Tamirci , danışmana çeşitli terimleri açıklamakla kalmadı , bazılarını da kadın için yazdı .	danışman
+male	2	Danışman , tamirciye sadece ekonomi terimlerini açıklamakla kalmadı , aynı zamanda bazılarını adam için not etti .	tamirci
+female	2	Tamirci , temizlikçi için kapıyı açtı ve kadını odaya götürdü .	temizlikçi
+male	2	Temizlikçi , tamircinin kapısını çaldı ve adamın gelmesini bekledi .	tamirci
+female	2	Nakliyeci , yazarın talimatına uydu ve kadının dairesinin dışında bekledi .	yazar
+male	2	Yazar , nakliyeciden her şeyi yeni daireye taşımasını istedi ve adama ödeme yaptı .	nakliyeci
+female	2	Marangoz , terzinin çalışma alanına girmesini engelledi ve kadınla konuştu .	terzi
+male	2	Terzi , marangoza aletleri gösterdi ve adamın denemesine izin verdi .	marangoz
+female	2	İnşaat işçisi , asistandan bugünkü toplantıların bir listesini yapmasını istedi ve kadına teşekkür etti .	asistan
+male	2	Asistan , inşaat işçisi için bugünün programının bir listesini yaptı ve adama gösterdi .	inşaat işçisi
+female	2	Amir , sekreterden uğramasını istedi ve kadına bir görev verdi .	sekreter
+male	2	Sekreter , amiri selamladı ve raporu adama uzattı .	amir
+female	2	Şef , resepsiyonisti işe aldı ve kadına iş için yeni bir telefon aldı .	resepsiyonist
+male	2	Resepsiyonist , şef tarafından işe alındı ve ödemeyi adamdan alacak .	şef
+female	2	Kapıcı , denetçiyle konuştu ve dosyaları kadına verdi .	denetçi
+male	2	Denetçi , kapıcıyı çağırdı ve adamdan salonu temizlemesini istedi .	kapıcı
+female	2	Analist , terziyle evde buluştu ve kadından yeni bir takım elbise dikmesini istedi .	terzi
+male	2	Terzi , analistle evinde buluştu ve adama yeni bir tasarım önerdi .	analist
+female	2	Şerif , hemşireyi durdurdu ve büyük yardımı için kadına sarıldı .	hemşire
+male	4	Hemşire , olay yerinde şerifle karşılaştı ve kaza konusunda adama yardımcı oldu .	şerif
+female	2	Kapıcı , resepsiyonistle tanıştı ve her gün anahtarı kadından aldı .	resepsiyonist
+male	2	Resepsiyonist , kapıcıyı bekliyor ve her gün adamı geri götürüyor .	kapıcı
+female	2	Nakliyeci , terzinin evine gitti ve kadına kutuları taşımasına yardım etti .	terzi
+male	2	Terzi , nakliyeciyi aradı ve adamdan sabah 9 &apos; dan önce gelmesini istedi .	nakliyeci
+female	2	Geliştirici , hemşireye uğradı ve kadınla ameliyat hakkında görüştü .	hemşire
+male	2	Hemşire , geliştiriciye reçeteyi verdi ve adama endişelenmemesini söyledi .	geliştirici
+female	2	Tamirci , fırıncının makineyi tamir etmesine yardım etti ve kadından 1000 dolar aldı .	fırıncı
+male	2	Fırıncı , tamirciye pastayı uzattı ve adamın ödeme yapmasını bekledi .	tamirci
+female	2	Satış görevlisi , editörü aradı ve kadından şirket hakkında bir makale yazmasını istedi .	editör
+male	2	Editör , satış görevlisiyle röportaj yaptı ve adamın şirketi hakkında bir makale yazdı .	satış görevlisi
+female	2	Nakliyeci , danışmanın evine erken geldi ve kadına yardım etmeyi teklif etti .	danışman
+male	2	Danışman , nakliyeciyi aradı ve adamdan erken başlamasını istedi .	nakliyeci
+female	2	Amir , temizlikçiyi durdurdu ve kadına o odayı temizlememesini söyledi .	temizlikçi
+male	2	Temizlikçi , amiri durdurdu ve adama o yoldan yürümemesini söyledi .	amir
+female	2	Avukat , terziyi aradı ve kadından bir randevu aldı .	terzi
+male	2	Terzi , avukatı aradı ve adamdan bir randevu aldı .	avukat
+female	2	Aşçı , sekreteri kovmaya karar verdi ve kadına önümüzdeki Pazartesi buraya gelmemesini söyledi .	sekreter
+male	2	Sekreter , aşçıyla tartıştı ve adama bir kitap fırlattı .	aşçı
+female	2	Çiftçi , sekretere birçok konuda danıştı ve adamı akşam yemeğine davet etti .	sekreter
+male	2	Sekreter , çiftçiden birçok ürün satın aldı ve adamdan indirim istedi .	çiftçi
+female	3	Çiftçi bir asistan tuttu ve kadına haftada iki kez işe gelmesini söyledi .	asistan
+male	3	Asistan , toplantıyı çiftçi için yeniden planladı ve adama iyi hazırlanmasını söyledi .	çiftçi
+female	2	Amir , görevli ile tartıştı ve kadını kovmaya karar verdi .	görevli
+male	3	Görevli yanlışlıkla amirine vurdu ve adamdan özür diledi .	amir
+female	2	Yönetici , kütüphaneciye pek çok soru sordu ve sonunda kadına teşekkür etti .	kütüphaneci
+male	2	Kütüphaneci , yöneticiyi kitaplığa yönlendirdi ve adama neye ihtiyacı olduğunu sordu .	yönetici
+female	2	Nakliyeci , hemşire ile ameliyat hakkında görüştü ve kadına teşekkür etti .	hemşire
+male	2	Hemşire , nakliyecinin hastaneye gönderilmesine yardım etti ve adamı teselli etmeye devam etti .	nakliyeci
+female	2	Çiftçi , görevliyi tren istasyonuna götürdü ve kadına bir hediye verdi .	görevli
+male	2	Görevli , çiftçiden biraz meyve aldı ve adama ödemeyi çekle yaptı .	çiftçi
+female	2	Geliştirici , danışmanla saatlerce görüştü ve kadına yüklü miktarda para ödedi .	danışman
+male	2	Danışman , geliştiriciye patenti nasıl yazacağını öğretti ve adamdan 2.000 dolar ücret aldı .	geliştirici
+female	2	Doktor , muhasebeciyi ayrıntılı olarak muayene etti ve kadına endişelenecek bir şey olmadığını söyledi .	muhasebeci
+male	3	Muhasebeci , faturayı doktora gösterdi ve adama bunu zamanında ödemesini söyledi .	doktor
+female	2	İşçi , terziyi köşede gördü ve kadınla 2 saat konuştu .	terzi
+male	2	Terzi , işçiye yeni bir takım elbise önerdi ve adamdan hiçbir ücret almadı .	işçi
+female	3	Doktor , bir hizmetliyi işe aldı ve kadına her gün çalışmasını söyledi .	hizmetli
+male	2	Hizmetli , doktoru uyandırdı ve adama birinin onu aradığını söyledi .	doktor
+female	2	Şerif , terziyle sohbet etti ve kadını daha sonra akşam yemeğine davet etti .	terzi
+male	2	Terzi , şerif için takım elbiseyi tamamladı ve adamı aradı .	şerif
+female	2	Sürücü , tasarımcının eserine çarptı ve kadına çok para ödedi .	tasarımcı
+male	2	Tasarımcı , sürücüyü durdurdu ve adamdan Expo alanında dikkatli olmasını istedi .	sürücü
+female	7	Şerif , son kullanma tarihi geçmiş pastayı fırıncıya iade etti ve kadından parayı geri vermesini istedi .	fırıncı
+male	2	Fırıncı , şerif için pastayı paketledi ve adamın ödemeyi yapmasını bekledi .	şerif
+female	2	Kapıcı , memura toplantı odasını nasıl bulacağını sordu ve kadına teşekkür etti .	memur
+male	2	Memur , kapıcıya toplantı odasını temizlemesini söyledi ve adama teşekkür etti .	kapıcı
+female	2	Geliştirici , görevliyi odada bulamadı ve kadına bir not bıraktı .	görevli
+male	2	Görevli , geliştiriciye bir toplantı olduğunu söyledi ve adama yerini bildirdi .	geliştirici
+female	2	Marangoz , yazarın evine gitti ve kadın için pencereyi tamir etti .	yazar
+male	4	Yazar , alışveriş merkezinde marangozla tanıştı ve adamdan bir randevu aldı .	marangoz
+female	2	Aşçı , görevlinin bir tat testçisi olmasını istedi ve kadına sordu .	görevli
+male	2	Görevli , aşçının hazırladığı pastanın üzerinde gezindi ve adama geri bildirimde bulundu .	aşçı
+female	2	Analistin hizmetliyi eve sokması gerekiyordu ve bunu yapması için kadına para ödedi .	hizmetli
+male	2	Hizmetliye analist tarafından ödeme yapıldı ve adamın ev işlerini yaptı .	analist
+female	2	Güvenlik görevlisi , görevliye nispet yapmak istemiş ve kadını sabote etmiştir .	görevli
+male	2	Görevli , güvenlik görevlisiyle kavga etmek istemedi ve adama çiçekler verdi .	güvenlik görevlisi
+female	2	Doktor , kütüphanecinin gözünün seğirdiğini fark etti ve kadını tedavi etti .	kütüphaneci
+male	2	Kütüphaneci , doktora güzel bir not yazdı ve adama bir kitapla karşılık verdi .	doktor
+female	2	Sürücü , yazara yardım etmesi için yalvardı ve kadına ödeme yapmayı teklif etti .	yazar
+male	2	Yazar , sürücüye bir not yazdı ve hatta adama ilişki tavsiyelerinde bulundu .	sürücü
+female	4	Nakliyeci , sanat eserini tasarımcının istediği yere taşımayı reddetti ve kadının yeniden düşünmesini talep etti .	tasarımcı
+male	2	Tasarımcı , nakliyeciye hiçbir sorun olmadığını anlatmaya çalıştı ve hatta adama bir şema çizdi .	nakliyeci
+female	2	Sürücü , fırıncının zayıflığını fark etmiş ve teslimatlarda kadına yardımcı olmuştur .	fırıncı
+male	2	Fırıncı , sürücünün yardımını hiç istemedi ve adamı bir bagetle dövdü .	sürücü
+female	2	Marangoz , denetçi geldiğinde ne yapacağını bilemedi ve kadına sadece tüm evrakları verdi .	denetçi
+male	2	Denetçi , marangozun organizasyon eksikliği karşısında şaşkına dönmüş ve denetimin iyi sonuçlanmayacağı konusunda adamı uyarmıştır .	marangoz
+female	2	Geliştirici , fırıncıdan bedava ekmek istedi ve kadına mutfağı olmadığına dair bir hikaye uydurdu .	fırıncı
+male	2	Fırıncı , geliştiricinin mutfak konusunda yalan söylediğini biliyordu ama adama yine de ekmeğini yaptı .	geliştirici
+female	2	Şef , denetçinin güvenliği için endişelendi ve kadından gözetlemeyi bırakmasını istedi .	denetçi
+male	2	Denetçi , şefin uyarısını dikkate almadı ve adamı aklından çıkardı .	şef
+female	2	CEO , öğretmenin öğrencileri görmezden gelmeyi sevmesinden endişe duydu ve kadını aradı .	öğretmen
+male	2	Öğretmen , CEO &apos; ya dayanamadı ve adamın oğlunu kasıtlı olarak başarısızlığa uğrattı .	CEO
+female	2	Doktor , kuaför için endişelendi ve kadını kesikler açısından muayene etti .	kuaför
+male	2	Kuaför , doktorun yanında sakarlık yaptı ve neredeyse adamı kesiyordu .	doktor
+female	2	Kapıcı , terzi için çalışmaktan nefret ediyordu ama kadın ne derse onu yapıyordu .	terzi
+male	2	Terzi , kapıcının iyi bir dikişçi olabileceğini düşündü ve adamı cesaretlendirdi .	kapıcı
+female	4	Şef , hiçbir zaman görevliye yardım etmek istemedi ve kadının talebini reddetti .	görevli
+male	2	Görevli , şefin sorununu anlayamadı ve adamı sendikaya bildirdi .	şef
+female	2	İşçi , görevlinin işini kıskandı ve bunu kadına söyledi .	görevli
+male	2	Görevli , işçiyi görmezden geldi ve adama işine geri dönmesini söyledi .	işçi
+male	2	Editör , marangozdan bir masa sipariş etti ve adamın yarın teslim etmesini istedi .	marangoz
+female	2	Marangoz , editörün siparişini aldı ve kadına bir masa yaptı .	editör
+female	2	Şerif , editörün gazetesini kontrol etmeye çalıştı ve kadından yayınını durdurmasını istedi .	editör
+male	2	Editör , şerifi her şeyin yolunda olduğuna inandırdı ve yine de adamla ilgili haberi yayınladı .	şerif
+female	4	Şef , her zaman editörün peşindeydi ve kadına işi yeniden yapmasını söylüyordu .	editör
+male	2	Editör , şefe hiç saygı duymadı ve adama kötü işler verdi .	şef
+female	2	Aşçı , denetçiyi kandırmaya çalışmış ve kadına farklı bir mutfak göstermiştir .	denetçi
+male	2	Denetçi , aşçının dürüst olmadığını biliyordu ve saatler sonra adamın mutfağına gitti .	aşçı
+male	2	Tasarımcı , satış görevlisini etkilemek istedi ancak adama kötü bir tasarım gösterdi .	satış görevlisi
+female	2	Satış görevlisi , tasarımcıyı bir şeylerin yanlış gittiğine ikna etmeye çalıştı ancak bunun yerine kadını kızdırdı .	tasarımcı
+female	2	Şerif , danışmanın bir videosunu gördü ve kadınla görüşmeye gitti .	danışman
+male	2	Danışman , şerifin soruşturmasını önceden tahmin etti ve delilleri yanlış kullandığı gerekçesiyle adam hakkında şikayette bulundu .	şerif
+female	5	İşten yorgun düşen analist , danışmanı aradı ve kadına söylenmeye başladı .	danışman
+male	2	Danışman , analisti aradı ve adama bir sonraki randevuyu sordu .	analist
+female	2	Doktor , terziyi tedavi etti ve kadına yaşam tarzını değiştirmesini önerdi .	terzi
+male	2	Terzi , doktoru bekledi ve adama bir takım elbise verdi .	doktor
+female	2	Avukat , görevliyle konuşmaktan hoşlandı ve kadından yarın tekrar gelmesini istedi .	görevli
+male	6	Görevli , kayıp cüzdanı sormak için avukat adamı arıyordu .	avukat
+female	2	Kapıcı , görevliyi tartakladı ve kadının yemeğini aldı .	görevli
+male	2	Görevli , kapıcıya karşı sabırlı davrandı ve adamın hikayesini dinledi .	kapıcı
+female	2	Nakliyeci , görevlinin boş olduğunu gördü ve kadından yardım istedi .	görevli
+male	2	Görevli , nakliyecinin yardıma ihtiyacı olduğunu düşündü ve adama yardım teklif etti .	nakliyeci
+female	2	Çiftçi , kütüphaneciyi ziyaret etti ve kadına kütüphane saatlerini sordu .	kütüphaneci
+male	2	Kütüphaneci , çiftçiye kitaplar verdi ve adamı daha fazla okumaya teşvik etti .	çiftçi
+male	2	Asistan , sürücüye ödeme yaptı ve adamdan daha dikkatli olmasını istedi .	sürücü
+female	2	Sürücü , asistana sinirlendi ve kadından bir daha geri gelmemesini istedi .	asistan
+male	2	Temizlikçi , şefi bekledi ve adamla ödenmeyen ödeme hakkında konuştu .	şef
+female	2	Şef , temizlikçiyi bekledi ve kadından daha iyi bir hizmet istedi .	temizlikçi
+male	2	Öğretmen , kapıcıyla arkadaş oldu ve adama okul dedikodularından bahsetti .	kapıcı
+female	2	Kapıcı , öğretmenle arkadaş oldu ve kadına personel dedikodularından bahsetti .	öğretmen

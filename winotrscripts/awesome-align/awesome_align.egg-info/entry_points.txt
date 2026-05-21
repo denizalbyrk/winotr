@@ -1,0 +1,3 @@
+[console_scripts]
+awesome-align = awesome_align.run_align:main
+awesome-train = awesome_align.run_train:main

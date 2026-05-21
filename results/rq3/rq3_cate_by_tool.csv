@@ -1,0 +1,10 @@
+tool_name,level_1,iate
+deepl,n,5533.0
+deepl,cate_mean,0.035670747243497766
+deepl,cate_se,0.005122912434937292
+google,n,5515.0
+google,cate_mean,0.005129423618195178
+google,cate_se,0.0053057083735685625
+openai,n,5283.0
+openai,cate_mean,-0.027171099327663525
+openai,cate_se,0.005302970576889739

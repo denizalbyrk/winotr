@@ -1,0 +1,6 @@
+Loaded predictor for language: de
+Loaded predictor for language: es
+Loaded predictor for language: es
+2024-12-19 15:13:19,786 - __main__ - WARNING - No translations extracted for openai, de, pro. Skipping.
+2024-12-19 15:13:19,967 - __main__ - WARNING - No translations extracted for openai, es, anti. Skipping.
+2024-12-19 15:13:20,149 - __main__ - WARNING - No translations extracted for openai, es, pro. Skipping.
